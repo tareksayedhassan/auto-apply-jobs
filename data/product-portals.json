@@ -1,0 +1,204 @@
+{
+  "companies": [
+    {
+      "name": "Postman",
+      "career_url": "https://www.postman.com/company/careers/",
+      "source_url": "https://www.postman.com/company/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "JetBrains",
+      "career_url": "https://www.jetbrains.com/careers/",
+      "source_url": "https://www.jetbrains.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Automattic",
+      "career_url": "https://automattic.com/work-with-us/",
+      "source_url": "https://automattic.com/work-with-us/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Mozilla",
+      "career_url": "https://www.mozilla.org/en-US/careers/",
+      "source_url": "https://www.mozilla.org/en-US/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Spotify",
+      "career_url": "https://www.lifeatspotify.com/",
+      "source_url": "https://www.lifeatspotify.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Netflix",
+      "career_url": "https://jobs.netflix.com/",
+      "source_url": "https://jobs.netflix.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Disney",
+      "career_url": "https://jobs.disneycareers.com/",
+      "source_url": "https://jobs.disneycareers.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Roku",
+      "career_url": "https://www.roku.com/jobs",
+      "source_url": "https://www.roku.com/jobs",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Unity",
+      "career_url": "https://unity.com/careers",
+      "source_url": "https://unity.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Epic Games",
+      "career_url": "https://www.epicgames.com/site/en-US/careers",
+      "source_url": "https://www.epicgames.com/site/en-US/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Electronic Arts",
+      "career_url": "https://www.ea.com/careers",
+      "source_url": "https://www.ea.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Ubisoft",
+      "career_url": "https://www.ubisoft.com/en-us/company/careers",
+      "source_url": "https://www.ubisoft.com/en-us/company/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Roblox",
+      "career_url": "https://careers.roblox.com/",
+      "source_url": "https://careers.roblox.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Duolingo",
+      "career_url": "https://careers.duolingo.com/",
+      "source_url": "https://careers.duolingo.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Notion",
+      "career_url": "https://www.notion.com/careers",
+      "source_url": "https://www.notion.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Airtable",
+      "career_url": "https://www.airtable.com/careers",
+      "source_url": "https://www.airtable.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Miro",
+      "career_url": "https://miro.com/careers/",
+      "source_url": "https://miro.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Canva",
+      "career_url": "https://www.lifeatcanva.com/",
+      "source_url": "https://www.lifeatcanva.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Figma",
+      "career_url": "https://www.figma.com/careers/",
+      "source_url": "https://www.figma.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Dropbox",
+      "career_url": "https://jobs.dropbox.com/",
+      "source_url": "https://jobs.dropbox.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.966Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    }
+  ]
+}

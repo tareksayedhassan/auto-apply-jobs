@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apply - Acme</title>
+<!-- A generic form guarded by an interactive reCAPTCHA v2 checkbox (fake: served locally, never solved). -->
+<style>body { font: 15px system-ui, sans-serif; max-width: 600px; margin: 24px auto; } label { display: block; margin-top: 10px; }</style>
+</head>
+<body>
+<form id="apply" action="/captcha/done" method="get">
+  <label for="name">Full name *</label><input id="name" name="name" required>
+  <label for="email">Email *</label><input id="email" name="email" type="email" required>
+  <div class="g-recaptcha" data-sitekey="test-key" style="margin-top:16px">
+    <div style="width: 304px; height: 78px;">
+      <iframe title="reCAPTCHA" width="304" height="78" role="presentation" frameborder="0" scrolling="no"
+        src="/recaptcha/api2/anchor?ar=1&amp;k=test-key&amp;co=local&amp;hl=en&amp;size=normal"></iframe>
+    </div>
+    <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="display: none;"></textarea>
+  </div>
+  <button type="submit">Submit</button>
+</form>
+</body>
+</html>

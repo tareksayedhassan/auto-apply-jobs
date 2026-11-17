@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+*.log
+test/.tmp
+scripts/seed-candidates/local-slugs.json
+
+# Private working notes and personal strategy files stay out of the public tree.
+/STATE.md
+/strategy/*.json
+!/strategy/example.json

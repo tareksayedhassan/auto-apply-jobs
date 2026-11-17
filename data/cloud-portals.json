@@ -1,0 +1,204 @@
+{
+  "companies": [
+    {
+      "name": "GitHub",
+      "career_url": "https://www.github.careers/",
+      "source_url": "https://www.github.careers/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Career lookup attempted; no readable/verified page returned. Resume through alternate official source when available."
+    },
+    {
+      "name": "Docker",
+      "career_url": "https://www.docker.com/career-openings/",
+      "source_url": "https://www.docker.com/career-openings/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "HashiCorp",
+      "career_url": "https://www.hashicorp.com/career",
+      "source_url": "https://www.hashicorp.com/career",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Career lookup attempted; no readable/verified page returned. Resume through alternate official source when available."
+    },
+    {
+      "name": "Cloudflare",
+      "career_url": "https://www.cloudflare.com/careers/",
+      "source_url": "https://www.cloudflare.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Akamai",
+      "career_url": "https://www.akamai.com/careers",
+      "source_url": "https://www.akamai.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Fastly",
+      "career_url": "https://www.fastly.com/about/careers",
+      "source_url": "https://www.fastly.com/about/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Dynatrace",
+      "career_url": "https://careers.dynatrace.com/",
+      "source_url": "https://careers.dynatrace.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "New Relic",
+      "career_url": "https://newrelic.com/about/careers",
+      "source_url": "https://newrelic.com/about/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Elastic",
+      "career_url": "https://www.elastic.co/careers",
+      "source_url": "https://www.elastic.co/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Splunk",
+      "career_url": "https://www.splunk.com/en_us/careers.html",
+      "source_url": "https://www.splunk.com/en_us/careers.html",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Redis",
+      "career_url": "https://redis.io/careers/",
+      "source_url": "https://redis.io/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Confluent",
+      "career_url": "https://careers.confluent.io/",
+      "source_url": "https://careers.confluent.io/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Snowflake",
+      "career_url": "https://careers.snowflake.com/",
+      "source_url": "https://careers.snowflake.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Databricks",
+      "career_url": "https://www.databricks.com/company/careers",
+      "source_url": "https://www.databricks.com/company/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Cockroach Labs",
+      "career_url": "https://www.cockroachlabs.com/careers/",
+      "source_url": "https://www.cockroachlabs.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "DigitalOcean",
+      "career_url": "https://www.digitalocean.com/careers",
+      "source_url": "https://www.digitalocean.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Vercel",
+      "career_url": "https://vercel.com/careers",
+      "source_url": "https://vercel.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Netlify",
+      "career_url": "https://www.netlify.com/careers/",
+      "source_url": "https://www.netlify.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Supabase",
+      "career_url": "https://supabase.com/careers",
+      "source_url": "https://supabase.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Sentry",
+      "career_url": "https://sentry.io/careers/",
+      "source_url": "https://sentry.io/careers/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:37:21.382Z",
+      "notes": "Career lookup attempted; no readable/verified page returned. Resume through alternate official source when available."
+    }
+  ]
+}

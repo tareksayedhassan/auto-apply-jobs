@@ -1,0 +1,41 @@
+{
+ "jobPostingInfo": {
+  "id": "00bc3ed07241101fd0a4abe2ff380000",
+  "title": "Senior System Software Engineer, CUDA Driver for Windows",
+  "jobDescription": "<div><div><p><span><span>NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world.<span> </span></span><span>We&#39;re</span><span><span> </span>looking to grow our company and form teams with the most inquisitive people in the world. Join us at the forefront of technological advancement. We are hiring software engineers to work on the CUDA driver for Windows. CUDA is NVIDIA’s platform for accelerating general purpose computation on the GPU. Our team delivers features and improvements to better realize the potential of NVIDIA hardware for a growing range of computational workloads, ranging from deep learning, scientific computation, and self-driving cars to video games and virtual reality. CUDA defines a unified programming model across a range of system configurations and hardware capabilities. To<span> </span></span><span>accomplish</span><span><span> </span>this, the CUDA driver interacts with GPU hardware, kernel mode drivers, user mode drivers, and the operating system.</span></span><span> </span></p></div><div><p></p><p><b><span>What<span> </span></span><span>you’ll</span><span><span> </span>be doing:</span></b><span> </span></p></div><div><p><span><span>As a member of our team, you will use your design abilities, coding<span> </span></span><span>expertise</span><span>, and creativity to deliver the best<span> </span></span><span>compute</span><span><span> </span>platform in the world. You will craft elegant solutions to exciting problems and shape the future direction of CUDA as you collaborate with your peers across NVIDIA.</span></span><span> </span></p></div><div><ul><li><p><span><span>You will architect and implement new features</span></span><span> </span></p></li><li><p><span><span>Coordinate development efforts across multiple teams</span></span><span> </span></p></li><li><p><span><span>Help define forward-looking improvement to the CUDA APIs and programming model</span></span><span> </span></p></li><li><p><span><span>Write effective, maintainable, and well-tested code</span></span><span> </span></p></li><li><p><span><span>Focus on developing code that targets the Microsoft Windows operating system</span></span><span> </span></p></li></ul></div><div><p></p><p><b><span>What we need to see:</span></b><span> </span></p></div><div><ul><li><p><span><span>BS or MS degree in Computer Science, Electrical<span> </span></span><span>Engineering</span><span><span> </span>or related field (or equivalent experience)</span></span><span> </span></p></li><li><p><span><span>8&#43; years of relevant industry experience or equivalent academic experience after BS</span></span><span> </span></p></li><li><p><span><span>Strong C and C&#43;&#43; programming skills</span></span><span> </span></p></li><li><p><span><span>Experience working with large codebases</span></span><span> </span></p></li><li><p><span><span>Experience with operating system interfaces for threads, process control, and virtual memory</span></span><span> </span></p></li><li><p><span><span>Experience writing and debugging multithreaded programs</span></span><span> </span></p></li><li><p><span><span>Understanding of system level architecture, such as interconnects, memory hierarchy, interrupts, and memory-mapped IO</span></span><span> </span></p></li><li><p><span><span>Strong interest in system software</span></span><span> </span></p></li><li><p><span><span>Knowledge of memory coherence and consistency models</span></span><span> </span></p></li><li><p><span><span>Good written communication</span></span><span> </span></p></li></ul></div></div><div><div><p></p><p><b><span>Ways to stand out from the crowd:</span></b><span> </span></p></div><div><ul><li><p><span><span>Windows Display Driver Model (WDDM) experience</span></span><span> </span></p></li><li><p><span><span>Experience with game development</span></span><span> </span></p></li><li><p><span><span>Background in computer graphics (OpenGL, Vulkan, DirectX)</span></span><span> </span></p></li><li><p><span><span>Experience writing Windows device drivers</span></span><span> </span></p></li><li><p><span><span>Experience with kernel mode development</span></span><span> </span></p></li></ul></div></div><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p>Your base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary ranges for this position are:<br>184,000 USD – 287,500 USD for Level 4; and 224,000 USD – 356,500 USD for Level 5.<div><div><div><div><div><div><div><p></p><p><span>You will also be eligible for equity and <a href=\"https://www.nvidia.com/en-us/benefits/\" target=\"_blank\">benefits</a>.</span></p><p></p></div></div></div></div></div></div></div>Applications for this job will be accepted at least until November 6, 2026.<p></p><p>This posting is for an existing vacancy. </p><p>NVIDIA uses AI tools in its recruiting processes.</p><p></p>NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p>",
+  "location": "US, CA, Santa Clara",
+  "additionalLocations": [
+   "US, TX, Austin",
+   "US, Remote"
+  ],
+  "postedOn": "Posted Today",
+  "startDate": "2026-11-02",
+  "timeType": "Full time",
+  "jobReqId": "JR2022474",
+  "jobPostingId": "Senior-System-Software-Engineer--CUDA-Driver-for-Windows_JR2022474",
+  "jobPostingSiteId": "NVIDIAExternalCareerSite",
+  "country": {
+   "descriptor": "United States of America",
+   "id": "bc33aa3152ec42d4995f4791a106ed09"
+  },
+  "canApply": true,
+  "posted": true,
+  "includeResumeParsing": true,
+  "jobRequisitionLocation": {
+   "descriptor": "US, CA, Santa Clara",
+   "country": {
+    "descriptor": "United States of America",
+    "id": "bc33aa3152ec42d4995f4791a106ed09",
+    "alpha2Code": "US"
+   }
+  },
+  "externalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--CUDA-Driver-for-Windows_JR2022474",
+  "questionnaireId": "2f2764b3a82910064296831695150000",
+  "endDate": "2026-12-15"
+ },
+ "hiringOrganization": {
+  "name": "2100 NVIDIA USA",
+  "url": ""
+ },
+ "userAuthenticated": false
+}

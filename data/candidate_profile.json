@@ -1,0 +1,242 @@
+{
+  "name": "Tarek Elsayed",
+  "headline": "Backend Engineer",
+  "phone": "+201003383601",
+  "email": "tarekelsayed.dev@gmail.com",
+  "location": "Alexandria, Egypt",
+  "website": "https://tarekelsayed.com",
+  "github": "https://github.com/tareksayedhassan",
+  "source": "Tarek-Elsayed-Resume.pdf",
+  "source_metadata": {
+    "sha256": "b497003cababe7dbe2fd766c5e0943d80fdfbfb17cedfe237dec6552a1583827",
+    "pages": 1,
+    "method": "Embedded ToUnicode maps and all BT/ET text in page contents",
+    "links": [
+      "tel:+201003383601",
+      "mailto:tarekelsayed.dev@gmail.com",
+      "https://tarekelsayed.com/",
+      "https://www.linkedin.com/in/tarek-el-sayed-06139631b/?isSelfProfile=true",
+      "https://github.com/tareksayedhassan",
+      "https://luxuryvec.com/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/",
+      "https://ar.skoda-egypt.com/",
+      "https://mawlha.com/ar",
+      "https://akheel.net/",
+      "https://www.bhi47.com/"
+    ]
+  },
+  "summary": "Backend Software Engineer specializing in Node.js, NestJS, and TypeScript, with hands-on experience building and deploying production applications \nfrom scratch. Skilled in designing RESTful APIs, backend architecture, authentication systems, CRM integrations, and custom ERP solutions. Experienced \nwith MySQL, Redis, AWS cloud deployments, and delivering reliable backend services for web and mobile applications.",
+  "skills": [
+    {
+      "category": "Backend",
+      "items": [
+        "Node.js",
+        "NestJS",
+        "Express.js"
+      ]
+    },
+    {
+      "category": "Databases & ORM",
+      "items": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "Prisma",
+        "TypeORM"
+      ]
+    },
+    {
+      "category": "Authentication",
+      "items": [
+        "JWT",
+        "OTP",
+        "Google OAuth",
+        "Signed Uploads"
+      ]
+    },
+    {
+      "category": "Integrations & Services",
+      "items": [
+        "String CRM",
+        "Cloudinary",
+        "Firebase/FCM",
+        "SMS/OTP APIs",
+        "Third-Party API Integrations"
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "items": [
+        "Docker",
+        "AWS",
+        "VPS Administration",
+        "GitHub Actions",
+        "CI/CD",
+        "Production Deployment",
+        "CloudPanel"
+      ]
+    },
+    {
+      "category": "Languages",
+      "items": [
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "category": "Frontend Exposure",
+      "items": [
+        "React.js",
+        "Next.js",
+        "React Native",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "category": "Tools & Version Control",
+      "items": [
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "category": "Additional",
+      "items": [
+        "Technical SEO",
+        "Performance Optimization"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Luxury Vehicles",
+      "title": "Backend Software Engineer",
+      "start": "2026-01",
+      "end": null
+    },
+    {
+      "company": "Skoda Auto",
+      "title": "Full-Stack Developer",
+      "start": "2025-01",
+      "end": "2025-11"
+    },
+    {
+      "company": "Top Quality Automotive",
+      "title": "Full-Stack Developer",
+      "start": "2025-01",
+      "end": "2025-03"
+    }
+  ],
+  "experience_source": "Luxury Vehicles\nJan 2026 – Present\nBackend Software Engineer\n•\nSolely built and launched Mawlha, processing 1,000+ financing applications and 50+ reservation requests, with 150+ vehicles across 70+ brands.\n•\nDeveloped production web and mobile applications using Node.js, NestJS, TypeScript, MySQL, and Redis.\n•\nManaged VPS infrastructure, Docker, and GitHub Actions CI/CD, optimizing deployment and production reliability.\n•\nIntegrated String CRM APIs and optimized image handling using Cloudinary signed uploads, reducing backend processing overhead.\n•\nSupported Swapcar and Baddelha development, infrastructure, and production operations.\nSkoda Auto\nJan 2025 – Nov 2025\nFull-Stack Developer \n•\nDeveloped a spare-parts pricing platform using Next.js and Prisma, replacing manual Excel workflows.\n•\nBuilt a centralized system serving 20+ employees across 2 branches, managing pricing for Skoda, Volkswagen, and Audi.\n•\nImplemented Role-Based Access Control (RBAC) and streamlined spare-parts price verification for maintenance teams.\nTop Quality Automotive\nJan 2025 – Mar 2025\nFull-Stack Developer \n•\nBuilt a custom ERP system to replace the company’s legacy ERP, implementing complex business modules and operational workflows.\n•\nDeveloped the system end-to-end across backend, frontend, database logic, and internal process automation.",
+  "projects": [
+    {
+      "name": "Mawlha Automotive Platform",
+      "role": "Full-Stack Software Engineer",
+      "start": "2026-01",
+      "end": null
+    },
+    {
+      "name": "Akhil Tourism",
+      "role": "Independent Project",
+      "start": "2026-04",
+      "end": "2026-09"
+    }
+  ],
+  "projects_source": "Mawlha Automotive Platform — Full-Stack Software Engineer\nJan 2026 – Present\n•\nDesigned and developed a complete automotive financing platform, including backend APIs, web frontend, and mobile applications.\n•\nImplemented financing workflows, JWT/OTP authentication, vehicle inventory, reservations, and external service integrations.\n•\nPublished the mobile application on iOS and Android, supporting a live platform processing customer financing applications.\nAkhil Tourism — Independent Project\nApr 2026 – Sep 2026\n•\nBuilt the backend architecture, REST APIs, authentication with JWT & Google OAuth, and the internal admin dashboard.\n•\nManaged infrastructure and production deployment, while collaborating with the team on the website frontend.",
+  "education": {
+    "degree": "Bachelor’s Degree in Management Information Systems (MIS)",
+    "location": "Alexandria",
+    "start_year": 2020,
+    "end_year": 2024,
+    "institution": "Alexandria University, Egypt",
+    "graduation_month": null
+  },
+  "languages": {
+    "Arabic": "Native",
+    "English": "Intermediate",
+    "German": null
+  },
+  "answers_file": "candidate_answers.json",
+  "unknowns": [
+    "Exact graduation date",
+    "Citizenship",
+    "Date of birth / adult eligibility",
+    "Street address",
+    "Salary expectations",
+    "Formal language certificates",
+    "DSA/OOP experience beyond listed project evidence"
+  ],
+  "notes": [
+    "Concurrent employment must not be summed as extra years",
+    "No embedded C++, AUTOSAR, ADAS or functional safety experience is listed",
+    "Latest candidate_answers.json overrides earlier answers"
+  ],
+  "search_titles": [
+    "Backend Engineer",
+    "Backend Software Engineer",
+    "Node.js Developer",
+    "NestJS Developer",
+    "TypeScript Engineer",
+    "Full-Stack Developer",
+    "Software Engineer",
+    "Automotive Platform Software Engineer",
+    "ERP Developer"
+  ],
+  "confirmed_answers": {
+    "source": "Latest explicit user confirmation, 2026-11-17",
+    "usa_work_authorized": false,
+    "usa_requires_sponsorship": true,
+    "germany_work_authorized": false,
+    "germany_requires_work_visa_or_residence_permit": true,
+    "requires_sponsorship_or_immigration_support_where_applicable": true,
+    "willing_to_relocate_internationally": true,
+    "country_priorities": [
+      "USA",
+      "Germany",
+      "Netherlands",
+      "Canada",
+      "Ireland",
+      "UK",
+      "Switzerland",
+      "Sweden",
+      "Denmark",
+      "Australia",
+      "UAE",
+      "Other"
+    ],
+    "english": {
+      "level": "Intermediate",
+      "approximate_cefr": "B1-B2",
+      "formally_certified": false,
+      "fluent": false
+    },
+    "german": {
+      "level": null,
+      "status": "Not yet confirmed; do not assume proficiency"
+    },
+    "earliest_start": "30 days after accepting a job offer, subject to visa processing and relocation requirements",
+    "instructions": [
+      "Do not ask these questions again",
+      "Prioritize English-speaking technical roles and sponsorship/relocation",
+      "Do not reject solely for good English requirements",
+      "Never claim English or German fluency",
+      "Continue research when individual applications are blocked"
+    ],
+    "education": {
+      "university": "Alexandria University, Egypt",
+      "degree": "Bachelor's Degree in Management Information Systems (MIS)",
+      "graduation_year": 2024,
+      "graduation_month": null
+    },
+    "current_country": "Egypt",
+    "holds_foreign_work_or_residence_permits": false,
+    "foreign_work_authorization": false,
+    "eu_work_or_residence_permit": false,
+    "immigration_policy": "USA requires employer sponsorship. Germany and other countries require appropriate employment visa/residence permit; willing to complete process independently where legally possible, with employer support where available.",
+    "salary_expectations": {
+      "fixed_requirement": null,
+      "policy": "Research current role/city market, verified experience, company published range, taxes, living costs, total compensation, relocation and visa support. Prioritize competitive pay and career growth; avoid financially impractical offers.",
+      "mandatory_numeric_field": "Prepare a researched recommendation and obtain candidate confirmation before submitting. Do not invent an exact expectation."
+    }
+  }
+}

@@ -1,0 +1,562 @@
+# From memory of public lists: Forbes AI 50, a16z / Sequoia / Accel / Founders Fund / Greylock / Index / Benchmark / General Catalyst portfolios, Built In / Inc lists.
+Abridge
+Adept AI
+Anysphere
+Applied Intuition
+Augment Code
+Bland AI
+Brightwave
+Cartesia
+Chai Discovery
+Clarifai
+Cognition AI
+Crusoe Energy
+Dataminr
+DeepL
+DeepMind
+Eleven Labs
+Etched
+Exa
+Fal.ai
+Figure
+Genspark
+Glean
+Gretel
+Hippocratic AI
+Hume AI
+Isomorphic Labs
+Kindo
+Lamini
+Lightmatter
+Luma AI
+Mem
+Moonshot
+Notion
+OpenEvidence
+Orby
+Pika
+Physical Intelligence
+Rime
+Sana
+Safe Superintelligence
+Skild AI
+Sierra AI
+Tessl
+Thinking Machines Lab
+Unstructured
+Vapi
+Watershed
+Writer Inc
+Ambience Healthcare
+Nabla
+Suki
+Tennr
+Cohere Health
+Abridge AI
+Commure
+Zus Health
+Elation Health
+Healthie
+Ro Health
+Truepill
+Capsule
+Alto Pharmacy
+Cityblock Health
+Included Health
+Carbon Health
+One Medical
+Forward
+Parsley Health
+Sword Health
+Omada Health
+Virta Health
+Livongo
+Ovia
+Maven Clinic
+Progyny
+Kindbody
+Tia
+Clue
+Natural Cycles
+Eight Sleep
+Levels
+Function Health
+Everlywell
+Nurx
+Thirty Madison
+Talkspace
+BetterHelp
+Brightside
+Cerebral Inc
+Done
+Mindbloom
+Ketamine
+Lyra
+Modern Health
+Headway
+Alma
+Grow Therapy
+Rula
+SimplePractice
+Jane App
+Tebra
+Athenahealth
+Zocdoc Inc
+Hims
+Curology
+Warby Parker
+Allbirds
+Glossier
+Everlane
+Away
+Casper
+Purple
+Brooklinen
+Parachute
+Outdoor Voices
+Gymshark
+Rent the Runway
+StitchFix
+Stitch Fix
+ThredUp
+Poshmark
+Depop
+Mercari
+Vinted
+GOAT
+StockX
+Grailed
+Faire Wholesale
+Ankorstore
+Wayfair
+Chewy
+Petco
+Rover
+Wag
+BarkBox
+Farmer's Dog
+Ollie
+Thrive Market
+Imperfect Foods
+Misfits Market
+Gopuff
+Flink
+Getir
+Weee
+Instacart Inc
+Blue Apron
+HelloFresh
+Factor
+Sweetgreen
+Cava
+Chipotle
+Starbucks
+Shake Shack
+Toast Inc
+Olo
+Resy
+OpenTable
+Yelp
+Tock
+SevenRooms
+Mindbody
+ClassPass
+Equinox
+Planet Fitness
+Beachbody
+Tonal
+Mirror
+Hydrow
+Whoop Inc
+Fitbit
+Garmin
+GoPro
+Sonos
+Peloton Interactive
+iFit
+Zwift
+Rapha
+On Running
+Hoka
+Lululemon
+Nike
+Patagonia
+REI
+Backcountry
+Outdoorsy
+Hipcamp
+Airbnb Inc
+Vrbo
+Sonder
+Inspirato
+Turo
+Getaround
+Bird
+Lime
+Spin
+Voi
+Tier
+Helbiz
+Via
+Optibus
+Remix
+Swiftly
+Cubic
+Transit
+Moovit
+Citymapper
+Waze
+Mapbox
+Here Technologies
+TomTom
+Foursquare
+Placer.ai
+SafeGraph
+Precisely
+Esri
+Planet
+Maxar
+BlackSky
+Satellogic
+Capella Space
+Umbra
+ICEYE
+Astra
+Firefly Aerospace
+Stoke Space
+Varda Space
+Impulse Space
+Sierra Space
+Axiom Space
+Vast
+Blue Origin
+Virgin Galactic
+Ursa Major
+Anduril Industries
+Castelion
+Chaos Industries
+Hermeus
+Muon Space
+True Anomaly
+Apex Space
+K2 Space
+Cesium
+Vannevar Labs
+Rebellion Defense
+Govini
+Primer
+Scale AI Public Sector
+Mach Industries
+Neros
+Shield AI Inc
+Skydio Inc
+Zipline Inc
+Matternet
+Flytrex
+Wing Aviation
+Nuro Inc
+Gatik
+Kodiak Robotics
+Plus
+Embark
+TuSimple
+Waabi
+Stack AV
+Torc Robotics
+Motional
+May Mobility
+Pony.ai
+WeRide
+Mobileye
+Luminar
+Ouster
+Velodyne
+Aeva
+Innoviz
+Hesai
+Cepton
+Arbe
+Oculii
+Recogni
+Ambarella
+SiFive
+Tenstorrent
+Rivos
+Ampere
+Groq Inc
+d-Matrix
+Rain AI
+Mythic
+Untether AI
+Hailo
+Blaize
+Lightelligence
+Celestial AI
+Ayar Labs
+Rockley
+PsiQuantum
+IonQ
+Rigetti
+Quantinuum
+Atom Computing
+QuEra
+Pasqal
+Xanadu
+Alice & Bob
+Zapata
+Classiq
+Q-CTRL
+Riverlane
+Commonwealth Fusion Systems
+Helion
+TAE Technologies
+Pacific Fusion
+General Fusion
+Type One Energy
+Zap Energy
+Oklo
+TerraPower
+Kairos Power
+X-energy
+NuScale
+Radiant
+Valar Atomics
+Last Energy
+Fervo Energy
+Sage Geosystems
+Quaise
+Form Energy
+Antora Energy
+Heirloom
+Climeworks
+Carbon Engineering
+Charm Industrial
+Pachama
+Watershed Inc
+Persefoni
+Sweep
+Normative
+Patch
+Cloverly
+Arcadia
+Palmetto
+Sunrun
+Sunnova
+Enphase
+SolarEdge
+Tesla Energy
+Span
+Lunar Energy
+Redwood Materials
+Li-Cycle
+Ascend Elements
+Northvolt
+Lyten
+Sila Nano
+Group14
+Solid Power
+QuantumScape
+Ionic Materials
+ESS Tech
+Eos Energy
+Stem
+Fluence
+Voltus
+Octopus Energy
+Bulb
+Ohm Connect
+Rewiring America
+Electrify America
+ChargePoint
+EVgo
+Tritium
+Wallbox
+Blink
+Volta
+Nuvve
+Proterra
+Lion Electric
+Canoo
+Fisker
+Lordstown
+Nikola
+Hyliion
+Xos
+Rivian Automotive
+Lucid
+Polestar
+VinFast
+Zeekr
+NIO
+Xpeng
+Li Auto
+Ola Electric
+Ather
+Zomato
+Swiggy
+Flipkart
+Razorpay
+Zerodha
+Groww
+CRED
+PhonePe
+Paytm
+Meesho
+Ola
+Byju's
+Unacademy
+Vedantu
+Dream11
+ShareChat
+Freshworks Inc
+Zoho
+Postman Inc
+BrowserStack
+Chargebee
+Druva
+Icertis
+Gojek
+Grab
+Sea
+Shopee
+Tokopedia
+Traveloka
+Lazada
+Carousell
+Razer
+Agoda
+Booking.com
+Expedia
+TripAdvisor
+Kayak
+Skyscanner
+Hopper
+Vacasa
+Selina
+Zeus Living
+Blueground
+Sonder Holdings
+WeWork
+Industrious
+Knotel
+Convene
+Regus
+Breather
+Zuora
+Chargify
+Recurly
+Paddle
+FastSpring
+Chargebee Inc
+Lago
+Orb
+Metronome
+Stigg
+m3ter
+Maxio
+Baremetrics
+ProfitWell
+ChartMogul
+Vendr
+Tropic
+Zylo
+Torii
+BetterCloud
+Productiv
+Zluri
+Sastrify
+Spendflo
+Ramp Business Corporation
+Airbase
+Spendesk
+Pleo
+Payhawk
+Moss
+Soldo
+Divvy
+Center
+Teampay
+Tribal Credit
+Jeeves
+Clara
+Kriya
+Mundi
+Capitual
+Ualá
+Mercado Libre
+Rappi
+Nubank Inc
+Creditas
+Stone
+PagSeguro
+Cora
+Kavak
+Clip
+Konfio
+Bitso
+Kueski
+Betterfly
+Globant
+Wolt
+Bolt Technology
+Glovo
+Delivery Hero
+Just Eat
+Deliveroo
+Zalando
+About You
+Trade Republic
+Scalable Capital
+Bunq
+Mollie
+Adyen NV
+Sumup
+Klarna Bank
+Tink
+Trustly
+Zettle
+Spotify AB
+Soundtrack
+Epidemic Sound
+King
+Supercell
+Rovio
+Paradox Interactive
+CD Projekt
+Ubisoft
+Embracer
+Mojang
+Techland
+Wargaming
+Playtika
+Moon Active
+Wix.com
+Monday.com
+Fiverr International
+Lemonade Inc
+Payoneer Global
+Riskified
+Sapiens
+Check Point Software
+CyberArk Software
+Wiz Inc
+Snyk Ltd
+Armis
+Cato
+Orca
+Aqua
+Pentera
+Cyera
+Axonius
+Transmit Security
+Papaya Global
+Melio Payments
+Rapyd Financial
+Nayax
+JFrog Ltd
+Similarweb
+Taboola
+Outbrain
+AppsFlyer
+Lightricks
+Playtika Holding

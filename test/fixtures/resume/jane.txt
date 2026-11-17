@@ -1,0 +1,26 @@
+Jane Doe
+jane.doe@example.com | (212) 555-0142 | Brooklyn, NY | github.com/janedoe | janedoe.dev
+Full-stack engineer who ships developer tools and talks to the people who use them.
+
+Experience
+Acme Robotics	San Francisco, CA
+Senior Software Engineer	March 2021 - Present
+- Built the fleet dashboard in React and TypeScript used by 120 operators across 14 warehouses
+- Cut API p95 latency by 38% by moving hot paths to Postgres materialized views and Redis caching
+- Mentored 4 engineers and led the migration of 60 services to Kubernetes
+Beta Labs	Remote
+Software Engineer	June 2018 - February 2021
+- Shipped a billing service in Python that processed $2.4M in monthly payments
+- Reduced CI time from 40 minutes to 9 minutes by parallelizing the test suite
+
+Projects
+Tidepool
+- Open-source tide forecasting CLI with 900 GitHub stars
+
+Education
+State University	Austin, TX
+B.S. in Computer Science	2014 - 2018
+
+Skills
+Languages: TypeScript, Python, Go, SQL
+Tools: React, Postgres, Redis, Kubernetes, Docker

@@ -1,0 +1,160 @@
+{
+  "createdAt": "2026-11-17T15:33:22.666Z",
+  "actions": [
+    {
+      "action": "DELETE",
+      "path": "scripts/seed.cjs",
+      "reason": "Target queue already preserved; OpenApply owns discovery",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/research.cjs",
+      "reason": "Abandoned parallel researcher depends on retired legacy writer",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/report-state.cjs",
+      "reason": "Superseded report rewriter hardcodes obsolete browser outcomes",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/connectivity-report.cjs",
+      "reason": "Superseded diagnostic report generator hardcodes old network results",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/connectivity-diagnostics.cjs",
+      "reason": "Old multi-browser diagnostics replaced by one Chrome capture entry point",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/finalize-chrome.cjs",
+      "reason": "One-time historical report rewriting",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/chrome-configure.cjs",
+      "reason": "One-time browser config mutation",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/chrome-smoke.cjs",
+      "reason": "Repeated historical portal smoke loop replaced by targeted capture",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/update-confirmed.cjs",
+      "reason": "One-time answer patch; confirmed answers preserved",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/profile.cjs",
+      "reason": "Old candidate/variant generator superseded by checked OpenApply projection",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/resume-pdf.cjs",
+      "reason": "Parallel PDF generator superseded by OpenApply",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/verify.cjs",
+      "reason": "Checks obsolete exports and legacy database schema",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "scripts/xlsx.cjs",
+      "reason": "Old generated export utility; workbook retained as historical",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "tests/agent.test.cjs",
+      "reason": "Tests removed writer; replaced by migration and upstream integration tests",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "DELETE",
+      "path": "agent/instructions.md",
+      "reason": "Obsolete instructions to resume research; consolidated AGENTS.md owns workflow",
+      "recovery": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\backups\\2026-11-17T15-23-33-147Z"
+    },
+    {
+      "action": "MIGRATE",
+      "path": "applications.xlsx",
+      "to": "reports\\historical\\applications.xlsx",
+      "reason": "Historical export/report; contents retained"
+    },
+    {
+      "action": "MIGRATE",
+      "path": "companies.csv",
+      "to": "reports\\historical\\companies.csv",
+      "reason": "Historical export/report; contents retained"
+    },
+    {
+      "action": "MIGRATE",
+      "path": "jobs.csv",
+      "to": "reports\\historical\\jobs.csv",
+      "reason": "Historical export/report; contents retained"
+    },
+    {
+      "action": "MIGRATE",
+      "path": "final_report.md",
+      "to": "reports\\historical\\final_report.md",
+      "reason": "Historical export/report; contents retained"
+    },
+    {
+      "action": "MIGRATE",
+      "path": "browser_diagnostic_report.md",
+      "to": "reports\\historical\\browser_diagnostic_report.md",
+      "reason": "Historical export/report; contents retained"
+    },
+    {
+      "action": "MIGRATE",
+      "path": "chrome_browser_report.md",
+      "to": "reports\\historical\\chrome_browser_report.md",
+      "reason": "Historical export/report; contents retained"
+    }
+  ],
+  "keep": [
+    "Tarek-Elsayed-Resume.pdf",
+    "candidate_answers.json",
+    "data/candidate_profile.json",
+    "data/resume.txt",
+    "data/jobs.sqlite",
+    "openapply/.git",
+    "data/* research inputs and evidence"
+  ],
+  "regenerate": [
+    "openapply/dist",
+    "extensions/dist",
+    "dashboard.html"
+  ],
+  "merge": [
+    "Original tracker history into OpenApply tables; legacy rows retained"
+  ],
+  "generatedCleanup": [
+    {
+      "action": "REGENERATE",
+      "path": "openapply/.recovery-tests",
+      "reason": "Compiled test build removed after successful run; rebuilt by test:upstream"
+    },
+    {
+      "action": "DELETE",
+      "path": "agent",
+      "reason": "Empty directory after backed-up instruction removal"
+    }
+  ]
+}

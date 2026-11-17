@@ -1,0 +1,56 @@
+{
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "email": "jane.doe@example.com",
+  "phone": "+1 555 010 0000",
+  "location": "Austin, TX, USA",
+  "pronouns": "she/her",
+  "linkedin": "https://www.linkedin.com/in/janedoe-example",
+  "github": "https://github.com/janedoe-example",
+  "website": "https://janedoe.example.com",
+  "workAuthorizedUS": true,
+  "needsSponsorship": false,
+  "willingToRelocate": false,
+  "salaryExpectation": "$150,000 base, flexible on equity",
+  "noticePeriod": "Two weeks",
+  "targets": {
+    "titles": ["Senior Software Engineer", "Staff Software Engineer", "Founding Engineer"],
+    "keywords": ["typescript", "python", "postgres", "developer tools", "api"],
+    "locations": ["Austin, TX", "Remote (US)"],
+    "remoteOk": true,
+    "excludeCompanies": ["Example Staffing Co"],
+    "excludeKeywords": ["clearance", "on-call rotation"],
+    "minSalary": 140000,
+    "seniority": ["senior", "staff"]
+  },
+  "eeo": {
+    "gender": "Decline to self-identify",
+    "race": "Decline to self-identify",
+    "hispanic": "Decline to self-identify",
+    "veteran": "Decline to self-identify",
+    "disability": "Decline to self-identify",
+    "transgender": "Decline to self-identify",
+    "orientation": "Decline to self-identify"
+  },
+  "savedAnswers": {
+    "Are you willing to undergo a background check?": "Yes",
+    "Have you previously worked for this company?": "No",
+    "What is your desired start date?": "Two weeks after an offer"
+  },
+  "education": [
+    {
+      "school": "Lakeside State University",
+      "degree": "Bachelor's Degree",
+      "discipline": "Computer Science",
+      "startYear": 2014,
+      "endYear": 2018
+    }
+  ],
+  "resumePdf": "/path/to/your/resume.pdf",
+  "voiceSamples": [
+    "Thanks for the quick reply. I read the migration doc and I think the slow part is the backfill, not the schema change. Can I try batching it by tenant first? If that works we skip the downtime window entirely.",
+    "I left because the team I joined to build tooling got folded into support work. I like support, but I want to spend my days on the tools themselves, and that is what your posting describes.",
+    "Short version: I shipped the billing rewrite, it cut failed invoices from about 4 percent to under 1, and I would like to do the same kind of cleanup for your payments team."
+  ],
+  "story": "I started out fixing the internal tools nobody else wanted to own, and found I liked it more than the product work around it. Outside work I run a small open-source library for parsing bank statements, and I volunteer teaching evening Python classes at the local library. I care about software that makes a boring job quicker for the person doing it."
+}

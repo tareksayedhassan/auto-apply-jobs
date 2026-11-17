@@ -1,0 +1,6 @@
+{
+  "url": "https://www.google.com",
+  "checked_at": "2026-11-17T15:23:57.428Z",
+  "status": "failed",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://www.google.com/\nCall log:\n\u001b[2m  - navigating to \"https://www.google.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

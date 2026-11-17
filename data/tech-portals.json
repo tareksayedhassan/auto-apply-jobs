@@ -1,0 +1,204 @@
+{
+  "companies": [
+    {
+      "name": "ServiceNow",
+      "career_url": "https://careers.servicenow.com/",
+      "source_url": "https://careers.servicenow.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Workday",
+      "career_url": "https://www.workday.com/en-us/company/careers.html",
+      "source_url": "https://www.workday.com/en-us/company/careers.html",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Atlassian",
+      "career_url": "https://www.atlassian.com/company/careers",
+      "source_url": "https://www.atlassian.com/company/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Cisco",
+      "career_url": "https://jobs.cisco.com/",
+      "source_url": "https://jobs.cisco.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Intel",
+      "career_url": "https://jobs.intel.com/",
+      "source_url": "https://jobs.intel.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Web lookup returned an error or unreadable page; no restrictions bypassed."
+    },
+    {
+      "name": "AMD",
+      "career_url": "https://careers.amd.com/",
+      "source_url": "https://careers.amd.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Web lookup returned an error or unreadable page; no restrictions bypassed."
+    },
+    {
+      "name": "Qualcomm",
+      "career_url": "https://careers.qualcomm.com/",
+      "source_url": "https://careers.qualcomm.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Broadcom",
+      "career_url": "https://www.broadcom.com/company/careers",
+      "source_url": "https://www.broadcom.com/company/careers",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Career URL requested; web tool omitted a result. Not verified."
+    },
+    {
+      "name": "Dell",
+      "career_url": "https://jobs.dell.com/",
+      "source_url": "https://jobs.dell.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "HP",
+      "career_url": "https://jobs.hp.com/",
+      "source_url": "https://jobs.hp.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "HPE",
+      "career_url": "https://careers.hpe.com/",
+      "source_url": "https://careers.hpe.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Lenovo",
+      "career_url": "https://jobs.lenovo.com/",
+      "source_url": "https://jobs.lenovo.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Career URL requested; web tool omitted a result. Not verified."
+    },
+    {
+      "name": "Samsung",
+      "career_url": "https://www.samsung.com/us/careers/",
+      "source_url": "https://www.samsung.com/us/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Sony",
+      "career_url": "https://www.sonyjobs.com/",
+      "source_url": "https://www.sonyjobs.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Ericsson",
+      "career_url": "https://www.ericsson.com/en/careers",
+      "source_url": "https://www.ericsson.com/en/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Nokia",
+      "career_url": "https://www.nokia.com/about-us/careers/",
+      "source_url": "https://www.nokia.com/about-us/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Red Hat",
+      "career_url": "https://www.redhat.com/en/jobs",
+      "source_url": "https://www.redhat.com/en/jobs",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "Canonical",
+      "career_url": "https://canonical.com/careers",
+      "source_url": "https://canonical.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "SUSE",
+      "career_url": "https://www.suse.com/careers/",
+      "source_url": "https://www.suse.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    },
+    {
+      "name": "GitLab",
+      "career_url": "https://about.gitlab.com/jobs/",
+      "source_url": "https://about.gitlab.com/jobs/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:36.690Z",
+      "notes": "Official careers landing page inspected; job-level backend/TypeScript review pending."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "companies": [
+    {
+      "name": "Volkswagen Group",
+      "career_url": "https://www.volkswagen-karriere.de/en.html",
+      "source_url": "https://www.volkswagen-karriere.de/en.html",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    },
+    {
+      "name": "Audi",
+      "career_url": "https://www.audi.com/en/careers/",
+      "source_url": "https://www.audi.com/en/careers/",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    },
+    {
+      "name": "Skoda Auto",
+      "career_url": "https://www.skoda-career.com/",
+      "source_url": "https://www.skoda-career.com/",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    },
+    {
+      "name": "CARIAD",
+      "career_url": "https://www.cariad.technology/de/en/careers.html",
+      "source_url": "https://www.cariad.technology/de/en/careers.html",
+      "priority": 1,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Career URL lookup failed; needs verified alternate official path. No protections bypassed."
+    },
+    {
+      "name": "Vector Informatik",
+      "career_url": "https://www.vector.com/int/en/career/",
+      "source_url": "https://www.vector.com/int/en/career/",
+      "priority": 1,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Career URL lookup failed; needs verified alternate official path. No protections bypassed."
+    },
+    {
+      "name": "Elektrobit",
+      "career_url": "https://www.elektrobit.com/careers/",
+      "source_url": "https://www.elektrobit.com/careers/",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    },
+    {
+      "name": "ETAS",
+      "career_url": "https://www.etas.com/ww/en/company/careers/",
+      "source_url": "https://www.etas.com/ww/en/company/careers/",
+      "priority": 1,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Career URL lookup failed; needs verified alternate official path. No protections bypassed."
+    },
+    {
+      "name": "dSPACE",
+      "career_url": "https://www.dspace.com/en/pub/home/company/career.cfm",
+      "source_url": "https://www.dspace.com/en/pub/home/company/career.cfm",
+      "priority": 1,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Career URL lookup failed; needs verified alternate official path. No protections bypassed."
+    },
+    {
+      "name": "IAV",
+      "career_url": "https://www.iav.com/en/careers/",
+      "source_url": "https://www.iav.com/en/careers/",
+      "priority": 1,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Career URL lookup failed; needs verified alternate official path. No protections bypassed."
+    },
+    {
+      "name": "AVL",
+      "career_url": "https://www.avl.com/en/career",
+      "source_url": "https://www.avl.com/en/career",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    },
+    {
+      "name": "FEV",
+      "career_url": "https://www.fev.com/careers/",
+      "source_url": "https://www.fev.com/careers/",
+      "priority": 1,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Career URL lookup failed; needs verified alternate official path. No protections bypassed."
+    },
+    {
+      "name": "EDAG",
+      "career_url": "https://www.edag.com/en/career",
+      "source_url": "https://www.edag.com/en/career",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    },
+    {
+      "name": "Bertrandt",
+      "career_url": "https://www.bertrandt.com/en/career",
+      "source_url": "https://www.bertrandt.com/en/career",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    },
+    {
+      "name": "Schaeffler",
+      "career_url": "https://www.schaeffler.com/en/careers/",
+      "source_url": "https://www.schaeffler.com/en/careers/",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    },
+    {
+      "name": "MAHLE",
+      "career_url": "https://jobs.mahle.com/",
+      "source_url": "https://jobs.mahle.com/",
+      "priority": 1,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Career URL lookup failed; needs verified alternate official path. No protections bypassed."
+    },
+    {
+      "name": "ZF",
+      "career_url": "https://careers.zf.com/",
+      "source_url": "https://careers.zf.com/",
+      "priority": 1,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Career URL lookup failed; needs verified alternate official path. No protections bypassed."
+    },
+    {
+      "name": "FORVIA",
+      "career_url": "https://www.forvia.com/en/careers",
+      "source_url": "https://www.forvia.com/en/careers",
+      "priority": 1,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Career URL lookup failed; needs verified alternate official path. No protections bypassed."
+    },
+    {
+      "name": "Valeo",
+      "career_url": "https://www.valeo.com/en/careers/",
+      "source_url": "https://www.valeo.com/en/careers/",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    },
+    {
+      "name": "Aptiv",
+      "career_url": "https://www.aptiv.com/en/careers",
+      "source_url": "https://www.aptiv.com/en/careers",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    },
+    {
+      "name": "Magna",
+      "career_url": "https://www.magna.com/careers",
+      "source_url": "https://www.magna.com/careers",
+      "priority": 1,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:09.561Z",
+      "notes": "Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements."
+    }
+  ]
+}

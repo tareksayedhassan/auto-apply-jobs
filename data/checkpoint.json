@@ -1,0 +1,26 @@
+{
+  "updated_at": "2026-11-17T14:44:28.466Z",
+  "counts": {
+    "targets": 343,
+    "researched_companies": 207,
+    "accessible_portals": 158,
+    "vacancies": 365,
+    "evaluated": 365,
+    "submitted": 0,
+    "blocked": 5
+  },
+  "next": "Resolve browser environment HTTPS access or connect supported Playwright Extension in confirmed Profile 4; then validate sequential URLs before application test",
+  "research_target": {
+    "companies": 200,
+    "jobs": 500
+  },
+  "browser": {
+    "browser": "Chrome",
+    "personal_profile": "Profile 4",
+    "dedicated_profile": "data/chrome-automation-profile",
+    "launch_succeeded": true,
+    "microsoft_succeeded": false
+  },
+  "research_paused": true,
+  "diagnostic_report": "browser_diagnostic_report.md"
+}

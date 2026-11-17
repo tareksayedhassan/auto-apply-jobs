@@ -1,0 +1,6 @@
+{
+  "url": "https://careers.microsoft.com/",
+  "checked_at": "2026-11-17T14:26:40.984Z",
+  "status": "failed",
+  "error": "page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://careers.microsoft.com/\nCall log:\n\u001b[2m  - navigating to \"https://careers.microsoft.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+}

@@ -1,0 +1,237 @@
+# Job research checkpoint
+
+Generated 2026-11-17T14:44:28.467Z. Work is incomplete; this is a resumable checkpoint.
+
+- 343 target employers queued; 207 employer portal lookups attempted, including blocked or omitted responses; 158 readable official career pages inspected.
+- 365 unique vacancies recorded; 365 assessed (some from search-result qualifications, explicitly labeled).
+- 0 employer-confirmed submissions; 5 blocked application records.
+- Employer portal lookup target reached; 500 complete vacancy reviews have not been reached. Most recorded assessments are explicitly preliminary excerpt/keyword comparisons, not eligibility decisions.
+
+The full single-page resume text and source hash are saved. Candidate profile preserves all experience/project descriptions and metrics. Two truthful ATS variants are available as text and PDF drafts. Latest user answers are in candidate_answers.json. German proficiency is unconfirmed, English intermediate and uncertified. No US/German authorization is claimed.
+
+SQLite uses unique employer/requisition and application/job keys, foreign keys, transactional events and evidence-gated submission recording. Dashboard, CSVs and OOXML workbook are generated from the database. Chrome profile selected by user: Profile 4 (dev), at C:\Users\dell\AppData\Local\Google\Chrome\User Data\Profile 4. Existing-session Playwright MCP attachment is unavailable because its extension is missing. Local Playwright uses a separate dedicated profile at C:\Users\dell\OneDrive\Desktop\LinkedIn-Profile\data\chrome-automation-profile. No personal cookies, passwords, tokens or profile were copied, modified or deleted. Chrome 157.0.8103.79 launched: true. Local DOM test: true. Microsoft, Amazon and BMW external page loads all timed out. Job-search, detail-extraction and application-form tests are blocked by those navigation failures; none are claimed successful. External package installation failed; eve runtime is not installed or running.
+
+Application submission and arbitrary portal form adapters are not implemented as an unattended service. Ordinary applications are authorized, but no eligibility-complete, accessible application was available to submit in this environment. Missing information or sign-in blocks individual applications only. See pending_actions.md.
+
+## Recorded sources
+
+- [AUTO1 Group](https://www.auto1-group.com/careers/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Amazon](https://www.amazon.jobs/) — Official career portal inspected; vacancy extraction pending.
+- [BMW Group](https://www.bmwgroup.jobs/de/en.html) — Official career portal inspected; vacancy extraction pending.
+- [Bosch](https://www.bosch.com/careers/) — Official career portal inspected; vacancy extraction pending.
+- [CARIAD](https://www.cariad.technology/de/en/careers.html) — Career URL lookup failed; needs verified alternate official path. No protections bypassed.
+- [Delivery Hero](https://careers.deliveryhero.com/jobs) — Official career portal inspected; vacancy extraction pending.
+- [Mercedes-Benz](https://jobs.mercedes-benz.com/en) — Official career endpoint returned no readable content; dynamic browser required.
+- [Microsoft](https://careers.microsoft.com/) — Official careers professions page inspected; local Playwright navigation failed ERR_NETWORK_ACCESS_DENIED; MCP missing extension.
+- [SAP](https://jobs.sap.com/en/?locale=en_US) — Official career portal inspected; vacancy extraction pending.
+- [Tesla](https://www.tesla.com/careers/search/) — Official career page shell inspected; dynamic vacancy list not visible.
+- [Volkswagen Group](https://www.volkswagen-karriere.de/en.html) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [Zalando](https://jobs.zalando.com/en/jobs) — Official career portal inspected; vacancy extraction pending.
+- [ABB](https://careers.abb/global/en) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [ABN AMRO](https://www.werkenbijabnamro.nl/en/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [AMD](https://careers.amd.com/) — Web lookup returned an error or unreadable page; no restrictions bypassed.
+- [ASML](https://www.asml.com/en/careers) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [AVL](https://www.avl.com/en/career) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [AXA](https://careers.axa.com/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Adobe](https://careers.adobe.com/us/en) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [Adyen](https://careers.adyen.com/) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [Airtable](https://www.airtable.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Akamai](https://www.akamai.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Allianz](https://careers.allianz.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [American Express](https://www.americanexpress.com/en-us/careers/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Apple](https://www.apple.com/careers/us/) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [Aptiv](https://www.aptiv.com/en/careers) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [Atlassian](https://www.atlassian.com/company/careers) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Audi](https://www.audi.com/en/careers/) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [AutoScout24](https://www.autoscout24.com/company/careers/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Automattic](https://automattic.com/work-with-us/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Beckhoff](https://www.beckhoff.com/en-en/company/job-opportunities/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Bertrandt](https://www.bertrandt.com/en/career) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [Block](https://block.xyz/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Bloomberg](https://careers.bloomberg.com/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Booking.com](https://careers.booking.com/) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [BorgWarner](https://www.borgwarner.com/careers) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Brex](https://www.brex.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Bridgestone](https://www.bridgestoneamericas.com/en/careers) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Broadcom](https://www.broadcom.com/company/careers) — Career URL requested; web tool omitted a result. Not verified.
+- [Canonical](https://canonical.com/careers) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Canva](https://www.lifeatcanva.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Capital One](https://www.capitalonecareers.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Celonis](https://www.celonis.com/careers/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Checkout.com](https://www.checkout.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Cisco](https://jobs.cisco.com/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Cloudflare](https://www.cloudflare.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Cockroach Labs](https://www.cockroachlabs.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Coinbase](https://www.coinbase.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Commerzbank](https://www.commerzbank.com/careers/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Confluent](https://careers.confluent.io/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Contentful](https://www.contentful.com/careers/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Continental](https://www.continental.com/en/career/) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [Daimler Truck](https://www.daimlertruck.com/en/career) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Databricks](https://www.databricks.com/company/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Datadog](https://careers.datadoghq.com/) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [DeepL](https://www.deepl.com/en/careers) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Dell](https://jobs.dell.com/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Denso](https://www.denso.com/global/en/careers/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Deutsche Bank](https://careers.db.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [DigitalOcean](https://www.digitalocean.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Disney](https://jobs.disneycareers.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Docker](https://www.docker.com/career-openings/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Dropbox](https://jobs.dropbox.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Duolingo](https://careers.duolingo.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Dynatrace](https://careers.dynatrace.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [EDAG](https://www.edag.com/en/career) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [ETAS](https://www.etas.com/ww/en/company/careers/) — Career URL lookup failed; needs verified alternate official path. No protections bypassed.
+- [Eaton](https://www.eaton.com/us/en-us/company/careers.html) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Elastic](https://www.elastic.co/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Electronic Arts](https://www.ea.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Elektrobit](https://www.elektrobit.com/careers/) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [Emerson](https://www.emerson.com/en-us/careers) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Epic Games](https://www.epicgames.com/site/en-US/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Ericsson](https://www.ericsson.com/en/careers) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [FEV](https://www.fev.com/careers/) — Career URL lookup failed; needs verified alternate official path. No protections bypassed.
+- [FORVIA](https://www.forvia.com/en/careers) — Career URL lookup failed; needs verified alternate official path. No protections bypassed.
+- [FactSet](https://www.factset.com/careers) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Fastly](https://www.fastly.com/about/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Festo](https://www.festo.com/group/en/cms/10054.htm) — Web lookup returned an error or unreadable page; no restrictions bypassed.
+- [Figma](https://www.figma.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Flix](https://flix.careers/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Ford](https://www.careers.ford.com/en) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [Forto](https://forto.com/en/careers/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [GE Aerospace](https://careers.geaerospace.com/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [General Motors](https://search-careers.gm.com/en/) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [GetYourGuide](https://careers.getyourguide.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [GitHub](https://www.github.careers/) — Career lookup attempted; no readable/verified page returned. Resume through alternate official source when available.
+- [GitLab](https://about.gitlab.com/jobs/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Goldman Sachs](https://www.goldmansachs.com/careers) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Goodyear](https://jobs.goodyear.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Google](https://www.google.com/about/careers/applications/) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [HP](https://jobs.hp.com/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [HPE](https://careers.hpe.com/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [HashiCorp](https://www.hashicorp.com/career) — Career lookup attempted; no readable/verified page returned. Resume through alternate official source when available.
+- [HelloFresh](https://careers.hellofresh.com/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Honda](https://careers.honda.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Honeywell](https://careers.honeywell.com/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Hyundai](https://careers.hyundai.com/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [IAV](https://www.iav.com/en/careers/) — Career URL lookup failed; needs verified alternate official path. No protections bypassed.
+- [IBM](https://www.ibm.com/careers) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [ING](https://careers.ing.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [IONOS](https://www.ionos.com/jobs/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Infineon](https://www.infineon.com/careers) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Intel](https://jobs.intel.com/) — Web lookup returned an error or unreadable page; no restrictions bypassed.
+- [Intuit](https://www.intuit.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [JPMorgan Chase](https://careers.jpmorgan.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [JetBrains](https://www.jetbrains.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [KUKA](https://www.kuka.com/en-de/careers) — Web lookup returned an error or unreadable page; no restrictions bypassed.
+- [Kia](https://www.kia.com/us/en/careers) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Klarna](https://www.klarna.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Lenovo](https://jobs.lenovo.com/) — Career URL requested; web tool omitted a result. Not verified.
+- [Lucid Motors](https://lucidmotors.com/careers) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [MAHLE](https://jobs.mahle.com/) — Career URL lookup failed; needs verified alternate official path. No protections bypassed.
+- [MAN Truck & Bus](https://www.man.eu/corporate/en/career/career.html) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Magna](https://www.magna.com/careers) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [Mastercard](https://careers.mastercard.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Meta](https://www.metacareers.com/) — HTTP 429; stopped without retrying protections.
+- [Michelin](https://jobs.michelin.com/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Miro](https://miro.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Mollie](https://www.mollie.com/careers) — Career lookup attempted; no readable/verified page returned. Resume through alternate official source when available.
+- [MongoDB](https://www.mongodb.com/company/careers) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [Monzo](https://monzo.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Morgan Stanley](https://www.morganstanley.com/people-opportunities) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Mozilla](https://www.mozilla.org/en-US/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Munich Re](https://www.munichre.com/en/careers.html) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [N26](https://n26.com/en-eu/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [NXP](https://www.nxp.com/company/about-nxp/careers:CAREERS) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Nasdaq](https://www.nasdaq.com/about/careers) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Netflix](https://jobs.netflix.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Netlify](https://www.netlify.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [New Relic](https://newrelic.com/about/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Nissan](https://www.nissan-global.com/EN/CAREERS/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Nokia](https://www.nokia.com/about-us/careers/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Notion](https://www.notion.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Omio](https://www.omio.com/corporate/careers/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Oracle](https://careers.oracle.com/en/sites/jobsearch) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [PayPal](https://careers.pypl.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Personio](https://www.personio.com/careers/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Phoenix Contact](https://www.phoenixcontact.com/en-pc/career) — Web lookup returned an error or unreadable page; no restrictions bypassed.
+- [Pirelli](https://careers.pirelli.com/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Plaid](https://plaid.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Polestar](https://careers.polestar.com/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Porsche](https://www.porsche.com/international/aboutporsche/jobs/) — Official careers landing page inspected; no specific vacancy evaluated yet.
+- [Postman](https://www.postman.com/company/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Qualcomm](https://careers.qualcomm.com/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Rabobank](https://rabobank.jobs/en/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Raisin](https://www.raisin.com/en/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Ramp](https://ramp.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Red Hat](https://www.redhat.com/en/jobs) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Redis](https://redis.io/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Renault](https://www.renaultgroup.com/en/talents/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Revolut](https://www.revolut.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Rivian](https://careers.rivian.com/) — HTTP 403; stopped without bypass.
+- [Robinhood](https://careers.robinhood.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Roblox](https://careers.roblox.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Rockwell Automation](https://www.rockwellautomation.com/en-us/company/careers.html) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Roku](https://www.roku.com/jobs) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [S&P Global](https://careers.spglobal.com/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [SIXT](https://www.sixt.jobs/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [STMicroelectronics](https://www.st.com/content/st_com/en/about/careers.html) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [SUSE](https://www.suse.com/careers/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Salesforce](https://careers.salesforce.com/) — Fetch timeout.
+- [Samsung](https://www.samsung.com/us/careers/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Scalable Capital](https://de.scalable.capital/en/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Scania](https://www.scania.com/group/en/home/career.html) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Schaeffler](https://www.schaeffler.com/en/careers/) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [Schneider Electric](https://www.se.com/ww/en/about-us/careers/overview.jsp) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Sentry](https://sentry.io/careers/) — Career lookup attempted; no readable/verified page returned. Resume through alternate official source when available.
+- [ServiceNow](https://careers.servicenow.com/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Shopware](https://www.shopware.com/en/company/career/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Siemens](https://www.siemens.com/global/en/company/jobs.html) — Web lookup returned an error or unreadable page; no restrictions bypassed.
+- [Siemens Energy](https://www.siemens-energy.com/global/en/home/careers.html) — Web lookup returned an error or unreadable page; no restrictions bypassed.
+- [Skoda Auto](https://www.skoda-career.com/) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [Snowflake](https://careers.snowflake.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Sony](https://www.sonyjobs.com/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Splunk](https://www.splunk.com/en_us/careers.html) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Spotify](https://www.lifeatspotify.com/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Spryker](https://spryker.com/career/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Stellantis](https://careers.stellantis.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Stripe](https://stripe.com/jobs) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [SumUp](https://www.sumup.com/careers/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Supabase](https://supabase.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Swiss Re](https://careers.swissre.com/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [TeamViewer](https://careers.teamviewer.com/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Texas Instruments](https://careers.ti.com/) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [Toyota](https://careers.toyota.com/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [Trade Republic](https://traderepublic.com/en-de/careers) — Career lookup attempted; no readable/verified page returned. Resume through alternate official source when available.
+- [Transporeon](https://www.transporeon.com/en/career) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Trumpf](https://www.trumpf.com/en_INT/career/) — Web lookup returned an error or unreadable page; no restrictions bypassed.
+- [Uber](https://careers.uber.com/) — URL inaccessible; alternate official path needed.
+- [Ubisoft](https://www.ubisoft.com/en-us/company/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Unity](https://unity.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Valeo](https://www.valeo.com/en/careers/) — Official careers page inspected; prioritize web/backend/ERP roles over unsupported embedded/ADAS requirements.
+- [Vector Informatik](https://www.vector.com/int/en/career/) — Career URL lookup failed; needs verified alternate official path. No protections bypassed.
+- [Vercel](https://vercel.com/careers) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Visa](https://www.visa.com/careers) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Volvo Cars](https://www.volvocars.com/intl/careers/) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Volvo Group](https://www.volvogroup.com/en/careers.html) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [Wise](https://wise.jobs/) — Official careers page inspected; backend/TypeScript vacancies need targeted job-level review.
+- [Workday](https://www.workday.com/en-us/company/careers.html) — Official careers landing page inspected; job-level backend/TypeScript review pending.
+- [ZEISS](https://www.zeiss.com/corporate/en/careers.html) — Web lookup returned an error or unreadable page; no restrictions bypassed.
+- [ZF](https://careers.zf.com/) — Career URL lookup failed; needs verified alternate official path. No protections bypassed.
+- [commercetools](https://commercetools.com/careers) — Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending.
+- [dSPACE](https://www.dspace.com/en/pub/home/company/career.cfm) — Career URL lookup failed; needs verified alternate official path. No protections bypassed.
+- [mobile.de](https://careers.mobile.de/) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+- [sennder](https://www.sennder.com/careers) — Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed.
+
+- [Amazon: Software Development Engineer II, PartyRock](https://www.amazon.jobs/en/jobs/10471492/software-development-engineer-ii-partyrock) — Strong technical match for TypeScript, backend architecture, React exposure and production operations. AWS Lambda not specifically documented. No fixed years minimum. English listing; German requirement not stated. Sponsorship and relocation not stated: retain for clarification.
+- [Amazon: Software Development Engineer - Specialized US 2026](https://www.amazon.jobs/en/jobs/10406147/software-development-engineer-specialized-us-2026) — MIS degree and TypeScript align; AWS, SQL/NoSQL, Git and production projects support preferred areas. DSA/OOP and adult eligibility not explicitly verified. Intermediate English should be represented truthfully, not treated as automatic rejection. Sponsorship unstated.
+- [Amazon: Software Development Engineer - 2026](https://www.amazon.jobs/en/jobs/10477396/software-development-engineer-2026) — MIS and TypeScript align. Graduation year 2024 alone cannot establish rolling 24-month eligibility on 2026-11-17; exact date needed. Sponsorship and relocation unstated; do not claim ineligible without date.
+- [Amazon: Software Development Engineer, Amazon Leo, Early Career - 2026](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) — Technical overlap exists, but export-control eligibility is not established. User reports no existing US work authorization and requires sponsorship. Do not apply without verified qualifying status; no legal eligibility inference beyond employer requirement.
+- [Zalando: Senior Fullstack Engineer-Boards](https://jobs.zalando.com/en/jobs/2724515) — Core Node/TypeScript/AWS/Docker overlap; senior mentoring, GraphQL, DynamoDB, Kotlin/Spring Boot and Kubernetes absent from resume. Lower-priority stretch role.
+- [Zalando: Junior FullStack Engineer (all genders)](https://jobs.zalando.com/en/jobs/2726223-Junior-FullStack-Engineer-%28all-genders%29) — Good junior-level overlap with TypeScript/React, API and production work. Java/Kotlin can be learned on job. AI workflow exposure needs verification. Helsinki office confirmed. English intermediate must be disclosed truthfully. Relocation offered; visa support unstated.
+
+## Current browser status
+
+Chrome profile selected by user: Profile 4 (dev), at C:\Users\dell\AppData\Local\Google\Chrome\User Data\Profile 4. Existing-session Playwright MCP attachment is unavailable because its extension is missing. Local Playwright uses a separate dedicated profile at C:\Users\dell\OneDrive\Desktop\LinkedIn-Profile\data\chrome-automation-profile. No personal cookies, passwords, tokens or profile were copied, modified or deleted. Chrome 157.0.8103.79 launched: true. Local DOM test: true. Microsoft, Amazon and BMW external page loads all timed out. Job-search, detail-extraction and application-form tests are blocked by those navigation failures; none are claimed successful.
+
+Existing database and checkpoint preserved. No background service or unattended application submission is running. Applications take priority once Chrome can access employer portals.

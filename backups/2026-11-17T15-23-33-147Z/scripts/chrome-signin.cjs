@@ -1,0 +1,2 @@
+const {launchContext}=require('./browser.cjs');
+(async()=>{const context=await launchContext(false);const page=await context.newPage();try{await page.goto('https://www.amazon.jobs/',{waitUntil:'domcontentloaded',timeout:15000});}catch(e){console.error(e.message);}console.log('Dedicated Chrome profile open. Sign in normally if networking permits. Close the Chrome window when finished.');await new Promise(resolve=>context.on('close',resolve));})().catch(e=>{console.error(e);process.exitCode=1;});

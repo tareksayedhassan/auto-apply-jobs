@@ -1,0 +1,19 @@
+{
+  "name": "international-job-agent",
+  "version": "1.0.0",
+  "description": "Private international job research and application tracking for Tarek Elsayed",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test tests/agent.test.cjs",
+    "report": "node scripts/agent.cjs report",
+    "research": "node scripts/research.cjs --limit 20",
+    "browser:test": "node scripts/browser.cjs",
+    "profile": "node scripts/extract-resume.cjs && node scripts/profile.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {"node": "26.x"},
+  "type": "commonjs"
+}

@@ -1,0 +1,204 @@
+{
+  "companies": [
+    {
+      "name": "Celonis",
+      "career_url": "https://www.celonis.com/careers/",
+      "source_url": "https://www.celonis.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Personio",
+      "career_url": "https://www.personio.com/careers/",
+      "source_url": "https://www.personio.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Contentful",
+      "career_url": "https://www.contentful.com/careers/",
+      "source_url": "https://www.contentful.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "commercetools",
+      "career_url": "https://commercetools.com/careers",
+      "source_url": "https://commercetools.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Shopware",
+      "career_url": "https://www.shopware.com/en/company/career/",
+      "source_url": "https://www.shopware.com/en/company/career/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "Spryker",
+      "career_url": "https://spryker.com/career/",
+      "source_url": "https://spryker.com/career/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "AUTO1 Group",
+      "career_url": "https://www.auto1-group.com/careers/",
+      "source_url": "https://www.auto1-group.com/careers/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "mobile.de",
+      "career_url": "https://careers.mobile.de/",
+      "source_url": "https://careers.mobile.de/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "AutoScout24",
+      "career_url": "https://www.autoscout24.com/company/careers/",
+      "source_url": "https://www.autoscout24.com/company/careers/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "SIXT",
+      "career_url": "https://www.sixt.jobs/",
+      "source_url": "https://www.sixt.jobs/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Flix",
+      "career_url": "https://flix.careers/",
+      "source_url": "https://flix.careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Omio",
+      "career_url": "https://www.omio.com/corporate/careers/",
+      "source_url": "https://www.omio.com/corporate/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "GetYourGuide",
+      "career_url": "https://careers.getyourguide.com/",
+      "source_url": "https://careers.getyourguide.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "sennder",
+      "career_url": "https://www.sennder.com/careers",
+      "source_url": "https://www.sennder.com/careers",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "Forto",
+      "career_url": "https://forto.com/en/careers/",
+      "source_url": "https://forto.com/en/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Transporeon",
+      "career_url": "https://www.transporeon.com/en/career",
+      "source_url": "https://www.transporeon.com/en/career",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "DeepL",
+      "career_url": "https://www.deepl.com/en/careers",
+      "source_url": "https://www.deepl.com/en/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "TeamViewer",
+      "career_url": "https://careers.teamviewer.com/",
+      "source_url": "https://careers.teamviewer.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "IONOS",
+      "career_url": "https://www.ionos.com/jobs/",
+      "source_url": "https://www.ionos.com/jobs/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "HelloFresh",
+      "career_url": "https://careers.hellofresh.com/",
+      "source_url": "https://careers.hellofresh.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:01.652Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    }
+  ]
+}

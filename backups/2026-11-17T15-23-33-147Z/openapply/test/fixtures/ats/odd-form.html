@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Odd-sized application form</title>
+<style>
+  /* Fixed sizes so the document is exactly 2237 CSS px tall: an odd height, like most real forms. Dia returns an
+     empty full-page capture for any odd-sided image (see fullPageShot in src/apply/browser.ts). */
+  html, body { margin: 0; font: 16px/1.4 system-ui, sans-serif; }
+  header { height: 81px; background: #1d3557; color: #fff; padding: 0 24px; box-sizing: border-box; line-height: 81px; }
+  form { margin: 0; }
+  .q { height: 86px; padding: 12px 24px; box-sizing: border-box; border-bottom: 1px solid #ddd; }
+  .q label { display: block; font-weight: 600; }
+  .q input { width: 480px; }
+  footer { height: 6px; background: #e63946; }
+</style>
+</head>
+<body>
+<header>Acme · Apply</header>
+<form id="app">
+  <div class="q"><label>Legal name</label><input name="q1" value="Ada Example"></div>
+  <div class="q"><label>Email</label><input name="q2" value="ada@example.com"></div>
+  <div class="q"><label>Phone</label><input name="q3" value="555 0100"></div>
+  <div class="q"><label>LinkedIn</label><input name="q4" value="linkedin.com/in/ada"></div>
+  <div class="q"><label>Location</label><input name="q5" value="Brooklyn, NY"></div>
+  <div class="q"><label>Are you authorized to work in the US?</label><input name="q6" value="Yes"></div>
+  <div class="q"><label>Will you require sponsorship?</label><input name="q7" value="No"></div>
+  <div class="q"><label>Earliest start date</label><input name="q8" value="11/16/2026"></div>
+  <div class="q"><label>Why Acme?</label><input name="q9" value="Answer nine"></div>
+  <div class="q"><label>Question ten</label><input name="q10" value="Answer ten"></div>
+  <div class="q"><label>Question eleven</label><input name="q11" value="Answer eleven"></div>
+  <div class="q"><label>Question twelve</label><input name="q12" value="Answer twelve"></div>
+  <div class="q"><label>Question thirteen</label><input name="q13" value="Answer thirteen"></div>
+  <div class="q"><label>Question fourteen</label><input name="q14" value="Answer fourteen"></div>
+  <div class="q"><label>Question fifteen</label><input name="q15" value="Answer fifteen"></div>
+  <div class="q"><label>Question sixteen</label><input name="q16" value="Answer sixteen"></div>
+  <div class="q"><label>Question seventeen</label><input name="q17" value="Answer seventeen"></div>
+  <div class="q"><label>Question eighteen</label><input name="q18" value="Answer eighteen"></div>
+  <div class="q"><label>Question nineteen</label><input name="q19" value="Answer nineteen"></div>
+  <div class="q"><label>Question twenty</label><input name="q20" value="Answer twenty"></div>
+  <div class="q"><label>Question twenty-one</label><input name="q21" value="Answer twenty-one"></div>
+  <div class="q"><label>Question twenty-two</label><input name="q22" value="Answer twenty-two"></div>
+  <div class="q"><label>Question twenty-three</label><input name="q23" value="Answer twenty-three"></div>
+  <div class="q"><label>Question twenty-four</label><input name="q24" value="Answer twenty-four"></div>
+  <div class="q"><label>The last question, at the very bottom</label><input name="q25" value="Answer twenty-five"></div>
+</form>
+<footer></footer>
+</body>
+</html>

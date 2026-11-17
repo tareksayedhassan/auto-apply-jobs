@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "source": "Example strategy file. Every company and person here is made up.",
+  "timeZone": "America/New_York",
+  "leadLane": "Customer-facing AI implementation seats at NYC startups",
+  "start": "2026-11-02",
+  "companies": [
+    {
+      "company": "Hooli",
+      "seat": "Solutions Architect, NYC",
+      "path": "Live. Lena's intro after a meetup. Screen Fri Nov 6 10:00, step 2 of 5",
+      "firstMove": "Win Friday. Same-day thank-you."
+    },
+    {
+      "company": "Wonka",
+      "seat": "Agent Developer, NYC (on-site)",
+      "path": "Nico Park to Avery Dunn (ask 01). Backup: a second mutual contact (ask 04)",
+      "firstMove": "Send ask 01 first."
+    },
+    {
+      "company": "Soylent",
+      "seat": "Forward Deployed Engineer, NYC (5 days on-site)",
+      "path": "Dana Ruiz to the co-founder and CTO",
+      "firstMove": "Apply, then one email to Dana about Soylent only."
+    },
+    {
+      "company": "Tyrell",
+      "seat": "Implementation Lead, NYC (3 days in office)",
+      "path": "Jo to Shay Wells (your call); cold alternative Alex Tran",
+      "firstMove": "Decide the Jo ask; apply the same day either way."
+    },
+    {
+      "company": "Oscorp",
+      "seat": "Implementation Lead, NYC (on-site)",
+      "path": "Robin Vale, co-founder and CEO",
+      "firstMove": "Retarget the pack to this seat. One LinkedIn DM, no chase.",
+      "noChase": true
+    }
+  ],
+  "bench": [
+    {
+      "company": "Stark",
+      "note": "On-site swap: Implementation Lead, NYC"
+    },
+    {
+      "company": "Wayne",
+      "note": "On-site swap: Implementation Lead, Platforms"
+    },
+    {
+      "company": "Dunder",
+      "note": "On-site swap: AI Implementation Lead"
+    },
+    {
+      "company": "Piper",
+      "note": "Only on a yes to five days on-site"
+    },
+    {
+      "company": "Gringotts",
+      "note": "Outreach-first note before applying"
+    },
+    {
+      "company": "Vandelay",
+      "note": "Already submitted: send a direct note to one person"
+    },
+    {
+      "company": "Umbrella",
+      "note": "Already submitted: send a direct note to one person"
+    }
+  ],
+  "weeklyTargets": {
+    "warmAsks": 4,
+    "applications": 5
+  },
+  "halveIfFewerSubmitted": 3,
+  "personWithinHours": 48,
+  "askWindowDaysBefore": 14,
+  "ruleSince": "2026-11-02",
+  "followUpDays": 7,
+  "liveWithinDays": 30,
+  "milestones": [
+    {
+      "date": "2026-11-05",
+      "title": "Transition answers in your own words",
+      "doneMeans": "Why you left each role, and the years-of-experience answer"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Hooli screen held, and the decisions made",
+      "doneMeans": "Debrief written, thank-you sent. Decisions: on-site yes or no; salary answer set in OpenApply"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Corrected record everywhere, top asks out",
+      "doneMeans": "Corrected resume in OpenApply master and on LinkedIn; asks sent to Nico, Dana (Soylent), Robin; Wonka, Soylent, Tyrell applied"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "The five are in",
+      "doneMeans": "All five applied or asked, each with a person; Vandelay and Umbrella notes sent"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Runway inputs real",
+      "doneMeans": "Monthly costs confirmed; bank balance read and the model re-anchored"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "First conversations",
+      "doneMeans": "At least 4 first conversations since Nov 3; at least 1 process past a first screen. If runway is short, take the Dec 3 widen decision now"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Decision gate",
+      "gate": true,
+      "doneMeans": "Target: 6 first conversations, 2 processes past the first screen, about 16 warm asks and 20 applications sent"
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Last working week",
+      "doneMeans": "Every live process at a final round or offer"
+    },
+    {
+      "date": "2027-01-15",
+      "title": "Runway gate",
+      "gate": true,
+      "doneMeans": "No offer: walk-away drops to the posted band of any seat you want; bridge income becomes the priority"
+    }
+  ],
+  "gate": {
+    "date": "2026-12-03",
+    "holdAtLiveProcesses": 3,
+    "hold": "Hold the lane, push each process to a final round before Dec 18.",
+    "widen": "Widen to faster-hiring implementation and onboarding seats, contract-to-hire and the bench. Start bridge income.",
+    "noRoundPassed": "Nothing got past a first screen: the screen is the problem, not the funnel. Review the recorded screens against the story bank before sending more.",
+    "targets": {
+      "firstConversations": 6,
+      "pastFirstScreen": 2,
+      "warmAsks": 16,
+      "applications": 20
+    }
+  }
+}

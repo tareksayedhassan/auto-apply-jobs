@@ -1,0 +1,123 @@
+{
+  "name": "Tarek Elsayed",
+  "headline": "Backend Engineer",
+  "contact": {
+    "email": "tarekelsayed.dev@gmail.com",
+    "phone": "+201003383601",
+    "location": "Alexandria, Egypt",
+    "links": [
+      "https://tarekelsayed.com",
+      "https://github.com/tareksayedhassan"
+    ]
+  },
+  "summary": "Backend Software Engineer specializing in Node.js, NestJS, and TypeScript, with hands-on experience building and deploying production applications \nfrom scratch. Skilled in designing RESTful APIs, backend architecture, authentication systems, CRM integrations, and custom ERP solutions. Experienced \nwith MySQL, Redis, AWS cloud deployments, and delivering reliable backend services for web and mobile applications.",
+  "experience": [
+    {
+      "company": "Luxury Vehicles",
+      "title": "Backend Software Engineer",
+      "start": "2026-01",
+      "end": "Present",
+      "bullets": [
+        "Solely built and launched Mawlha, processing 1,000+ financing applications and 50+ reservation requests, with 150+ vehicles across 70+ brands.",
+        "Developed production web and mobile applications using Node.js, NestJS, TypeScript, MySQL, and Redis.",
+        "Managed VPS infrastructure, Docker, and GitHub Actions CI/CD, optimizing deployment and production reliability.",
+        "Integrated String CRM APIs and optimized image handling using Cloudinary signed uploads, reducing backend processing overhead.",
+        "Supported Swapcar and Baddelha development, infrastructure, and production operations."
+      ]
+    },
+    {
+      "company": "Skoda Auto",
+      "title": "Full-Stack Developer",
+      "start": "2025-01",
+      "end": "2025-11",
+      "bullets": [
+        "Developed a spare-parts pricing platform using Next.js and Prisma, replacing manual Excel workflows.",
+        "Built a centralized system serving 20+ employees across 2 branches, managing pricing for Skoda, Volkswagen, and Audi.",
+        "Implemented Role-Based Access Control (RBAC) and streamlined spare-parts price verification for maintenance teams."
+      ]
+    },
+    {
+      "company": "Top Quality Automotive",
+      "title": "Full-Stack Developer",
+      "start": "2025-01",
+      "end": "2025-03",
+      "bullets": [
+        "Built a custom ERP system to replace the company’s legacy ERP, implementing complex business modules and operational workflows.",
+        "Developed the system end-to-end across backend, frontend, database logic, and internal process automation."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Alexandria University, Egypt",
+      "degree": "Bachelor's Degree in Management Information Systems (MIS)",
+      "start": "2020",
+      "end": "2024"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mawlha Automotive Platform",
+      "description": "Full-Stack Software Engineer; 2026-01 - Present",
+      "bullets": [
+        "Designed and developed a complete automotive financing platform, including backend APIs, web frontend, and mobile applications.",
+        "Implemented financing workflows, JWT/OTP authentication, vehicle inventory, reservations, and external service integrations.",
+        "Published the mobile application on iOS and Android, supporting a live platform processing customer financing applications."
+      ]
+    },
+    {
+      "name": "Akhil Tourism",
+      "description": "Independent Project; 2026-04 - 2026-09",
+      "bullets": [
+        "Built the backend architecture, REST APIs, authentication with JWT & Google OAuth, and the internal admin dashboard.",
+        "Managed infrastructure and production deployment, while collaborating with the team on the website frontend."
+      ]
+    }
+  ],
+  "skills": [
+    "Node.js",
+    "NestJS",
+    "Express.js",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+    "Prisma",
+    "TypeORM",
+    "JWT",
+    "OTP",
+    "Google OAuth",
+    "Signed Uploads",
+    "String CRM",
+    "Cloudinary",
+    "Firebase/FCM",
+    "SMS/OTP APIs",
+    "Third-Party API Integrations",
+    "Docker",
+    "AWS",
+    "VPS Administration",
+    "GitHub Actions",
+    "CI/CD",
+    "Production Deployment",
+    "CloudPanel",
+    "TypeScript",
+    "JavaScript",
+    "React.js",
+    "Next.js",
+    "React Native",
+    "Tailwind CSS",
+    "Git",
+    "GitHub",
+    "Technical SEO",
+    "Performance Optimization"
+  ],
+  "extras": [
+    {
+      "heading": "Languages",
+      "items": [
+        "Arabic: Native",
+        "English: Intermediate, not formally certified"
+      ]
+    }
+  ]
+}

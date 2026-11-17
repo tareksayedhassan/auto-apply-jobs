@@ -1,0 +1,51 @@
+{
+  "firstName": "Tarek",
+  "lastName": "Elsayed",
+  "email": "tarekelsayed.dev@gmail.com",
+  "phone": "+201003383601",
+  "location": "Alexandria, Egypt",
+  "website": "https://tarekelsayed.com",
+  "github": "https://github.com/tareksayedhassan",
+  "workAuthorizedUS": false,
+  "needsSponsorship": true,
+  "willingToRelocate": true,
+  "noticePeriod": "30 days after accepting a job offer, subject to visa processing and relocation requirements",
+  "resumePdf": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\Tarek-Elsayed-Resume.pdf",
+  "education": [
+    {
+      "school": "Alexandria University, Egypt",
+      "degree": "Bachelor's Degree",
+      "discipline": "Management Information Systems",
+      "startYear": 2020,
+      "endYear": 2024
+    }
+  ],
+  "targets": {
+    "titles": [
+      "Backend Engineer",
+      "Backend Software Engineer",
+      "Node.js Developer",
+      "NestJS Developer",
+      "TypeScript Engineer",
+      "Full-Stack Developer",
+      "Software Engineer",
+      "Automotive Platform Software Engineer",
+      "ERP Developer"
+    ],
+    "keywords": [
+      "Node.js",
+      "NestJS",
+      "TypeScript",
+      "ERP"
+    ],
+    "locations": [
+      "United States",
+      "USA",
+      "Germany"
+    ],
+    "seniority": [
+      "junior",
+      "mid"
+    ]
+  }
+}

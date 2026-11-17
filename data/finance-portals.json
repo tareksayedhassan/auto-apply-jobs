@@ -1,0 +1,204 @@
+{
+  "companies": [
+    {
+      "name": "Bloomberg",
+      "career_url": "https://careers.bloomberg.com/",
+      "source_url": "https://careers.bloomberg.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "S&P Global",
+      "career_url": "https://careers.spglobal.com/",
+      "source_url": "https://careers.spglobal.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "FactSet",
+      "career_url": "https://www.factset.com/careers",
+      "source_url": "https://www.factset.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Nasdaq",
+      "career_url": "https://www.nasdaq.com/about/careers",
+      "source_url": "https://www.nasdaq.com/about/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Visa",
+      "career_url": "https://www.visa.com/careers",
+      "source_url": "https://www.visa.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Mastercard",
+      "career_url": "https://careers.mastercard.com/",
+      "source_url": "https://careers.mastercard.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "American Express",
+      "career_url": "https://www.americanexpress.com/en-us/careers/",
+      "source_url": "https://www.americanexpress.com/en-us/careers/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "Capital One",
+      "career_url": "https://www.capitalonecareers.com/",
+      "source_url": "https://www.capitalonecareers.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "JPMorgan Chase",
+      "career_url": "https://careers.jpmorgan.com/",
+      "source_url": "https://careers.jpmorgan.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Goldman Sachs",
+      "career_url": "https://www.goldmansachs.com/careers",
+      "source_url": "https://www.goldmansachs.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Morgan Stanley",
+      "career_url": "https://www.morganstanley.com/people-opportunities",
+      "source_url": "https://www.morganstanley.com/people-opportunities",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.216Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Deutsche Bank",
+      "career_url": "https://careers.db.com/",
+      "source_url": "https://careers.db.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.217Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Commerzbank",
+      "career_url": "https://www.commerzbank.com/careers/",
+      "source_url": "https://www.commerzbank.com/careers/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.217Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "ING",
+      "career_url": "https://careers.ing.com/",
+      "source_url": "https://careers.ing.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.217Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Rabobank",
+      "career_url": "https://rabobank.jobs/en/",
+      "source_url": "https://rabobank.jobs/en/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.217Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "ABN AMRO",
+      "career_url": "https://www.werkenbijabnamro.nl/en/",
+      "source_url": "https://www.werkenbijabnamro.nl/en/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.217Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Allianz",
+      "career_url": "https://careers.allianz.com/",
+      "source_url": "https://careers.allianz.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.217Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Munich Re",
+      "career_url": "https://www.munichre.com/en/careers.html",
+      "source_url": "https://www.munichre.com/en/careers.html",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.217Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "AXA",
+      "career_url": "https://careers.axa.com/",
+      "source_url": "https://careers.axa.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.217Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "Swiss Re",
+      "career_url": "https://careers.swissre.com/",
+      "source_url": "https://careers.swissre.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.217Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    }
+  ]
+}

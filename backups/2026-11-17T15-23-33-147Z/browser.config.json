@@ -1,0 +1,10 @@
+{
+  "browser": "Google Chrome",
+  "executablePath": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+  "automationUserDataDir": "data/chrome-automation-profile",
+  "personalUserDataDir": "C:\\Users\\dell\\AppData\\Local\\Google\\Chrome\\User Data",
+  "personalProfileSelection": "Profile 4",
+  "personalProfileStatus": "User confirmed Profile 4 — dev. Account display name dev Tarek Elsayed. Existing-session attachment requires supported extension; never launch automation directly against personal user data.",
+  "method": "Official Playwright library with dedicated Chrome persistent context; no cookies or profile data copied. Preferred existing-session MCP extension unavailable.",
+  "headless": true
+}

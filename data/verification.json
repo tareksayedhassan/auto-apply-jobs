@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-11-17T14:44:48.843Z",
+  "resume_complete": true,
+  "candidate_answers_verified": true,
+  "database_integrity": "ok",
+  "tests": "Run npm.cmd test for isolated state-machine tests",
+  "exports": "All six requested reports exist; XLSX ZIP/XML separately validated",
+  "real_submissions": 0,
+  "browser_external_test": "failed"
+}

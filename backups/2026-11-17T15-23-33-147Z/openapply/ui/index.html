@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>OpenApply</title>
+  <meta name="description" content="Review what your agent found, tailored and filled. Nothing is submitted until you say yes.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <a class="skip" href="#view">Skip to content</a>
+  <div class="shell">
+    <aside class="side" aria-label="Primary">
+      <a class="brand" href="#/today" aria-label="OpenApply, today">
+        <svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8"/><path d="M22.4 9.6A9 9 0 1 0 25 16" class="mk"/><path d="M11.5 16.2l3.2 3.2 6.8-7" class="mk"/></svg>
+        <span class="wordmark">Open<b>Apply</b></span>
+      </a>
+      <nav class="nav" id="nav"></nav>
+      <div class="side-foot" id="sideFoot"></div>
+    </aside>
+    <div class="main">
+      <header class="top">
+        <form class="search" id="globalSearch" role="search">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4 4"/></svg>
+          <label class="sr" for="q">Search every indexed role</label>
+          <input id="q" name="q" type="search" placeholder="Search 14,000 open roles" autocomplete="off">
+          <kbd>/</kbd>
+        </form>
+        <div class="top-meta" id="topMeta"></div>
+      </header>
+      <div id="banner"></div>
+      <main id="view" tabindex="-1" aria-live="polite"></main>
+    </div>
+  </div>
+  <div id="drawerRoot"></div>
+  <div id="modalRoot"></div>
+  <div class="toasts" id="toasts" role="status" aria-live="polite"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

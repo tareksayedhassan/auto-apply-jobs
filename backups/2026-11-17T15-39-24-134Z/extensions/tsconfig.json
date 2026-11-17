@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES2023", "module": "NodeNext", "moduleResolution": "NodeNext",
+    "strict": true, "skipLibCheck": true, "outDir": "dist",
+    "typeRoots": ["../openapply/node_modules/@types"]
+  },
+  "include": ["visa-eligibility/**/*.mts"]
+}

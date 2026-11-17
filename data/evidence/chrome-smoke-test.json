@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-11-17T14:42:44.139Z",
+  "browser": "Google Chrome",
+  "method": "Playwright persistent context; dedicated project profile; no personal profile copied",
+  "personal_profile": "User confirmed Profile 4 — dev; account display name dev Tarek Elsayed",
+  "profile_directory": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\data\\chrome-automation-profile",
+  "launch_succeeded": true,
+  "sites": [
+    {
+      "name": "Microsoft",
+      "url": "https://careers.microsoft.com/",
+      "page_loaded": false,
+      "job_search": "not tested",
+      "job_details": "not tested",
+      "application_form": "not tested",
+      "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://careers.microsoft.com/\", waiting until \"domcontentloaded\"\u001b[22m\n",
+      "reason": "External navigation failed; dependent search/detail/form tests cannot run."
+    },
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.jobs/",
+      "page_loaded": false,
+      "job_search": "not tested",
+      "job_details": "not tested",
+      "application_form": "not tested",
+      "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.amazon.jobs/\", waiting until \"domcontentloaded\"\u001b[22m\n",
+      "reason": "External navigation failed; dependent search/detail/form tests cannot run."
+    },
+    {
+      "name": "BMW",
+      "url": "https://www.bmwgroup.jobs/",
+      "page_loaded": false,
+      "job_search": "not tested",
+      "job_details": "not tested",
+      "application_form": "not tested",
+      "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.bmwgroup.jobs/\", waiting until \"domcontentloaded\"\u001b[22m\n",
+      "reason": "External navigation failed; dependent search/detail/form tests cannot run."
+    }
+  ],
+  "version": "157.0.8103.79",
+  "local_dom_test": true,
+  "personal_profile_directory": "C:\\Users\\dell\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 4"
+}

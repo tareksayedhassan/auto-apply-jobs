@@ -1,0 +1,204 @@
+{
+  "companies": [
+    {
+      "name": "Stripe",
+      "career_url": "https://stripe.com/jobs",
+      "source_url": "https://stripe.com/jobs",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "PayPal",
+      "career_url": "https://careers.pypl.com/",
+      "source_url": "https://careers.pypl.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Block",
+      "career_url": "https://block.xyz/careers",
+      "source_url": "https://block.xyz/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Checkout.com",
+      "career_url": "https://www.checkout.com/careers",
+      "source_url": "https://www.checkout.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Wise",
+      "career_url": "https://wise.jobs/",
+      "source_url": "https://wise.jobs/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Revolut",
+      "career_url": "https://www.revolut.com/careers/",
+      "source_url": "https://www.revolut.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Monzo",
+      "career_url": "https://monzo.com/careers/",
+      "source_url": "https://monzo.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "N26",
+      "career_url": "https://n26.com/en-eu/careers",
+      "source_url": "https://n26.com/en-eu/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Trade Republic",
+      "career_url": "https://traderepublic.com/en-de/careers",
+      "source_url": "https://traderepublic.com/en-de/careers",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Career lookup attempted; no readable/verified page returned. Resume through alternate official source when available."
+    },
+    {
+      "name": "Scalable Capital",
+      "career_url": "https://de.scalable.capital/en/careers",
+      "source_url": "https://de.scalable.capital/en/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Raisin",
+      "career_url": "https://www.raisin.com/en/careers/",
+      "source_url": "https://www.raisin.com/en/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "SumUp",
+      "career_url": "https://www.sumup.com/careers/",
+      "source_url": "https://www.sumup.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Mollie",
+      "career_url": "https://www.mollie.com/careers",
+      "source_url": "https://www.mollie.com/careers",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Career lookup attempted; no readable/verified page returned. Resume through alternate official source when available."
+    },
+    {
+      "name": "Klarna",
+      "career_url": "https://www.klarna.com/careers/",
+      "source_url": "https://www.klarna.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Plaid",
+      "career_url": "https://plaid.com/careers/",
+      "source_url": "https://plaid.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Brex",
+      "career_url": "https://www.brex.com/careers",
+      "source_url": "https://www.brex.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Ramp",
+      "career_url": "https://ramp.com/careers",
+      "source_url": "https://ramp.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Coinbase",
+      "career_url": "https://www.coinbase.com/careers",
+      "source_url": "https://www.coinbase.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Robinhood",
+      "career_url": "https://careers.robinhood.com/",
+      "source_url": "https://careers.robinhood.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    },
+    {
+      "name": "Intuit",
+      "career_url": "https://www.intuit.com/careers/",
+      "source_url": "https://www.intuit.com/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:37:22.513Z",
+      "notes": "Official careers page inspected; backend/TypeScript vacancies need targeted job-level review."
+    }
+  ]
+}

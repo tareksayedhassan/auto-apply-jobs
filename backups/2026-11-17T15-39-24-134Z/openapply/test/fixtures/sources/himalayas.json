@@ -1,0 +1,96 @@
+{
+ "comments": "21/08/2026: Cursor pagination is now available and is the preferred way to page through the feed. Pass the nextCursor value from each response back as ?cursor=. It is faster than offset and will never return the same job twice. The offset parameter is deprecated and will be removed in a future release. 13/03/2026: The API has been updated to include the companySlug field in the response.",
+ "updatedAt": 1791758604,
+ "offset": 0,
+ "limit": 20,
+ "totalCount": 123518,
+ "nextCursor": "MjAyNi0xMC0xMVQyMjozNTo0NS44Nzk4ODdafDIzOTMwMzk",
+ "jobs": [
+  {
+   "title": "Competency Leader, Analytics - Life Sciences",
+   "excerpt": "Inizio Partners is a top-rated executive hiring and IT placement firm serving clients globally.",
+   "companyName": "Inizio Partners Corp",
+   "companySlug": "inizio-partners-corp",
+   "companyLogo": "",
+   "employmentType": "Full Time",
+   "minSalary": 200000,
+   "maxSalary": 220000,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": "USD",
+   "locationRestrictions": [
+    "United States"
+   ],
+   "timezoneRestrictions": [
+    -10,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    14
+   ],
+   "categories": [
+    "Analytics-Lead",
+    "Practice-Leader",
+    "Healthcare-Analytics-Director",
+    "VP-Analytics",
+    "Data-Analytics-Consultant",
+    "Competency-Leader",
+    "Healthcare-Analytics-Lead",
+    "Data-and-Analytics-Practice-Lead",
+    "Healthcare-Data-Analytics-Lead"
+   ],
+   "parentCategories": [],
+   "description": "<p>Inizio Partners is a top-rated executive hiring and IT placement firm serving clients globally. Inizio's clients include Fortune 500 companies, consulting firms, defense contractors, startups, private equity &amp; venture capital firms etc.</p><p>We are currently recruiting for a <strong>Competency Leader, Analytics - Life Sciences </strong>(VP Role) for one of our key customers, a Nasdaq-listed data analytics and digital operations &amp; solutions company that partners with clients to improve business outcomes and unlock growth. By bringing together deep domain expertise with robust data, powerful analytics, cloud, artificial intelligence (AI) and machine learning (ML), we create agile, scalable solutions and execute complex operations for the worlds leading corporations in industries including insurance, healthcare, banking and financial services, media, and retail, among others.</p><p><strong>The Analytics Life Sciences Competency Leader</strong> will be responsible for driving the growth and success of our life sciences practice, specifically focusing on data and analytics services. This role requires a combination of technical expertise, industry knowledge, and leadership abilities to deliver innovative solutions to our life sciences clients. The Competency Leader will collaborate closely with cross-functional teams to develop and execute strategies that address the unique challenges and opportunities in the life sciences sector.</p><h3>Key Responsibilities:</h3><h3>1. Practice Development:</h3><ul>\n<li>Develop and implement a comprehensive growth strategy for the life sciences practice, aligned with the company's overall business objectives.</li>\n<li>Identify new business opportunities and cultivate relationships with key stakeholders in the life sciences industry.</li>\n<li>Stay updated on industry trends, regulations, and emerging technologies to drive innovation within the practice.</li>\n</ul><h3>2. Client Engagement:</h3><ul>\n<li>Act as a trusted advisor to clients, understanding their business needs, and providing tailored data and analytics solutions.</li>\n<li>Lead client engagements, including scoping projects, defining deliverables, and managing successful project execution.</li>\n<li>Collaborate with cross-functional teams to ensure high-quality delivery of projects within the agreed timelines and budgets.</li>\n</ul><h3>3. Team Leadership:</h3><ul>\n<li>Build and manage a high-performing team of data scientists, analysts, and consultants, fo",
+   "pubDate": 1791758604,
+   "expiryDate": 1796942603,
+   "applicationLink": "https://himalayas.app/companies/inizio-partners-corp/jobs/competency-leader-analytics-life-sciences",
+   "guid": "https://himalayas.app/companies/inizio-partners-corp/jobs/competency-leader-analytics-life-sciences"
+  },
+  {
+   "title": "Senior Cloud Operations Engineer (all genders) CH",
+   "excerpt": "Alle reden von Digitalisierung – Wir machen es.  Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning.",
+   "companyName": "BSI Business Systems Integration",
+   "companySlug": "bsi-business-systems-integration",
+   "companyLogo": "https://cdn-images.himalayas.app/dgxhgbq5q3ci87lv4rwgd016zpkc",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": "CHF",
+   "locationRestrictions": [
+    "Switzerland"
+   ],
+   "timezoneRestrictions": [
+    1
+   ],
+   "categories": [
+    "Cloud-Operations-Engineer",
+    "Site-Reliability-Engineer",
+    "DevOps-Engineer",
+    "Platform-Engineer",
+    "Systems-Engineer",
+    "Senior-Cloud-Infrastructure-Engineer",
+    "Senior-Cloud-Engineer",
+    "Senior-Cloud-Systems-Engineer",
+    "Senior-Infrastructure-Operations-Engineer",
+    "CloudOps-Engineer"
+   ],
+   "parentCategories": [
+    "Developer",
+    "Operations"
+   ],
+   "description": "<p>Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig!</p><h3>Requirements</h3><h4><strong>Deine Aufgaben</strong></h4><ul>\n<li><p>Du verantwortest den stabilen und effizienten Betrieb unserer SaaS-Plattform auf AWS, Azure und T-Systems sicher und sorgst für die Einhaltung unserer SLAs</p></li>\n<li><p>Du entwickelst unsere Observability mit Prometheus und Grafana weiter, analysierst Störungen und führst Root-Cause-Analysen durch. Als Teil des Teams übernimmst du zudem 2nd-Level-Support und die Rufbereitschaft</p></li>\n<li><p>Du betreust über 20 Cluster, auf denen unsere gesamte Kundenbasis läuft – inklusive Lifecycle, Updates und Weiterentwicklung der Plattform</p></li>\n<li><p>Du automatisierst den Aufbau und die Verwaltung unserer Cloud-Infrastruktur mit Terraform und sorgst mit ArgoCD, Docker und CI/CD dafür, dass neue Anwendungen zuverlässig und automatisiert auf Kubernetes bereitgestellt werden</p></li>\n<li><p>Du sorgst für sichere und widerstandsfähige Systeme, entwickelst Backup- und Disaster-Recovery-Konzepte weiter und stellst deren Praxistauglichkeit regelmässig auf die Probe</p></li>\n<li><p>Du hältst unsere Dokumentation aktuell, optimierst Abläufe und automatisierst, was nicht manuell erledigt werden muss</p></li>\n</ul><h4><strong>Wir suchen Macher</strong></h4><ul>\n<li><p>Abgeschlossene Lehre, mind. 3 Jahre Erfahrung in diesem Gebiet </p></li>\n<li><p>Breite Kenntnisse in den Bereichen Netzwerk, Security, Virtualisierung, Container (Docker/Kubernetes)</p></li>\n<li><p>Erfahrung mit Automatisierungstools (Ansible, Terraform) und Skriptsprachen (Bash, Python)</p></li>\n<li><p>Fundiertes Linux Knowhow (Ubuntu/Debian, RedHat/CentOS)</p></li>\n<li><p>Neugier, effizientes Arbeiten und unternehmerisches Denken</p></li>\n<li><p>Sehr gute Deutsch- und Englischkenntnisse</p></li>\n</ul><h4><strong>Starke Gründe für BSI</strong></h4><ul>\n<li><p>Unternehmerische Gestaltungs- und Beteiligungsmöglichkeiten in wertschätzender Firmenkultur frei von Hierarchien</p></li>\n<li><p>Persönliche Betreuung und unser Weiterbildungsbudget für deine Entwicklung</p></li>\n<li><h3>Beitrag zum Mitta",
+   "pubDate": 1791758594,
+   "expiryDate": 1796942593,
+   "applicationLink": "https://himalayas.app/companies/bsi-business-systems-integration/jobs/senior-cloud-operations-engineer-all-genders-ch",
+   "guid": "https://himalayas.app/companies/bsi-business-systems-integration/jobs/senior-cloud-operations-engineer-all-genders-ch"
+  }
+ ]
+}

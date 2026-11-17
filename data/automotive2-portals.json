@@ -1,0 +1,204 @@
+{
+  "companies": [
+    {
+      "name": "BorgWarner",
+      "career_url": "https://www.borgwarner.com/careers",
+      "source_url": "https://www.borgwarner.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Denso",
+      "career_url": "https://www.denso.com/global/en/careers/",
+      "source_url": "https://www.denso.com/global/en/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Toyota",
+      "career_url": "https://careers.toyota.com/",
+      "source_url": "https://careers.toyota.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "Honda",
+      "career_url": "https://careers.honda.com/",
+      "source_url": "https://careers.honda.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Nissan",
+      "career_url": "https://www.nissan-global.com/EN/CAREERS/",
+      "source_url": "https://www.nissan-global.com/EN/CAREERS/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "Hyundai",
+      "career_url": "https://careers.hyundai.com/",
+      "source_url": "https://careers.hyundai.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "Kia",
+      "career_url": "https://www.kia.com/us/en/careers",
+      "source_url": "https://www.kia.com/us/en/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Lucid Motors",
+      "career_url": "https://lucidmotors.com/careers",
+      "source_url": "https://lucidmotors.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Polestar",
+      "career_url": "https://careers.polestar.com/",
+      "source_url": "https://careers.polestar.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "Volvo Cars",
+      "career_url": "https://www.volvocars.com/intl/careers/",
+      "source_url": "https://www.volvocars.com/intl/careers/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Volvo Group",
+      "career_url": "https://www.volvogroup.com/en/careers.html",
+      "source_url": "https://www.volvogroup.com/en/careers.html",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Scania",
+      "career_url": "https://www.scania.com/group/en/home/career.html",
+      "source_url": "https://www.scania.com/group/en/home/career.html",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "MAN Truck & Bus",
+      "career_url": "https://www.man.eu/corporate/en/career/career.html",
+      "source_url": "https://www.man.eu/corporate/en/career/career.html",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Daimler Truck",
+      "career_url": "https://www.daimlertruck.com/en/career",
+      "source_url": "https://www.daimlertruck.com/en/career",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Stellantis",
+      "career_url": "https://careers.stellantis.com/",
+      "source_url": "https://careers.stellantis.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Renault",
+      "career_url": "https://www.renaultgroup.com/en/talents/",
+      "source_url": "https://www.renaultgroup.com/en/talents/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "Michelin",
+      "career_url": "https://jobs.michelin.com/",
+      "source_url": "https://jobs.michelin.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    },
+    {
+      "name": "Bridgestone",
+      "career_url": "https://www.bridgestoneamericas.com/en/careers",
+      "source_url": "https://www.bridgestoneamericas.com/en/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Goodyear",
+      "career_url": "https://jobs.goodyear.com/",
+      "source_url": "https://jobs.goodyear.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Official careers landing page inspected; targeted backend/TypeScript/business platform vacancy review pending."
+    },
+    {
+      "name": "Pirelli",
+      "career_url": "https://careers.pirelli.com/",
+      "source_url": "https://careers.pirelli.com/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:38:02.788Z",
+      "notes": "Career URL lookup attempted; error, omitted response or unreadable content. Alternate verified official path needed."
+    }
+  ]
+}

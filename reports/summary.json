@@ -1,0 +1,337 @@
+{
+  "generatedAt": "2026-11-17T15:38:54.514Z",
+  "metrics": {
+    "employers_indexed": 343,
+    "historical_employer_lookups": 207,
+    "historical_readable_official_portals": 158,
+    "historical_vacancies": 365,
+    "historical_preliminary_assessments": 365,
+    "unique_active_vacancies": 0,
+    "technical_matches": 0,
+    "visa_feasible_opportunities": 0,
+    "applications_prepared": 0,
+    "awaiting_approval": 0,
+    "approved": 0,
+    "applications_submitted": 0,
+    "employer_confirmed_submissions": 0,
+    "blocked": 5,
+    "failed": 0,
+    "unknown_outcomes": 0,
+    "interviews": 0,
+    "responses": 0
+  },
+  "historicalCountryDistribution": [
+    {
+      "country": "Unknown",
+      "vacancies": 329
+    },
+    {
+      "country": "Germany",
+      "vacancies": 13
+    },
+    {
+      "country": "USA",
+      "vacancies": 11
+    },
+    {
+      "country": "Greece",
+      "vacancies": 4
+    },
+    {
+      "country": "Argentina",
+      "vacancies": 3
+    },
+    {
+      "country": "Uruguay",
+      "vacancies": 1
+    },
+    {
+      "country": "UAE",
+      "vacancies": 1
+    },
+    {
+      "country": "Spain",
+      "vacancies": 1
+    },
+    {
+      "country": "Ireland",
+      "vacancies": 1
+    },
+    {
+      "country": "Finland",
+      "vacancies": 1
+    }
+  ],
+  "companyDistribution": [
+    {
+      "company": "Mercedes-Benz",
+      "vacancies": 24
+    },
+    {
+      "company": "Delivery Hero",
+      "vacancies": 22
+    },
+    {
+      "company": "BMW Group",
+      "vacancies": 20
+    },
+    {
+      "company": "Porsche",
+      "vacancies": 16
+    },
+    {
+      "company": "Amazon",
+      "vacancies": 16
+    },
+    {
+      "company": "Zalando",
+      "vacancies": 13
+    },
+    {
+      "company": "Revolut",
+      "vacancies": 13
+    },
+    {
+      "company": "MongoDB",
+      "vacancies": 13
+    },
+    {
+      "company": "Wise",
+      "vacancies": 12
+    },
+    {
+      "company": "Tesla",
+      "vacancies": 12
+    },
+    {
+      "company": "General Motors",
+      "vacancies": 12
+    },
+    {
+      "company": "Ford",
+      "vacancies": 12
+    },
+    {
+      "company": "Coinbase",
+      "vacancies": 12
+    },
+    {
+      "company": "Atlassian",
+      "vacancies": 12
+    },
+    {
+      "company": "Google",
+      "vacancies": 11
+    },
+    {
+      "company": "Cisco",
+      "vacancies": 11
+    },
+    {
+      "company": "Stripe",
+      "vacancies": 10
+    },
+    {
+      "company": "Snowflake",
+      "vacancies": 10
+    },
+    {
+      "company": "SAP",
+      "vacancies": 10
+    },
+    {
+      "company": "Datadog",
+      "vacancies": 10
+    },
+    {
+      "company": "Canonical",
+      "vacancies": 10
+    },
+    {
+      "company": "Vercel",
+      "vacancies": 9
+    },
+    {
+      "company": "ServiceNow",
+      "vacancies": 8
+    },
+    {
+      "company": "IBM",
+      "vacancies": 8
+    },
+    {
+      "company": "Elastic",
+      "vacancies": 8
+    },
+    {
+      "company": "TeamViewer",
+      "vacancies": 7
+    },
+    {
+      "company": "Databricks",
+      "vacancies": 7
+    },
+    {
+      "company": "SIXT",
+      "vacancies": 6
+    },
+    {
+      "company": "Volkswagen Group",
+      "vacancies": 5
+    },
+    {
+      "company": "Personio",
+      "vacancies": 5
+    },
+    {
+      "company": "DeepL",
+      "vacancies": 3
+    },
+    {
+      "company": "Netlify",
+      "vacancies": 2
+    },
+    {
+      "company": "N26",
+      "vacancies": 2
+    },
+    {
+      "company": "Klarna",
+      "vacancies": 2
+    },
+    {
+      "company": "Contentful",
+      "vacancies": 2
+    },
+    {
+      "company": "Cloudflare",
+      "vacancies": 2
+    },
+    {
+      "company": "Audi",
+      "vacancies": 2
+    },
+    {
+      "company": "Supabase",
+      "vacancies": 1
+    },
+    {
+      "company": "Oracle",
+      "vacancies": 1
+    },
+    {
+      "company": "NVIDIA",
+      "vacancies": 1
+    },
+    {
+      "company": "DigitalOcean",
+      "vacancies": 1
+    },
+    {
+      "company": "Adyen",
+      "vacancies": 1
+    },
+    {
+      "company": "Adobe",
+      "vacancies": 1
+    }
+  ],
+  "applications": [
+    {
+      "job_id": "legacy:1",
+      "status": "needs_human",
+      "confirmation_code": null,
+      "submitted_at": null,
+      "notes": "{\"legacyStatus\":\"blocked\",\"blocker\":\"Portal sign-in/browser access blocked; sponsorship and exact required application answers unverified.\",\"resumePath\":null}",
+      "created_at": "2026-11-17T14:31:06.421Z",
+      "updated_at": "2026-11-17T14:31:06.421Z",
+      "source": null,
+      "company": "Amazon",
+      "title": "Software Development Engineer II, PartyRock",
+      "url": "https://www.amazon.jobs/en/jobs/10471492/software-development-engineer-ii-partyrock",
+      "confirmation_text": null,
+      "confirmation_reference": null,
+      "confirmation_url": null,
+      "evidence_path": null,
+      "sha256": null
+    },
+    {
+      "job_id": "legacy:2",
+      "status": "needs_human",
+      "confirmation_code": null,
+      "submitted_at": null,
+      "notes": "{\"legacyStatus\":\"blocked\",\"blocker\":\"Apply link redirects to Amazon sign-in; browser network blocked; sponsorship, adult eligibility and DSA/OOP answers need verification.\",\"resumePath\":null}",
+      "created_at": "2026-11-17T14:31:06.421Z",
+      "updated_at": "2026-11-17T14:31:06.421Z",
+      "source": null,
+      "company": "Amazon",
+      "title": "Software Development Engineer - Specialized US 2026",
+      "url": "https://www.amazon.jobs/en/jobs/10406147/software-development-engineer-specialized-us-2026",
+      "confirmation_text": null,
+      "confirmation_reference": null,
+      "confirmation_url": null,
+      "evidence_path": null,
+      "sha256": null
+    },
+    {
+      "job_id": "legacy:3",
+      "status": "needs_human",
+      "confirmation_code": null,
+      "submitted_at": null,
+      "notes": "{\"legacyStatus\":\"blocked\",\"blocker\":\"Exact graduation date needed for 24-month window; Amazon sign-in and browser networking block application.\",\"resumePath\":null}",
+      "created_at": "2026-11-17T14:31:06.421Z",
+      "updated_at": "2026-11-17T14:31:06.421Z",
+      "source": null,
+      "company": "Amazon",
+      "title": "Software Development Engineer - 2026",
+      "url": "https://www.amazon.jobs/en/jobs/10477396/software-development-engineer-2026",
+      "confirmation_text": null,
+      "confirmation_reference": null,
+      "confirmation_url": null,
+      "evidence_path": null,
+      "sha256": null
+    },
+    {
+      "job_id": "legacy:14",
+      "status": "needs_human",
+      "confirmation_code": null,
+      "submitted_at": null,
+      "notes": "{\"legacyStatus\":\"blocked\",\"blocker\":\"Export-control status requirement not established from verified candidate information.\",\"resumePath\":null}",
+      "created_at": "2026-11-17T14:32:15.957Z",
+      "updated_at": "2026-11-17T14:32:15.957Z",
+      "source": null,
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
+      "url": "https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026",
+      "confirmation_text": null,
+      "confirmation_reference": null,
+      "confirmation_url": null,
+      "evidence_path": null,
+      "sha256": null
+    },
+    {
+      "job_id": "legacy:19",
+      "status": "needs_human",
+      "confirmation_code": null,
+      "submitted_at": null,
+      "notes": "{\"legacyStatus\":\"blocked\",\"blocker\":\"Browser network denied; salary and EU permit status missing; demographic response and legal consent must not be guessed.\",\"resumePath\":null}",
+      "created_at": "2026-11-17T14:33:51.859Z",
+      "updated_at": "2026-11-17T14:33:51.859Z",
+      "source": null,
+      "company": "Zalando",
+      "title": "Junior FullStack Engineer (all genders)",
+      "url": "https://jobs.zalando.com/en/jobs/2726223-Junior-FullStack-Engineer-%28all-genders%29",
+      "confirmation_text": null,
+      "confirmation_reference": null,
+      "confirmation_url": null,
+      "evidence_path": null,
+      "sha256": null
+    }
+  ],
+  "integrity": [
+    {
+      "integrity_check": "ok"
+    }
+  ],
+  "foreignKeyErrors": []
+}

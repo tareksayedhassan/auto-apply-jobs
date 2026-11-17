@@ -1,0 +1,87 @@
+TAREK ELSAYED
+Backend Engineer
++201003383601
+tarekelsayed.dev@gmail.com
+https://tarekelsayed.com
+Alexandria, Egypt
+ linkedin
+github
+SUMMARY
+Backend Software Engineer specializing in Node.js, NestJS, and TypeScript, with hands-on experience building and deploying production applications 
+from scratch. Skilled in designing RESTful APIs, backend architecture, authentication systems, CRM integrations, and custom ERP solutions. Experienced 
+with MySQL, Redis, AWS cloud deployments, and delivering reliable backend services for web and mobile applications.
+SKILLS
+Backend: Node.js, NestJS, Express.js
+Databases & ORM:PostgreSQL, MySQL, MongoDB, Redis, Prisma, TypeORM
+Authentication: JWT, OTP, Google OAuth, Signed Uploads
+Integrations & Services: String CRM, Cloudinary, Firebase/FCM, SMS/OTP APIs, Third-Party API Integrations
+Cloud & DevOps: Docker, AWS, VPS Administration, GitHub Actions, CI/CD, Production Deployment, CloudPanel
+Languages: TypeScript, JavaScript
+Frontend Exposure: React.js, Next.js, React Native, Tailwind CSS
+Tools & Version Control: Git, GitHub
+Additional: Technical SEO, Performance Optimization
+PROFESSIONAL EXPERIENCE
+ Luxury Vehicles
+Jan 2026 – Present
+Backend Software Engineer
+•
+Solely built and launched Mawlha, processing 1,000+ financing applications and 50+ reservation requests, with 150+ vehicles across 70+ brands.
+•
+Developed production web and mobile applications using Node.js, NestJS, TypeScript, MySQL, and Redis.
+•
+Managed VPS infrastructure, Docker, and GitHub Actions CI/CD, optimizing deployment and production reliability.
+•
+Integrated String CRM APIs and optimized image handling using Cloudinary signed uploads, reducing backend processing overhead.
+•
+Supported Swapcar and Baddelha development, infrastructure, and production operations.
+Skoda Auto
+Jan 2025 – Nov 2025
+Full-Stack Developer 
+•
+Developed a spare-parts pricing platform using Next.js and Prisma, replacing manual Excel workflows.
+•
+Built a centralized system serving 20+ employees across 2 branches, managing pricing for Skoda, Volkswagen, and Audi.
+•
+Implemented Role-Based Access Control (RBAC) and streamlined spare-parts price verification for maintenance teams.
+Top Quality Automotive
+Jan 2025 – Mar 2025
+Full-Stack Developer 
+•
+Built a custom ERP system to replace the company’s legacy ERP, implementing complex business modules and operational workflows.
+•
+Developed the system end-to-end across backend, frontend, database logic, and internal process automation.
+PROJECTS
+Mawlha Automotive Platform — Full-Stack Software Engineer
+Jan 2026 – Present
+•
+Designed and developed a complete automotive financing platform, including backend APIs, web frontend, and mobile applications.
+•
+Implemented financing workflows, JWT/OTP authentication, vehicle inventory, reservations, and external service integrations.
+•
+Published the mobile application on iOS and Android, supporting a live platform processing customer financing applications.
+Akhil Tourism — Independent Project
+Apr 2026 – Sep 2026
+•
+Built the backend architecture, REST APIs, authentication with JWT & Google OAuth, and the internal admin dashboard.
+•
+Managed infrastructure and production deployment, while collaborating with the team on the website frontend.
+EDUCATION
+Bachelor’s Degree in Management Information Systems (MIS)
+Alexandria • 2020 – 2024
+LANGUAGES
+Arabic
+Native
+English
+Intermediate
+
+LINKS
+tel:+201003383601
+mailto:tarekelsayed.dev@gmail.com
+https://tarekelsayed.com/
+https://www.linkedin.com/in/tarek-el-sayed-06139631b/?isSelfProfile=true
+https://github.com/tareksayedhassan
+https://luxuryvec.com/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/
+https://ar.skoda-egypt.com/
+https://mawlha.com/ar
+https://akheel.net/
+https://www.bhi47.com/

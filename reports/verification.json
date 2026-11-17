@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2026-11-17T15:38:47.027Z",
+  "results": [
+    {
+      "name": "strict-build",
+      "passed": true
+    },
+    {
+      "name": "integration-tests",
+      "passed": true
+    },
+    {
+      "name": "mcp-stdio",
+      "passed": true,
+      "tools": [
+        "get_started",
+        "import_resume",
+        "get_resume",
+        "save_resume",
+        "get_profile",
+        "update_profile",
+        "sync_jobs",
+        "search_jobs",
+        "get_job",
+        "list_matches",
+        "index_stats",
+        "discover_company",
+        "get_tailoring_brief",
+        "save_application_pack",
+        "draft_why_us",
+        "get_application_pack",
+        "inspect_application",
+        "fill_application",
+        "submit_application",
+        "close_browser",
+        "save_job",
+        "update_application",
+        "list_applications",
+        "import_history",
+        "log_applied_offsite",
+        "apply_outcomes",
+        "pipeline_summary",
+        "log_event",
+        "open_dashboard",
+        "company_brief",
+        "hiring_signals",
+        "get_outreach_brief",
+        "log_outreach",
+        "draft_outreach",
+        "update_outreach",
+        "list_outreach",
+        "due_follow_ups",
+        "strategy_scoreboard"
+      ]
+    },
+    {
+      "name": "canonical-db-integrity",
+      "passed": true
+    }
+  ]
+}

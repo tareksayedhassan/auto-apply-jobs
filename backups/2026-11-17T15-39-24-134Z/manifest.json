@@ -1,0 +1,1990 @@
+{
+  "root": "C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile",
+  "createdAt": "2026-11-17T15-39-24-134Z",
+  "inventory": [
+    {
+      "path": ".gitignore",
+      "bytes": 222,
+      "sha256": "b79aa89253826d40e23703d36c8ce5b6eba8a36e884bda432eff864419025d24",
+      "backupSha256": "b79aa89253826d40e23703d36c8ce5b6eba8a36e884bda432eff864419025d24"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 6771,
+      "sha256": "edf8b05669d38d887d19ad525edd19e490cc57ec8dee6c2f1f571a54eaa1dca2",
+      "backupSha256": "edf8b05669d38d887d19ad525edd19e490cc57ec8dee6c2f1f571a54eaa1dca2"
+    },
+    {
+      "path": "applications\\resumes\\automotive.html",
+      "bytes": 4792,
+      "sha256": "48e59e225fef76244ddf219a09351fa3a789e914888de7dfd7b5fe93709d4ccc",
+      "backupSha256": "48e59e225fef76244ddf219a09351fa3a789e914888de7dfd7b5fe93709d4ccc"
+    },
+    {
+      "path": "applications\\resumes\\automotive.pdf",
+      "bytes": 65845,
+      "sha256": "b3e970f54eaf0c25de6c00776dc92496470edb9f99855e22e5ec0d105ba9c1ba",
+      "backupSha256": "b3e970f54eaf0c25de6c00776dc92496470edb9f99855e22e5ec0d105ba9c1ba"
+    },
+    {
+      "path": "applications\\resumes\\automotive.txt",
+      "bytes": 3451,
+      "sha256": "d226ba4c04b5dc9d089158952fe35cff41a7e90d2bd964c94a7a569bddb2a4e9",
+      "backupSha256": "d226ba4c04b5dc9d089158952fe35cff41a7e90d2bd964c94a7a569bddb2a4e9"
+    },
+    {
+      "path": "applications\\resumes\\backend.html",
+      "bytes": 4799,
+      "sha256": "3a8ae39cd348da68d16d12e27335c72992f83ccfd8897c47ce56b00fc244d6e5",
+      "backupSha256": "3a8ae39cd348da68d16d12e27335c72992f83ccfd8897c47ce56b00fc244d6e5"
+    },
+    {
+      "path": "applications\\resumes\\backend.pdf",
+      "bytes": 65835,
+      "sha256": "ea469d36709b56ccee5eabc55865f1e661b53df4670116ffd6c275a0495a3440",
+      "backupSha256": "ea469d36709b56ccee5eabc55865f1e661b53df4670116ffd6c275a0495a3440"
+    },
+    {
+      "path": "applications\\resumes\\backend.txt",
+      "bytes": 3458,
+      "sha256": "46cf3336a071d36b6bfac220ce441e7eaa312bd270b4edeb2257edcc5c3c7c53",
+      "backupSha256": "46cf3336a071d36b6bfac220ce441e7eaa312bd270b4edeb2257edcc5c3c7c53"
+    },
+    {
+      "path": "ARCHITECTURE.md",
+      "bytes": 6667,
+      "sha256": "a3aed1045987160fac6f0edee8405965362ae24c14cd5053013328deba817a72",
+      "backupSha256": "a3aed1045987160fac6f0edee8405965362ae24c14cd5053013328deba817a72"
+    },
+    {
+      "path": "browser.config.json",
+      "bytes": 729,
+      "sha256": "1ae12b3c7f3b45a3f9553ea84f56adffb0b678fcebdff7ebc9b787a48ea90685",
+      "backupSha256": "1ae12b3c7f3b45a3f9553ea84f56adffb0b678fcebdff7ebc9b787a48ea90685"
+    },
+    {
+      "path": "candidate_answers.json",
+      "bytes": 2295,
+      "sha256": "c8609ae6c0d5b2c28efa920e41a675cc4593079f32d14d64d8d4c8d0bea00347",
+      "backupSha256": "c8609ae6c0d5b2c28efa920e41a675cc4593079f32d14d64d8d4c8d0bea00347"
+    },
+    {
+      "path": "CLEANUP_REPORT.md",
+      "bytes": 3906,
+      "sha256": "9f9dd50b5c8fc13a5b4499749f366390e54964ee126819cc77f272a0bbf8ee66",
+      "backupSha256": "9f9dd50b5c8fc13a5b4499749f366390e54964ee126819cc77f272a0bbf8ee66"
+    },
+    {
+      "path": "config\\codex-mcp.toml",
+      "bytes": 182,
+      "sha256": "d017ee57c80a54847f6e6ffc00d3b8ae22b435c92b69d5594279b32f48592e5f",
+      "backupSha256": "d017ee57c80a54847f6e6ffc00d3b8ae22b435c92b69d5594279b32f48592e5f"
+    },
+    {
+      "path": "dashboard.html",
+      "bytes": 5703,
+      "sha256": "8fdc79da2b8d072275f7117a0909a878134599ab8e9876e1040e0290ccc5e0dd",
+      "backupSha256": "8fdc79da2b8d072275f7117a0909a878134599ab8e9876e1040e0290ccc5e0dd"
+    },
+    {
+      "path": "data\\automotive-portals.json",
+      "bytes": 8105,
+      "sha256": "15429f386e95d340df5557fad0d65222eafa669f72c7427d5f5668444c66844c",
+      "backupSha256": "15429f386e95d340df5557fad0d65222eafa669f72c7427d5f5668444c66844c"
+    },
+    {
+      "path": "data\\automotive2-portals.json",
+      "bytes": 8406,
+      "sha256": "8b8f02026c0a2ac69ed4fea9e70b91da0b9b8347c9345da137d7ebf79a213f5a",
+      "backupSha256": "8b8f02026c0a2ac69ed4fea9e70b91da0b9b8347c9345da137d7ebf79a213f5a"
+    },
+    {
+      "path": "data\\bmw-search-jobs.json",
+      "bytes": 14227,
+      "sha256": "dd8178b116c3836fc1476bc48f34281ea6f5d26c03654133513200f8093f2366",
+      "backupSha256": "dd8178b116c3836fc1476bc48f34281ea6f5d26c03654133513200f8093f2366"
+    },
+    {
+      "path": "data\\candidate_profile.json",
+      "bytes": 9380,
+      "sha256": "75c0d4ee968b9d919c53791810072b039d87e493a97a60c5b81de3d85a57a6b2",
+      "backupSha256": "75c0d4ee968b9d919c53791810072b039d87e493a97a60c5b81de3d85a57a6b2"
+    },
+    {
+      "path": "data\\checkpoint.json",
+      "bytes": 756,
+      "sha256": "1ae2e8d4ec9aa1d44b0671649db99a7a9212c06c63e1d7c1ef41b870848104ab",
+      "backupSha256": "1ae2e8d4ec9aa1d44b0671649db99a7a9212c06c63e1d7c1ef41b870848104ab"
+    },
+    {
+      "path": "data\\cloud-portals.json",
+      "bytes": 7982,
+      "sha256": "fe146f919a5be8ad4f2935fb17e9b5fdac04c39e8df9ae4b9a4da7ee62845341",
+      "backupSha256": "fe146f919a5be8ad4f2935fb17e9b5fdac04c39e8df9ae4b9a4da7ee62845341"
+    },
+    {
+      "path": "data\\deliveryhero-jobs.json",
+      "bytes": 7560,
+      "sha256": "e35e6b304df7890f29877a6a9b0673d6739459901dcb18981cc145bfcf664a61",
+      "backupSha256": "e35e6b304df7890f29877a6a9b0673d6739459901dcb18981cc145bfcf664a61"
+    },
+    {
+      "path": "data\\evidence\\chrome-local-test.png",
+      "bytes": 5900,
+      "sha256": "908cb03144160cec34a81d48d439b0e9e3701a6f635d2f727e50eba5bb2f7300",
+      "backupSha256": "908cb03144160cec34a81d48d439b0e9e3701a6f635d2f727e50eba5bb2f7300"
+    },
+    {
+      "path": "data\\evidence\\chrome-smoke-test.json",
+      "bytes": 2045,
+      "sha256": "11a43bd711f7bd360bf47eafebcde9c75b251716f0851287e78a8d9dde6fe771",
+      "backupSha256": "11a43bd711f7bd360bf47eafebcde9c75b251716f0851287e78a8d9dde6fe771"
+    },
+    {
+      "path": "data\\evidence\\connectivity-diagnostics.json",
+      "bytes": 7215,
+      "sha256": "82dbaf38a907cd429250ceb5681101aa47f0ebf8535775affbf4a481c534bb2d",
+      "backupSha256": "82dbaf38a907cd429250ceb5681101aa47f0ebf8535775affbf4a481c534bb2d"
+    },
+    {
+      "path": "data\\evidence\\dashboard.png",
+      "bytes": 50513,
+      "sha256": "6bdc9e3eab6861dcaac27968e4b5fa7c9fda16f4f20894b678d6bf98fdfe804a",
+      "backupSha256": "6bdc9e3eab6861dcaac27968e4b5fa7c9fda16f4f20894b678d6bf98fdfe804a"
+    },
+    {
+      "path": "data\\evidence\\microsoft-browser-test.json",
+      "bytes": 323,
+      "sha256": "e5e862c04a8817e75b174e64276d439656c254dd22bbac63066a7fc0607c1ea9",
+      "backupSha256": "e5e862c04a8817e75b174e64276d439656c254dd22bbac63066a7fc0607c1ea9"
+    },
+    {
+      "path": "data\\evidence\\recovery-google.json",
+      "bytes": 301,
+      "sha256": "786a6383baf9f384b98e45146a119f6116742bfabcf4675218d21e556f6e4311",
+      "backupSha256": "786a6383baf9f384b98e45146a119f6116742bfabcf4675218d21e556f6e4311"
+    },
+    {
+      "path": "data\\evidence\\recovery-mcp-extension.json",
+      "bytes": 240,
+      "sha256": "93a0459e92bf3df16800b38dfcef42b02b241f1e9f5a48237b3ba199320c062b",
+      "backupSha256": "93a0459e92bf3df16800b38dfcef42b02b241f1e9f5a48237b3ba199320c062b"
+    },
+    {
+      "path": "data\\expanded-jobs.json",
+      "bytes": 8459,
+      "sha256": "a5fe1c7d4196cc5167703517650b0e6a24b5d960c7f8ecbee9a14112133c30c2",
+      "backupSha256": "a5fe1c7d4196cc5167703517650b0e6a24b5d960c7f8ecbee9a14112133c30c2"
+    },
+    {
+      "path": "data\\finance-portals.json",
+      "bytes": 8298,
+      "sha256": "428eea6a0b6dac11762bb461b3fa370320d42fe1baad4d43bdb45be98078a77d",
+      "backupSha256": "428eea6a0b6dac11762bb461b3fa370320d42fe1baad4d43bdb45be98078a77d"
+    },
+    {
+      "path": "data\\fintech-portals.json",
+      "bytes": 7811,
+      "sha256": "6a3aac9c8154099a912a171aecb507911525c60a20d16013013dd23482e79604",
+      "backupSha256": "6a3aac9c8154099a912a171aecb507911525c60a20d16013013dd23482e79604"
+    },
+    {
+      "path": "data\\german-portals.json",
+      "bytes": 8277,
+      "sha256": "0a7f5e67f4fbe2203634950d0a781f4bec3910ead218be048956a4dc7dea9651",
+      "backupSha256": "0a7f5e67f4fbe2203634950d0a781f4bec3910ead218be048956a4dc7dea9651"
+    },
+    {
+      "path": "data\\industrial-portals.json",
+      "bytes": 8601,
+      "sha256": "c089623e65d74204cc278b312addbd2b58db6c8ca48d66ef25ad9e00886df754",
+      "backupSha256": "c089623e65d74204cc278b312addbd2b58db6c8ca48d66ef25ad9e00886df754"
+    },
+    {
+      "path": "data\\industrial-recheck-portals.json",
+      "bytes": 8118,
+      "sha256": "19575e6bcab316f60e209d679d83312a2443389d49a2f4e371fa59be54cffdb5",
+      "backupSha256": "19575e6bcab316f60e209d679d83312a2443389d49a2f4e371fa59be54cffdb5"
+    },
+    {
+      "path": "data\\jobs.sqlite",
+      "bytes": 1327104,
+      "sha256": "dbc1f0aa46d911d4d99ae7e68de8e7b141d3f4af0f71721a9f35692b86a21fb8",
+      "backupSha256": "845d872cbf717a43a3c3e50dba08579f6519f7940500ce036b974ffb4c6250a0"
+    },
+    {
+      "path": "data\\jobs.sqlite-shm",
+      "bytes": 32768,
+      "sha256": "607cf7f902dbe1427b9355b1da67a932de6792d3b40e9b6459a3fdbb5899b0d1"
+    },
+    {
+      "path": "data\\jobs.sqlite-wal",
+      "bytes": 2529712,
+      "sha256": "d76d59964ff6d3185548f48d5583ded88a2842d1d1226808cb3486a6dbc2086b"
+    },
+    {
+      "path": "data\\openapply\\profile.json",
+      "bytes": 1297,
+      "sha256": "eb1048eccdf0d86bed95351348d5389531f8250f1a07323244e0ce67c2edb26f",
+      "backupSha256": "eb1048eccdf0d86bed95351348d5389531f8250f1a07323244e0ce67c2edb26f"
+    },
+    {
+      "path": "data\\openapply\\resume-source.txt",
+      "bytes": 3789,
+      "sha256": "693a27849d678c52672531cd30aabac5f71c3e1dd3e4591170292dbbaf174b3a",
+      "backupSha256": "693a27849d678c52672531cd30aabac5f71c3e1dd3e4591170292dbbaf174b3a"
+    },
+    {
+      "path": "data\\openapply\\resume.json",
+      "bytes": 4483,
+      "sha256": "099a2bd3c24d2ef3c1018a5fce81d6218778d9913f9464b3a4c23a6df0c381f3",
+      "backupSha256": "099a2bd3c24d2ef3c1018a5fce81d6218778d9913f9464b3a4c23a6df0c381f3"
+    },
+    {
+      "path": "data\\product-portals.json",
+      "bytes": 7857,
+      "sha256": "4b74189536be5b1f4ad316c0f9db5ce25e796728b44f3ab68e58de8b16bc988b",
+      "backupSha256": "4b74189536be5b1f4ad316c0f9db5ce25e796728b44f3ab68e58de8b16bc988b"
+    },
+    {
+      "path": "data\\research-batch.json",
+      "bytes": 23006,
+      "sha256": "1e9586e875ab3bacbbfd97a42f50959862c3b3ea3bbd47c5782127da2938b2d9",
+      "backupSha256": "1e9586e875ab3bacbbfd97a42f50959862c3b3ea3bbd47c5782127da2938b2d9"
+    },
+    {
+      "path": "data\\resume-source.json",
+      "bytes": 610,
+      "sha256": "3ec53a6fab4cb1cdeda4dfdec180f197638bd5ebec8b2bbe28b007e598706622",
+      "backupSha256": "3ec53a6fab4cb1cdeda4dfdec180f197638bd5ebec8b2bbe28b007e598706622"
+    },
+    {
+      "path": "data\\resume.txt",
+      "bytes": 3789,
+      "sha256": "693a27849d678c52672531cd30aabac5f71c3e1dd3e4591170292dbbaf174b3a",
+      "backupSha256": "693a27849d678c52672531cd30aabac5f71c3e1dd3e4591170292dbbaf174b3a"
+    },
+    {
+      "path": "data\\search-jobs-01.json",
+      "bytes": 17,
+      "sha256": "2f527e61389013edcdf5461496d3d656066a912a9749aacf3dd51b3e1e906d10",
+      "backupSha256": "2f527e61389013edcdf5461496d3d656066a912a9749aacf3dd51b3e1e906d10"
+    },
+    {
+      "path": "data\\search-jobs-02-extra.json",
+      "bytes": 29407,
+      "sha256": "215edb315761707e81b4947e97b9889a5bd426f608b390f8676a7f7858a32da4",
+      "backupSha256": "215edb315761707e81b4947e97b9889a5bd426f608b390f8676a7f7858a32da4"
+    },
+    {
+      "path": "data\\search-jobs-02.json",
+      "bytes": 28480,
+      "sha256": "2692cdf4d9fe0c86139658570f9659983ad470f59b69d9ed20772dd29764d1d3",
+      "backupSha256": "2692cdf4d9fe0c86139658570f9659983ad470f59b69d9ed20772dd29764d1d3"
+    },
+    {
+      "path": "data\\search-jobs-03.json",
+      "bytes": 77119,
+      "sha256": "e14dfd059c8db5451ebce0c4c9242689e26efdbb5b058dd125adb8629c751cd3",
+      "backupSha256": "e14dfd059c8db5451ebce0c4c9242689e26efdbb5b058dd125adb8629c751cd3"
+    },
+    {
+      "path": "data\\search-jobs-04.json",
+      "bytes": 42056,
+      "sha256": "502dd1330facdd688a2bb64a29270d5206b72d1b92181bb477671871eef728d9",
+      "backupSha256": "502dd1330facdd688a2bb64a29270d5206b72d1b92181bb477671871eef728d9"
+    },
+    {
+      "path": "data\\search-jobs-05.json",
+      "bytes": 64023,
+      "sha256": "c3b9e1768b8e7304f0494fd3ebd30f23e8093c32118b06a546920d428c2482dd",
+      "backupSha256": "c3b9e1768b8e7304f0494fd3ebd30f23e8093c32118b06a546920d428c2482dd"
+    },
+    {
+      "path": "data\\search-jobs-06.json",
+      "bytes": 25859,
+      "sha256": "3dfc8501d9faf33bdb3955709759ef83a5992695ceed741c5e38a67cac8fb783",
+      "backupSha256": "3dfc8501d9faf33bdb3955709759ef83a5992695ceed741c5e38a67cac8fb783"
+    },
+    {
+      "path": "data\\search-jobs-07.json",
+      "bytes": 50297,
+      "sha256": "5963ca8117daa56de8ef1cedb1c3c86ef218ef8880eb26d2f67d4101895924dd",
+      "backupSha256": "5963ca8117daa56de8ef1cedb1c3c86ef218ef8880eb26d2f67d4101895924dd"
+    },
+    {
+      "path": "data\\search-jobs-08.json",
+      "bytes": 78737,
+      "sha256": "190997c87518c7df1db4411755e70e4c1fd2fb80849064dbbf3f8a18d414445d",
+      "backupSha256": "190997c87518c7df1db4411755e70e4c1fd2fb80849064dbbf3f8a18d414445d"
+    },
+    {
+      "path": "data\\targets.json",
+      "bytes": 62756,
+      "sha256": "7ba230cc6d0f2482df06a2dd3e59722b06edd3ee9f65087a7ff5a0080ffbaa1f",
+      "backupSha256": "7ba230cc6d0f2482df06a2dd3e59722b06edd3ee9f65087a7ff5a0080ffbaa1f"
+    },
+    {
+      "path": "data\\tech-portals.json",
+      "bytes": 7554,
+      "sha256": "658346ce5acf62c1022636b387bf7b2ff83307d5a77485b997e53fcce2276ff5",
+      "backupSha256": "658346ce5acf62c1022636b387bf7b2ff83307d5a77485b997e53fcce2276ff5"
+    },
+    {
+      "path": "data\\verification.json",
+      "bytes": 350,
+      "sha256": "3b792e84a8f33e3dca33bcf5ac34cb836523747734a4ae4b52a5493c65962f80",
+      "backupSha256": "3b792e84a8f33e3dca33bcf5ac34cb836523747734a4ae4b52a5493c65962f80"
+    },
+    {
+      "path": "DATA_MIGRATION_REPORT.md",
+      "bytes": 3142,
+      "sha256": "3e25771fbb01b0695210166a4957591dfedaaa559c2e6e69b19c0bae7f2eb6ff",
+      "backupSha256": "3e25771fbb01b0695210166a4957591dfedaaa559c2e6e69b19c0bae7f2eb6ff"
+    },
+    {
+      "path": "extensions\\dist\\index.mjs",
+      "bytes": 1273,
+      "sha256": "2948b9ffd76a90f34850769e6e638cde1574681bf987f768dc199d129f603d98",
+      "backupSha256": "2948b9ffd76a90f34850769e6e638cde1574681bf987f768dc199d129f603d98"
+    },
+    {
+      "path": "extensions\\employer-research\\index.mjs",
+      "bytes": 2588,
+      "sha256": "be3ee9be53f920a6e878a85360f3646bf1c5d41f68e37a17ee77a6acae30bcd5",
+      "backupSha256": "be3ee9be53f920a6e878a85360f3646bf1c5d41f68e37a17ee77a6acae30bcd5"
+    },
+    {
+      "path": "extensions\\policy.mjs",
+      "bytes": 4568,
+      "sha256": "64dfcc4c493f0245fff0c66ccf1aa669e13d07c6b9756672f8bb24cf68322828",
+      "backupSha256": "64dfcc4c493f0245fff0c66ccf1aa669e13d07c6b9756672f8bb24cf68322828"
+    },
+    {
+      "path": "extensions\\reporting\\index.mjs",
+      "bytes": 5995,
+      "sha256": "6dfabe02ed48c33e26c5e98f1dd34e487bf2ea005132ac8cdfd653cfcd006a25",
+      "backupSha256": "6dfabe02ed48c33e26c5e98f1dd34e487bf2ea005132ac8cdfd653cfcd006a25"
+    },
+    {
+      "path": "extensions\\tsconfig.json",
+      "bytes": 267,
+      "sha256": "9e5e1f751d4dd0f1a9c3113cf53e47da16b6a79c51462f56becb4f6b683ab369",
+      "backupSha256": "9e5e1f751d4dd0f1a9c3113cf53e47da16b6a79c51462f56becb4f6b683ab369"
+    },
+    {
+      "path": "extensions\\visa-eligibility\\index.mts",
+      "bytes": 1928,
+      "sha256": "666ccd2648b47fbb21fd4e2008c55fa6343964de2b4359604dce84d6305b6526",
+      "backupSha256": "666ccd2648b47fbb21fd4e2008c55fa6343964de2b4359604dce84d6305b6526"
+    },
+    {
+      "path": "openapply\\.gitignore",
+      "bytes": 229,
+      "sha256": "5ea541bc4ae5dd224c2a5d8a25c19ba0a98b194447fc5d9959dec7e0314cf422",
+      "backupSha256": "5ea541bc4ae5dd224c2a5d8a25c19ba0a98b194447fc5d9959dec7e0314cf422"
+    },
+    {
+      "path": "openapply\\ARCHITECTURE.md",
+      "bytes": 21008,
+      "sha256": "750e060febd61bae4df7f98b1ab7363ba2f687a706b61517e405a92e2923eb29",
+      "backupSha256": "750e060febd61bae4df7f98b1ab7363ba2f687a706b61517e405a92e2923eb29"
+    },
+    {
+      "path": "openapply\\data\\boards.json",
+      "bytes": 489437,
+      "sha256": "e86f0b1088ccc3c24754a611c693c0874b5c6e15f9c17e3c52cbc3eaf6a66406",
+      "backupSha256": "e86f0b1088ccc3c24754a611c693c0874b5c6e15f9c17e3c52cbc3eaf6a66406"
+    },
+    {
+      "path": "openapply\\dist\\apply\\adapters\\ashby.js",
+      "bytes": 5200,
+      "sha256": "d118c484985656b8093ec3a9fb3851ceaf89ef0b0148cfc5c180fd0babf3a950",
+      "backupSha256": "d118c484985656b8093ec3a9fb3851ceaf89ef0b0148cfc5c180fd0babf3a950"
+    },
+    {
+      "path": "openapply\\dist\\apply\\adapters\\common.js",
+      "bytes": 14390,
+      "sha256": "ed24b92c2bd0d1f0a7277058b544d40d66ea258a49176494bede1d623ba4653e",
+      "backupSha256": "ed24b92c2bd0d1f0a7277058b544d40d66ea258a49176494bede1d623ba4653e"
+    },
+    {
+      "path": "openapply\\dist\\apply\\adapters\\generic.js",
+      "bytes": 466,
+      "sha256": "23c8a1a5d30946aabcab88d290044014ec9617b79810741389e5d195fb4999a5",
+      "backupSha256": "23c8a1a5d30946aabcab88d290044014ec9617b79810741389e5d195fb4999a5"
+    },
+    {
+      "path": "openapply\\dist\\apply\\adapters\\greenhouse.js",
+      "bytes": 1518,
+      "sha256": "31c82bfeaa07d7ca70cd5dca6e0514675488390d8c4c1fcf45298691f790215f",
+      "backupSha256": "31c82bfeaa07d7ca70cd5dca6e0514675488390d8c4c1fcf45298691f790215f"
+    },
+    {
+      "path": "openapply\\dist\\apply\\adapters\\lever.js",
+      "bytes": 2710,
+      "sha256": "bf879349faadcf07726204093ef33122a3bb3da01053dee2d50a2f6c91918fc9",
+      "backupSha256": "bf879349faadcf07726204093ef33122a3bb3da01053dee2d50a2f6c91918fc9"
+    },
+    {
+      "path": "openapply\\dist\\apply\\browser.js",
+      "bytes": 10636,
+      "sha256": "92e7b7855e22d9a8c547a129a657469386f2309f68723dd6cd27cc7a91d70205",
+      "backupSha256": "92e7b7855e22d9a8c547a129a657469386f2309f68723dd6cd27cc7a91d70205"
+    },
+    {
+      "path": "openapply\\dist\\apply\\captcha.js",
+      "bytes": 1978,
+      "sha256": "95b229144c0a78017c0bab53fe60ab5103cbe3faab299e8531921547933fddff",
+      "backupSha256": "95b229144c0a78017c0bab53fe60ab5103cbe3faab299e8531921547933fddff"
+    },
+    {
+      "path": "openapply\\dist\\apply\\detect.js",
+      "bytes": 1888,
+      "sha256": "cd47edeb8172d7f350713a5660ef8436c096c184ee9d52a77010a1ae980881f1",
+      "backupSha256": "cd47edeb8172d7f350713a5660ef8436c096c184ee9d52a77010a1ae980881f1"
+    },
+    {
+      "path": "openapply\\dist\\apply\\engine.js",
+      "bytes": 16834,
+      "sha256": "563c09772d75db147283a0b522691c874e5b66e316cd03fa2bebaf56eb7782ad",
+      "backupSha256": "563c09772d75db147283a0b522691c874e5b66e316cd03fa2bebaf56eb7782ad"
+    },
+    {
+      "path": "openapply\\dist\\apply\\fieldmap.js",
+      "bytes": 19434,
+      "sha256": "4c186a1aa9c9497640b2623ba94665fbbe5abe9e7adbf54d60e26243599f4330",
+      "backupSha256": "4c186a1aa9c9497640b2623ba94665fbbe5abe9e7adbf54d60e26243599f4330"
+    },
+    {
+      "path": "openapply\\dist\\autosync.js",
+      "bytes": 4801,
+      "sha256": "e15177fecf07581b86091e6bccbd330595c4730b819866c5a2703b5866ccd9db",
+      "backupSha256": "e15177fecf07581b86091e6bccbd330595c4730b819866c5a2703b5866ccd9db"
+    },
+    {
+      "path": "openapply\\dist\\cli.js",
+      "bytes": 10342,
+      "sha256": "02fedd95185388d76f9c01fab64d2cd5cc126c386803d59489c39df2fefda95d",
+      "backupSha256": "02fedd95185388d76f9c01fab64d2cd5cc126c386803d59489c39df2fefda95d"
+    },
+    {
+      "path": "openapply\\dist\\db.js",
+      "bytes": 20220,
+      "sha256": "94eb76f044c66a4c782ea562d999dc282603ba5e9d9712fa0221e75c0c6d59d4",
+      "backupSha256": "94eb76f044c66a4c782ea562d999dc282603ba5e9d9712fa0221e75c0c6d59d4"
+    },
+    {
+      "path": "openapply\\dist\\details.js",
+      "bytes": 5787,
+      "sha256": "b55b787d4c7b036e46cadc0a76d1833dd88e3de893ea1205977b01667577a4d2",
+      "backupSha256": "b55b787d4c7b036e46cadc0a76d1833dd88e3de893ea1205977b01667577a4d2"
+    },
+    {
+      "path": "openapply\\dist\\discover.js",
+      "bytes": 4388,
+      "sha256": "4c57deeb3434f0ab63778cf5533e5c3db4f20f390b8e5103a7351a4104a498a1",
+      "backupSha256": "4c57deeb3434f0ab63778cf5533e5c3db4f20f390b8e5103a7351a4104a498a1"
+    },
+    {
+      "path": "openapply\\dist\\draft-prompt.js",
+      "bytes": 4389,
+      "sha256": "f03a6095440278d5715a6f96f67550a15d19e32a14d75d5064fbf6eac32a4415",
+      "backupSha256": "f03a6095440278d5715a6f96f67550a15d19e32a14d75d5064fbf6eac32a4415"
+    },
+    {
+      "path": "openapply\\dist\\history.js",
+      "bytes": 5707,
+      "sha256": "e8f2eac60f1444ba576ae90a314fdf64e164bbca9516a669c6d1f0471dab2a16",
+      "backupSha256": "e8f2eac60f1444ba576ae90a314fdf64e164bbca9516a669c6d1f0471dab2a16"
+    },
+    {
+      "path": "openapply\\dist\\intel.js",
+      "bytes": 14827,
+      "sha256": "5a2474723dedede788fd1fea220b9317b819f1eb26b5e4410fe3031181fb3ea2",
+      "backupSha256": "5a2474723dedede788fd1fea220b9317b819f1eb26b5e4410fe3031181fb3ea2"
+    },
+    {
+      "path": "openapply\\dist\\lock.js",
+      "bytes": 404,
+      "sha256": "70d4dc4db6951c491f214b946100a9e4ba0ba28bee8ef13fefc895e4d80807bc",
+      "backupSha256": "70d4dc4db6951c491f214b946100a9e4ba0ba28bee8ef13fefc895e4d80807bc"
+    },
+    {
+      "path": "openapply\\dist\\match.js",
+      "bytes": 11907,
+      "sha256": "0685d8cd0d8ee569a765560db51361a50e8e6fd8a5b48986f5d03dc8639ad637",
+      "backupSha256": "0685d8cd0d8ee569a765560db51361a50e8e6fd8a5b48986f5d03dc8639ad637"
+    },
+    {
+      "path": "openapply\\dist\\mcp.js",
+      "bytes": 815,
+      "sha256": "fca7ee148c4a331f8ef929ae7921dfa2ef00ddb5c377bcfddbb3245de31e6a59",
+      "backupSha256": "fca7ee148c4a331f8ef929ae7921dfa2ef00ddb5c377bcfddbb3245de31e6a59"
+    },
+    {
+      "path": "openapply\\dist\\outcomes.js",
+      "bytes": 8531,
+      "sha256": "004048c2e5462b4da59dd1f1ae0411b2eb108ae7796d717dc71d13f7671409f9",
+      "backupSha256": "004048c2e5462b4da59dd1f1ae0411b2eb108ae7796d717dc71d13f7671409f9"
+    },
+    {
+      "path": "openapply\\dist\\outreach.js",
+      "bytes": 15746,
+      "sha256": "a3cdfa45a5719dafe2a9163e7477f3b8b41ed36e5cdbbd5588736604da2851cc",
+      "backupSha256": "a3cdfa45a5719dafe2a9163e7477f3b8b41ed36e5cdbbd5588736604da2851cc"
+    },
+    {
+      "path": "openapply\\dist\\paths.js",
+      "bytes": 1926,
+      "sha256": "867b31c963b5f262eb18347ccbf6e6daba7d0a5fec4670d880d35da2067f8259",
+      "backupSha256": "867b31c963b5f262eb18347ccbf6e6daba7d0a5fec4670d880d35da2067f8259"
+    },
+    {
+      "path": "openapply\\dist\\pdf.js",
+      "bytes": 3987,
+      "sha256": "5614c4ce053e6d5a02ba55ca7f1ec243ae7fa8157e02c26fc1664e60c157b887",
+      "backupSha256": "5614c4ce053e6d5a02ba55ca7f1ec243ae7fa8157e02c26fc1664e60c157b887"
+    },
+    {
+      "path": "openapply\\dist\\prior.js",
+      "bytes": 5023,
+      "sha256": "403418c8dcea85e7463abdf8cf527a75a6d7071bfd707bd93d34ea58a16b18e3",
+      "backupSha256": "403418c8dcea85e7463abdf8cf527a75a6d7071bfd707bd93d34ea58a16b18e3"
+    },
+    {
+      "path": "openapply\\dist\\profile.js",
+      "bytes": 7602,
+      "sha256": "3b91fb0e8e5a137801c63d23e567e9d0dbc1d221efec88a1757dddefda9c56b8",
+      "backupSha256": "3b91fb0e8e5a137801c63d23e567e9d0dbc1d221efec88a1757dddefda9c56b8"
+    },
+    {
+      "path": "openapply\\dist\\questions.js",
+      "bytes": 7535,
+      "sha256": "7464968e8e0902bc016a6287c7aa09daade09552bab5317e4ed07ea4d064ea49",
+      "backupSha256": "7464968e8e0902bc016a6287c7aa09daade09552bab5317e4ed07ea4d064ea49"
+    },
+    {
+      "path": "openapply\\dist\\render\\cover-tex.js",
+      "bytes": 3593,
+      "sha256": "cf177b8b43c0f6aba09a087adc88d7e6c50d41cfc998548fed8ac5548d6165f4",
+      "backupSha256": "cf177b8b43c0f6aba09a087adc88d7e6c50d41cfc998548fed8ac5548d6165f4"
+    },
+    {
+      "path": "openapply\\dist\\render\\cover.js",
+      "bytes": 3779,
+      "sha256": "3c4d58263d3774a1205bc862750abd12298c5b1200f9c1fd01741aee09536fe9",
+      "backupSha256": "3c4d58263d3774a1205bc862750abd12298c5b1200f9c1fd01741aee09536fe9"
+    },
+    {
+      "path": "openapply\\dist\\render\\resume.js",
+      "bytes": 3348,
+      "sha256": "c1326d6d6c11fb3efec2c79faa5ea6edd0f5537e56ff5c32b9fda60314d5110c",
+      "backupSha256": "c1326d6d6c11fb3efec2c79faa5ea6edd0f5537e56ff5c32b9fda60314d5110c"
+    },
+    {
+      "path": "openapply\\dist\\render\\style.js",
+      "bytes": 1023,
+      "sha256": "357e4692d302b0d27746d0a4a90ea8e5ac207dc0ad9ba2fb719f29624ee8159f",
+      "backupSha256": "357e4692d302b0d27746d0a4a90ea8e5ac207dc0ad9ba2fb719f29624ee8159f"
+    },
+    {
+      "path": "openapply\\dist\\resume-import.js",
+      "bytes": 23457,
+      "sha256": "17a003b42c84597ac1cd2236637ab06ba42207bfd6b42debf5ddde7640ac5c0c",
+      "backupSha256": "17a003b42c84597ac1cd2236637ab06ba42207bfd6b42debf5ddde7640ac5c0c"
+    },
+    {
+      "path": "openapply\\dist\\resume-track.js",
+      "bytes": 3274,
+      "sha256": "3ddce09dd450d9f8eac7479d291889796a28e49b5de97edb020ba001024463d3",
+      "backupSha256": "3ddce09dd450d9f8eac7479d291889796a28e49b5de97edb020ba001024463d3"
+    },
+    {
+      "path": "openapply\\dist\\runs.js",
+      "bytes": 11914,
+      "sha256": "b6744e546dd43c0346b2e8e983c8d21a9d42f314e09a3b15a13f3b9392a97093",
+      "backupSha256": "b6744e546dd43c0346b2e8e983c8d21a9d42f314e09a3b15a13f3b9392a97093"
+    },
+    {
+      "path": "openapply\\dist\\scoreboard.js",
+      "bytes": 31912,
+      "sha256": "578a5b0f681b3e64b604034415f65df46a4145a9cd94a7048cce2d4262967625",
+      "backupSha256": "578a5b0f681b3e64b604034415f65df46a4145a9cd94a7048cce2d4262967625"
+    },
+    {
+      "path": "openapply\\dist\\server\\http.js",
+      "bytes": 26608,
+      "sha256": "7ce0d9d35c0d3c363c34052600125220520406047db95ed78e82fd43bb3653f9",
+      "backupSha256": "7ce0d9d35c0d3c363c34052600125220520406047db95ed78e82fd43bb3653f9"
+    },
+    {
+      "path": "openapply\\dist\\sources\\arbeitnow.js",
+      "bytes": 1134,
+      "sha256": "d9baaea50b92459b63b9aa7f381c7fd32c7293c2367d8af1562cc2d655954405",
+      "backupSha256": "d9baaea50b92459b63b9aa7f381c7fd32c7293c2367d8af1562cc2d655954405"
+    },
+    {
+      "path": "openapply\\dist\\sources\\ashby.js",
+      "bytes": 1863,
+      "sha256": "27c637dafef5932de296c89915b6c3109e241a28975c9040f5567b0095e6c041",
+      "backupSha256": "27c637dafef5932de296c89915b6c3109e241a28975c9040f5567b0095e6c041"
+    },
+    {
+      "path": "openapply\\dist\\sources\\greenhouse.js",
+      "bytes": 1713,
+      "sha256": "65019ddbd46744dcec643948bed36a9b4af809002acf22a247425f3bca91a586",
+      "backupSha256": "65019ddbd46744dcec643948bed36a9b4af809002acf22a247425f3bca91a586"
+    },
+    {
+      "path": "openapply\\dist\\sources\\himalayas.js",
+      "bytes": 1759,
+      "sha256": "3297d27fbe96f9792572bed4a469f0a89b80dc0a851276aa0463d6bac2a85491",
+      "backupSha256": "3297d27fbe96f9792572bed4a469f0a89b80dc0a851276aa0463d6bac2a85491"
+    },
+    {
+      "path": "openapply\\dist\\sources\\hn.js",
+      "bytes": 2341,
+      "sha256": "702c74d17a0f2d5bf989b99c7c7524f9525710b8474468d0d8f36d5344090d33",
+      "backupSha256": "702c74d17a0f2d5bf989b99c7c7524f9525710b8474468d0d8f36d5344090d33"
+    },
+    {
+      "path": "openapply\\dist\\sources\\http.js",
+      "bytes": 3413,
+      "sha256": "16409f91979e58fc3aabd052e1ade77aeae22ac37bf185a3228ecb7b31d9ea83",
+      "backupSha256": "16409f91979e58fc3aabd052e1ade77aeae22ac37bf185a3228ecb7b31d9ea83"
+    },
+    {
+      "path": "openapply\\dist\\sources\\index.js",
+      "bytes": 2282,
+      "sha256": "d2a8d8df5f4e9997ecd6c82fa01dde1d1f02e4d9edd9711b43bac2567999fe36",
+      "backupSha256": "d2a8d8df5f4e9997ecd6c82fa01dde1d1f02e4d9edd9711b43bac2567999fe36"
+    },
+    {
+      "path": "openapply\\dist\\sources\\jobicy.js",
+      "bytes": 1134,
+      "sha256": "0e57c60b3f95bee5b9d8d171421af822e8575b419b49906420dbd31a58a3d0e2",
+      "backupSha256": "0e57c60b3f95bee5b9d8d171421af822e8575b419b49906420dbd31a58a3d0e2"
+    },
+    {
+      "path": "openapply\\dist\\sources\\lever.js",
+      "bytes": 2593,
+      "sha256": "3dd013eb7fcc07e05cb69612234cd742de8d1ba7721a835cdae4097f17e1fb7c",
+      "backupSha256": "3dd013eb7fcc07e05cb69612234cd742de8d1ba7721a835cdae4097f17e1fb7c"
+    },
+    {
+      "path": "openapply\\dist\\sources\\recruitee.js",
+      "bytes": 1928,
+      "sha256": "19f7fd39e011b3b4668a2288e5da4cb2f7a8a88b025a00b4061460a0aab0079c",
+      "backupSha256": "19f7fd39e011b3b4668a2288e5da4cb2f7a8a88b025a00b4061460a0aab0079c"
+    },
+    {
+      "path": "openapply\\dist\\sources\\remoteok.js",
+      "bytes": 1163,
+      "sha256": "0410334abdf812ebb233102d77f1e0c1d16279c5395248e05d029bfc1e67a347",
+      "backupSha256": "0410334abdf812ebb233102d77f1e0c1d16279c5395248e05d029bfc1e67a347"
+    },
+    {
+      "path": "openapply\\dist\\sources\\remotive.js",
+      "bytes": 937,
+      "sha256": "fe095e447cf8f96d756a4c5bca3f81a22d6da27b0df5dfe0a8e78ab2723b24ac",
+      "backupSha256": "fe095e447cf8f96d756a4c5bca3f81a22d6da27b0df5dfe0a8e78ab2723b24ac"
+    },
+    {
+      "path": "openapply\\dist\\sources\\smartrecruiters.js",
+      "bytes": 1979,
+      "sha256": "0d9f61bffedd2da33955c611bb39fd1e18d226e4fdfe6344cf2010dee5cf8da2",
+      "backupSha256": "0d9f61bffedd2da33955c611bb39fd1e18d226e4fdfe6344cf2010dee5cf8da2"
+    },
+    {
+      "path": "openapply\\dist\\sources\\workable.js",
+      "bytes": 2634,
+      "sha256": "cc13ac64f1dbf92c7b9ab3251f057662fb9ed14577be0bcec56e1a628b49f025",
+      "backupSha256": "cc13ac64f1dbf92c7b9ab3251f057662fb9ed14577be0bcec56e1a628b49f025"
+    },
+    {
+      "path": "openapply\\dist\\sources\\workday.js",
+      "bytes": 8438,
+      "sha256": "f565a96598fb34cb4778012d2176d8f880e2d52064902656d52d2c09a9388a40",
+      "backupSha256": "f565a96598fb34cb4778012d2176d8f880e2d52064902656d52d2c09a9388a40"
+    },
+    {
+      "path": "openapply\\dist\\strategy.js",
+      "bytes": 6590,
+      "sha256": "8e66b33d9a4f9ce9181407ca0cd3f1e76362fe8ec2eabe20a6d519a885d40e1a",
+      "backupSha256": "8e66b33d9a4f9ce9181407ca0cd3f1e76362fe8ec2eabe20a6d519a885d40e1a"
+    },
+    {
+      "path": "openapply\\dist\\sync.js",
+      "bytes": 3131,
+      "sha256": "c3cf315c66e739bef818cc83b5a5d02a91fc2095076b7181fc17b1073d0fe74f",
+      "backupSha256": "c3cf315c66e739bef818cc83b5a5d02a91fc2095076b7181fc17b1073d0fe74f"
+    },
+    {
+      "path": "openapply\\dist\\tailor.js",
+      "bytes": 23185,
+      "sha256": "425bd49208718be05315b20ff40a14ea1559c9da3c64287693538b0dcc478f05",
+      "backupSha256": "425bd49208718be05315b20ff40a14ea1559c9da3c64287693538b0dcc478f05"
+    },
+    {
+      "path": "openapply\\dist\\text.js",
+      "bytes": 6765,
+      "sha256": "073c1082f990c67b97790ff91d81e76e0b1b2141109ae82ccb2271d12dd0b892",
+      "backupSha256": "073c1082f990c67b97790ff91d81e76e0b1b2141109ae82ccb2271d12dd0b892"
+    },
+    {
+      "path": "openapply\\dist\\tools.js",
+      "bytes": 34508,
+      "sha256": "037b78b0912a0d7da05a6fd2de7af97cb742e691e864b653c1225dadbadd3e2b",
+      "backupSha256": "037b78b0912a0d7da05a6fd2de7af97cb742e691e864b653c1225dadbadd3e2b"
+    },
+    {
+      "path": "openapply\\dist\\track.js",
+      "bytes": 7579,
+      "sha256": "74dcf0637921f3be3153b93434eb0b3a7c87abcfe0301e613abd5d5e08e273ba",
+      "backupSha256": "74dcf0637921f3be3153b93434eb0b3a7c87abcfe0301e613abd5d5e08e273ba"
+    },
+    {
+      "path": "openapply\\dist\\truth.js",
+      "bytes": 10493,
+      "sha256": "a36daacf970dedf79bca7c74ab6c1d3dcda48f88b571b6bd18f3114dcb69fcb1",
+      "backupSha256": "a36daacf970dedf79bca7c74ab6c1d3dcda48f88b571b6bd18f3114dcb69fcb1"
+    },
+    {
+      "path": "openapply\\dist\\types.js",
+      "bytes": 86,
+      "sha256": "398f9d8c73c0e00e499b24799c133cb05af269a9a485548ab4816b71627bdf52",
+      "backupSha256": "398f9d8c73c0e00e499b24799c133cb05af269a9a485548ab4816b71627bdf52"
+    },
+    {
+      "path": "openapply\\dist\\website.js",
+      "bytes": 3230,
+      "sha256": "8334a6686691565a56e2fc9e00cd32d352653d60d5307d668c9f5387e86ece80",
+      "backupSha256": "8334a6686691565a56e2fc9e00cd32d352653d60d5307d668c9f5387e86ece80"
+    },
+    {
+      "path": "openapply\\dist\\whyus-check.js",
+      "bytes": 3560,
+      "sha256": "8a94d3d03fb41b61545915aa0f99acd4a6527acbf28f0e02fa5ba237ed0fb3ba",
+      "backupSha256": "8a94d3d03fb41b61545915aa0f99acd4a6527acbf28f0e02fa5ba237ed0fb3ba"
+    },
+    {
+      "path": "openapply\\dist\\whyus.js",
+      "bytes": 7739,
+      "sha256": "f9d21fac6464d218d5d727ed47801df48bdd3ede35a8014245e8f1588f967c22",
+      "backupSha256": "f9d21fac6464d218d5d727ed47801df48bdd3ede35a8014245e8f1588f967c22"
+    },
+    {
+      "path": "openapply\\docs\\dashboard-review.webp",
+      "bytes": 63040,
+      "sha256": "efd96361a5ffd5b9862ec000f3c0405c92cbc005c6071cee5573e8443deea1e6",
+      "backupSha256": "efd96361a5ffd5b9862ec000f3c0405c92cbc005c6071cee5573e8443deea1e6"
+    },
+    {
+      "path": "openapply\\examples\\profile.example.json",
+      "bytes": 2755,
+      "sha256": "6079c81a45e6e735919cef532b5f8cd8a002486eacbd4814ba7e5fc7b44f163e",
+      "backupSha256": "6079c81a45e6e735919cef532b5f8cd8a002486eacbd4814ba7e5fc7b44f163e"
+    },
+    {
+      "path": "openapply\\LICENSE",
+      "bytes": 1093,
+      "sha256": "d379b423803a0965934cf02b58995297bfb61a899d63cf3495cc8b8fc21c2e67",
+      "backupSha256": "d379b423803a0965934cf02b58995297bfb61a899d63cf3495cc8b8fc21c2e67"
+    },
+    {
+      "path": "openapply\\package-lock.json",
+      "bytes": 62800,
+      "sha256": "c09d496aa9c2410a95f2412c58458a06cc25379b75c0a8b0b0d8237c6a9a2e7b",
+      "backupSha256": "c09d496aa9c2410a95f2412c58458a06cc25379b75c0a8b0b0d8237c6a9a2e7b"
+    },
+    {
+      "path": "openapply\\package.json",
+      "bytes": 1351,
+      "sha256": "4fb0d79cbb55f687fbc7b372128b91b3a1de205023f60a2bdb2e452b1f49fc0f",
+      "backupSha256": "4fb0d79cbb55f687fbc7b372128b91b3a1de205023f60a2bdb2e452b1f49fc0f"
+    },
+    {
+      "path": "openapply\\README.md",
+      "bytes": 11309,
+      "sha256": "a6dd506b6044babf8d5916de62c94e7596f32d33f02bffd086ecb68c283fc77f",
+      "backupSha256": "a6dd506b6044babf8d5916de62c94e7596f32d33f02bffd086ecb68c283fc77f"
+    },
+    {
+      "path": "openapply\\scripts\\build-demo.mjs",
+      "bytes": 1716,
+      "sha256": "1f09d10ea652156644015b9018408fcd8f6f7d9c40ea574fded33f563510552e",
+      "backupSha256": "1f09d10ea652156644015b9018408fcd8f6f7d9c40ea574fded33f563510552e"
+    },
+    {
+      "path": "openapply\\scripts\\e2e-sync.ts",
+      "bytes": 1138,
+      "sha256": "3df5f6609111b286c54244a6a7c51d4604b7ef9d3bddfa4cde73b4bf0c86ba4b",
+      "backupSha256": "3df5f6609111b286c54244a6a7c51d4604b7ef9d3bddfa4cde73b4bf0c86ba4b"
+    },
+    {
+      "path": "openapply\\scripts\\live-fill.ts",
+      "bytes": 3202,
+      "sha256": "76c7d402c3a11926029dc1d54ade197865842872d0937c77505e47195ab3fc57",
+      "backupSha256": "76c7d402c3a11926029dc1d54ade197865842872d0937c77505e47195ab3fc57"
+    },
+    {
+      "path": "openapply\\scripts\\live-sources.ts",
+      "bytes": 1564,
+      "sha256": "eaaff71a8075ff92a1f464412f11bb1f11e8834ddfb0701df336ff9ce537a327",
+      "backupSha256": "eaaff71a8075ff92a1f464412f11bb1f11e8834ddfb0701df336ff9ce537a327"
+    },
+    {
+      "path": "openapply\\scripts\\rerender-cover-letters.ts",
+      "bytes": 1935,
+      "sha256": "16ce92f1ff2b0d3165f9df898ae899ce447b93c6164cebbc8f4ef25dbfa87580",
+      "backupSha256": "16ce92f1ff2b0d3165f9df898ae899ce447b93c6164cebbc8f4ef25dbfa87580"
+    },
+    {
+      "path": "openapply\\scripts\\seed-boards.ts",
+      "bytes": 16027,
+      "sha256": "2655ca45526b7d29bc5f0f0702e2e6cefb2d9c2e6097a65217c189f457bda5e8",
+      "backupSha256": "2655ca45526b7d29bc5f0f0702e2e6cefb2d9c2e6097a65217c189f457bda5e8"
+    },
+    {
+      "path": "openapply\\scripts\\seed-candidates\\portfolios-and-lists.txt",
+      "bytes": 6032,
+      "sha256": "2f996a2cf4a34a17ccd0296357f7933a8131676dff740edba9a9158801890951",
+      "backupSha256": "2f996a2cf4a34a17ccd0296357f7933a8131676dff740edba9a9158801890951"
+    },
+    {
+      "path": "openapply\\scripts\\seed-candidates\\public-slug-lists.json",
+      "bytes": 223920,
+      "sha256": "7d4c1b020ce673843ff9b4e1322f00c771fb83384ab15965910db8d22c0b0ef5",
+      "backupSha256": "7d4c1b020ce673843ff9b4e1322f00c771fb83384ab15965910db8d22c0b0ef5"
+    },
+    {
+      "path": "openapply\\scripts\\seed-candidates\\wellknown.txt",
+      "bytes": 5331,
+      "sha256": "74fe0d8ff6a91f2f3c9576f312d86e5159486791741ecd016cffb7b1e36e7a22",
+      "backupSha256": "74fe0d8ff6a91f2f3c9576f312d86e5159486791741ecd016cffb7b1e36e7a22"
+    },
+    {
+      "path": "openapply\\scripts\\seed-candidates\\workday.txt",
+      "bytes": 2877,
+      "sha256": "456ee8cdcfb48504fe583cde2289931a868aaae3eaa5d363880c9b5106fb6528",
+      "backupSha256": "456ee8cdcfb48504fe583cde2289931a868aaae3eaa5d363880c9b5106fb6528"
+    },
+    {
+      "path": "openapply\\scripts\\seed-candidates\\yc.json",
+      "bytes": 365807,
+      "sha256": "8d24435b151cf997d8f2f0d4cb250641e0d4594faa19089e189ea74bc6f2add8",
+      "backupSha256": "8d24435b151cf997d8f2f0d4cb250641e0d4594faa19089e189ea74bc6f2add8"
+    },
+    {
+      "path": "openapply\\scripts\\workday-probe.ts",
+      "bytes": 5821,
+      "sha256": "4672f13d9be084b33fe6e3d226b1753f36a749694210913feb3ca3b9fa63c5a2",
+      "backupSha256": "4672f13d9be084b33fe6e3d226b1753f36a749694210913feb3ca3b9fa63c5a2"
+    },
+    {
+      "path": "openapply\\src\\apply\\adapters\\ashby.ts",
+      "bytes": 5893,
+      "sha256": "a743f9eaded93b9718946d2804b4da35d8c63703fef3af9ee6ac0860d170ebe7",
+      "backupSha256": "a743f9eaded93b9718946d2804b4da35d8c63703fef3af9ee6ac0860d170ebe7"
+    },
+    {
+      "path": "openapply\\src\\apply\\adapters\\common.ts",
+      "bytes": 16575,
+      "sha256": "2a0ae1f39bdf63c77a18f5fdbb429cd0d3c0e2a04e90bc094767cea5f4a8ec36",
+      "backupSha256": "2a0ae1f39bdf63c77a18f5fdbb429cd0d3c0e2a04e90bc094767cea5f4a8ec36"
+    },
+    {
+      "path": "openapply\\src\\apply\\adapters\\generic.ts",
+      "bytes": 458,
+      "sha256": "db77a3ef8466f0b148c75de9bd78944b1474d5a55096506d1f6b4e79b4807cbc",
+      "backupSha256": "db77a3ef8466f0b148c75de9bd78944b1474d5a55096506d1f6b4e79b4807cbc"
+    },
+    {
+      "path": "openapply\\src\\apply\\adapters\\greenhouse.ts",
+      "bytes": 1521,
+      "sha256": "6f3b22e1857723477b98ea0f45b6ee94f7ec3f81b9fbc1372c721a4a6eb0dadb",
+      "backupSha256": "6f3b22e1857723477b98ea0f45b6ee94f7ec3f81b9fbc1372c721a4a6eb0dadb"
+    },
+    {
+      "path": "openapply\\src\\apply\\adapters\\lever.ts",
+      "bytes": 2772,
+      "sha256": "74396c7054769446f0287f955e872be464ff3677657c7906902e6f51b5551ec9",
+      "backupSha256": "74396c7054769446f0287f955e872be464ff3677657c7906902e6f51b5551ec9"
+    },
+    {
+      "path": "openapply\\src\\apply\\browser.ts",
+      "bytes": 10609,
+      "sha256": "409bee074c869042d859597451d912729b3ec8961291f8462002e12f972c38cb",
+      "backupSha256": "409bee074c869042d859597451d912729b3ec8961291f8462002e12f972c38cb"
+    },
+    {
+      "path": "openapply\\src\\apply\\captcha.ts",
+      "bytes": 2255,
+      "sha256": "431e20bb859d84c76e317a2fc7f2cd90da377abb3b3189fcaef28daeb7869fc7",
+      "backupSha256": "431e20bb859d84c76e317a2fc7f2cd90da377abb3b3189fcaef28daeb7869fc7"
+    },
+    {
+      "path": "openapply\\src\\apply\\detect.ts",
+      "bytes": 2064,
+      "sha256": "19bb7753f7fff931b13277662b8c3c0ed5070e8e837f39975dfa4966fb785544",
+      "backupSha256": "19bb7753f7fff931b13277662b8c3c0ed5070e8e837f39975dfa4966fb785544"
+    },
+    {
+      "path": "openapply\\src\\apply\\engine.ts",
+      "bytes": 17533,
+      "sha256": "da7847fc501946fcaabfd8c7e6287cd96e0020beedb58a331b9da4b9b0619501",
+      "backupSha256": "da7847fc501946fcaabfd8c7e6287cd96e0020beedb58a331b9da4b9b0619501"
+    },
+    {
+      "path": "openapply\\src\\apply\\fieldmap.ts",
+      "bytes": 20200,
+      "sha256": "fda137f3bf10e7d72414e652c0937042974c54a95832f4ed9c25397be4e494f4",
+      "backupSha256": "fda137f3bf10e7d72414e652c0937042974c54a95832f4ed9c25397be4e494f4"
+    },
+    {
+      "path": "openapply\\src\\autosync.ts",
+      "bytes": 5550,
+      "sha256": "d93e8cf0c9f657fdade5aa9587fe50a01d428e8eb212755e39f775876e46015e",
+      "backupSha256": "d93e8cf0c9f657fdade5aa9587fe50a01d428e8eb212755e39f775876e46015e"
+    },
+    {
+      "path": "openapply\\src\\cli.ts",
+      "bytes": 9822,
+      "sha256": "f60bb15a84ed0ae375d6460ec7dc8fe8b66db822673ee24fdcff447c11c8a594",
+      "backupSha256": "f60bb15a84ed0ae375d6460ec7dc8fe8b66db822673ee24fdcff447c11c8a594"
+    },
+    {
+      "path": "openapply\\src\\db.ts",
+      "bytes": 21073,
+      "sha256": "ea0f22ca704262660bfabbe5e3938c8117d451e5434482c24a23ab002b4ac395",
+      "backupSha256": "ea0f22ca704262660bfabbe5e3938c8117d451e5434482c24a23ab002b4ac395"
+    },
+    {
+      "path": "openapply\\src\\details.ts",
+      "bytes": 5660,
+      "sha256": "2fd16ca80a7356ee2124134ae0b514b5f13810ef2ed7a35b52f0539f0f4ee38b",
+      "backupSha256": "2fd16ca80a7356ee2124134ae0b514b5f13810ef2ed7a35b52f0539f0f4ee38b"
+    },
+    {
+      "path": "openapply\\src\\discover.ts",
+      "bytes": 4466,
+      "sha256": "c93c5acef3b665064eb459a3ea8848a38bd0daa1b6b6e22e147097c06b9a9219",
+      "backupSha256": "c93c5acef3b665064eb459a3ea8848a38bd0daa1b6b6e22e147097c06b9a9219"
+    },
+    {
+      "path": "openapply\\src\\draft-prompt.ts",
+      "bytes": 4464,
+      "sha256": "6fa6db65017a3482026e8fb7b431973e3228a250b97373678c1883fd89a1a331",
+      "backupSha256": "6fa6db65017a3482026e8fb7b431973e3228a250b97373678c1883fd89a1a331"
+    },
+    {
+      "path": "openapply\\src\\history.ts",
+      "bytes": 6422,
+      "sha256": "091990527ed2dc8a602522d80352d5f5b7c0012c08435a87aaf8d4f63eff6cec",
+      "backupSha256": "091990527ed2dc8a602522d80352d5f5b7c0012c08435a87aaf8d4f63eff6cec"
+    },
+    {
+      "path": "openapply\\src\\intel.ts",
+      "bytes": 15527,
+      "sha256": "8bfbc7d9121979eb0b215a7f00c07f7037aa6c4aade57a1f13556254c1d27a15",
+      "backupSha256": "8bfbc7d9121979eb0b215a7f00c07f7037aa6c4aade57a1f13556254c1d27a15"
+    },
+    {
+      "path": "openapply\\src\\lock.ts",
+      "bytes": 474,
+      "sha256": "20ca83c53ee92980f3bdc8a6df52703880cb7162ce235ad1dcc6fcc0e1d3c0d1",
+      "backupSha256": "20ca83c53ee92980f3bdc8a6df52703880cb7162ce235ad1dcc6fcc0e1d3c0d1"
+    },
+    {
+      "path": "openapply\\src\\match.ts",
+      "bytes": 12299,
+      "sha256": "0b312b8cda0b59a5ecdb21ba858c4b0ad4f55d03be8a75de2de024220e10c1c9",
+      "backupSha256": "0b312b8cda0b59a5ecdb21ba858c4b0ad4f55d03be8a75de2de024220e10c1c9"
+    },
+    {
+      "path": "openapply\\src\\mcp.ts",
+      "bytes": 849,
+      "sha256": "39b5b3d658eee8715df544d727543f7ef158e1c4b3300d96db7345ab65d23fc2",
+      "backupSha256": "39b5b3d658eee8715df544d727543f7ef158e1c4b3300d96db7345ab65d23fc2"
+    },
+    {
+      "path": "openapply\\src\\outcomes.ts",
+      "bytes": 10619,
+      "sha256": "bf38b0d9305b24375757612ac3fa66bec3d4a031e61ba423ab92b576fed84e88",
+      "backupSha256": "bf38b0d9305b24375757612ac3fa66bec3d4a031e61ba423ab92b576fed84e88"
+    },
+    {
+      "path": "openapply\\src\\outreach.ts",
+      "bytes": 17140,
+      "sha256": "7dacf60dc41f3211c42441e45c9fe84cc2689deae73589089ec010b1b3c18fd5",
+      "backupSha256": "7dacf60dc41f3211c42441e45c9fe84cc2689deae73589089ec010b1b3c18fd5"
+    },
+    {
+      "path": "openapply\\src\\paths.ts",
+      "bytes": 1980,
+      "sha256": "ba09a3380072a1c2a01e2b4d1de1bf5c0792caa30d011a25978bcdb2e087867a",
+      "backupSha256": "ba09a3380072a1c2a01e2b4d1de1bf5c0792caa30d011a25978bcdb2e087867a"
+    },
+    {
+      "path": "openapply\\src\\pdf.ts",
+      "bytes": 4137,
+      "sha256": "5a965578da2bdc323e82f54eca0123783a1eb0731132c984123c967831de26b5",
+      "backupSha256": "5a965578da2bdc323e82f54eca0123783a1eb0731132c984123c967831de26b5"
+    },
+    {
+      "path": "openapply\\src\\prior.ts",
+      "bytes": 6146,
+      "sha256": "0a1bb4af23248f12d81722b5d4601ef03e3a7d7341669aeae8f4c8e517b583cd",
+      "backupSha256": "0a1bb4af23248f12d81722b5d4601ef03e3a7d7341669aeae8f4c8e517b583cd"
+    },
+    {
+      "path": "openapply\\src\\profile.ts",
+      "bytes": 7889,
+      "sha256": "73b3f5c2c932f8223890dbe53b3becab90e7f158a267ed97f6dfb65e8fae0b42",
+      "backupSha256": "73b3f5c2c932f8223890dbe53b3becab90e7f158a267ed97f6dfb65e8fae0b42"
+    },
+    {
+      "path": "openapply\\src\\questions.ts",
+      "bytes": 7824,
+      "sha256": "b94f266957d5fd38673aac0d0dc05c68e7c3422ed3af3973e65736806f94b052",
+      "backupSha256": "b94f266957d5fd38673aac0d0dc05c68e7c3422ed3af3973e65736806f94b052"
+    },
+    {
+      "path": "openapply\\src\\render\\cover-tex.ts",
+      "bytes": 3809,
+      "sha256": "12d2121aaed1a4e3f3ff75b69a4a922b4562bf587becb779b1168b1e8b32874b",
+      "backupSha256": "12d2121aaed1a4e3f3ff75b69a4a922b4562bf587becb779b1168b1e8b32874b"
+    },
+    {
+      "path": "openapply\\src\\render\\cover.ts",
+      "bytes": 3949,
+      "sha256": "c2fd4ef85af25ca819babf1432e91c0c940700af8df7c81ef390418841ad2e0c",
+      "backupSha256": "c2fd4ef85af25ca819babf1432e91c0c940700af8df7c81ef390418841ad2e0c"
+    },
+    {
+      "path": "openapply\\src\\render\\resume.ts",
+      "bytes": 3457,
+      "sha256": "0deb169f0cfd0a61ef46147ee0464daf24f6faa5ae93bd80e3850b6917324686",
+      "backupSha256": "0deb169f0cfd0a61ef46147ee0464daf24f6faa5ae93bd80e3850b6917324686"
+    },
+    {
+      "path": "openapply\\src\\render\\style.ts",
+      "bytes": 1067,
+      "sha256": "e5e86ea457533612a85e37356b25e76f195385b8310afd9c9570406eb17ad523",
+      "backupSha256": "e5e86ea457533612a85e37356b25e76f195385b8310afd9c9570406eb17ad523"
+    },
+    {
+      "path": "openapply\\src\\resume-import.ts",
+      "bytes": 22897,
+      "sha256": "a1d57a7581a38cbdbdee31ec9b99e04dae49f004bbd4fb6f2b6087993033d82a",
+      "backupSha256": "a1d57a7581a38cbdbdee31ec9b99e04dae49f004bbd4fb6f2b6087993033d82a"
+    },
+    {
+      "path": "openapply\\src\\resume-track.ts",
+      "bytes": 3594,
+      "sha256": "8a328920808af6ad50c75b95c0aacbc2211138cdda30a5ac90cb9d414bb8b33e",
+      "backupSha256": "8a328920808af6ad50c75b95c0aacbc2211138cdda30a5ac90cb9d414bb8b33e"
+    },
+    {
+      "path": "openapply\\src\\runs.ts",
+      "bytes": 13359,
+      "sha256": "a193e5917d377e61ce9193fb7a8f8150fc6a4df5411d6af8f97ff4e9de83c54b",
+      "backupSha256": "a193e5917d377e61ce9193fb7a8f8150fc6a4df5411d6af8f97ff4e9de83c54b"
+    },
+    {
+      "path": "openapply\\src\\scoreboard.ts",
+      "bytes": 38376,
+      "sha256": "2f76c2bb4c805467ba161544e19f0c2d723f6b4a3530704aa4e6ee62bb0eeb40",
+      "backupSha256": "2f76c2bb4c805467ba161544e19f0c2d723f6b4a3530704aa4e6ee62bb0eeb40"
+    },
+    {
+      "path": "openapply\\src\\server\\http.ts",
+      "bytes": 25079,
+      "sha256": "c223abe2ecaef1795a1eff1d7027ea3c6f1cbc0e3c43f1cf828c43e1fd3d62ab",
+      "backupSha256": "c223abe2ecaef1795a1eff1d7027ea3c6f1cbc0e3c43f1cf828c43e1fd3d62ab"
+    },
+    {
+      "path": "openapply\\src\\sources\\arbeitnow.ts",
+      "bytes": 1215,
+      "sha256": "d211731a582d975db682fab1b3ebcaf07797e88be36a3cb7626c1215e6949d52",
+      "backupSha256": "d211731a582d975db682fab1b3ebcaf07797e88be36a3cb7626c1215e6949d52"
+    },
+    {
+      "path": "openapply\\src\\sources\\ashby.ts",
+      "bytes": 1901,
+      "sha256": "250a92f52c9efa975fbd18465e6979bdd5c893ccc8c7f4594856320dafe11002",
+      "backupSha256": "250a92f52c9efa975fbd18465e6979bdd5c893ccc8c7f4594856320dafe11002"
+    },
+    {
+      "path": "openapply\\src\\sources\\greenhouse.ts",
+      "bytes": 1770,
+      "sha256": "caf23f7daec5dd592a5e2f19f4fd21620e898611992dbb0997d53f6eef7ef9f1",
+      "backupSha256": "caf23f7daec5dd592a5e2f19f4fd21620e898611992dbb0997d53f6eef7ef9f1"
+    },
+    {
+      "path": "openapply\\src\\sources\\himalayas.ts",
+      "bytes": 1776,
+      "sha256": "6b33d551126aee203f281a1b45b57baa41d1128b3ce1461bbf7fe48fa8b4703e",
+      "backupSha256": "6b33d551126aee203f281a1b45b57baa41d1128b3ce1461bbf7fe48fa8b4703e"
+    },
+    {
+      "path": "openapply\\src\\sources\\hn.ts",
+      "bytes": 2363,
+      "sha256": "e4fb7c551a539d9751734df380b4a29f77778a8dc429a565cfca54f27d9ff495",
+      "backupSha256": "e4fb7c551a539d9751734df380b4a29f77778a8dc429a565cfca54f27d9ff495"
+    },
+    {
+      "path": "openapply\\src\\sources\\http.ts",
+      "bytes": 3501,
+      "sha256": "e77266f14aa135bb630b5cea860a9ac9d229b055da9bb56cb52b16f2c8939a3c",
+      "backupSha256": "e77266f14aa135bb630b5cea860a9ac9d229b055da9bb56cb52b16f2c8939a3c"
+    },
+    {
+      "path": "openapply\\src\\sources\\index.ts",
+      "bytes": 2669,
+      "sha256": "c5107f02166fbdb532caeb767196ef212969bc5a695033198b910364fe30544a",
+      "backupSha256": "c5107f02166fbdb532caeb767196ef212969bc5a695033198b910364fe30544a"
+    },
+    {
+      "path": "openapply\\src\\sources\\jobicy.ts",
+      "bytes": 1192,
+      "sha256": "95fa72fe53a999107979a3ba47f73d9879066a9fce2fbf5dae2305799f798be9",
+      "backupSha256": "95fa72fe53a999107979a3ba47f73d9879066a9fce2fbf5dae2305799f798be9"
+    },
+    {
+      "path": "openapply\\src\\sources\\lever.ts",
+      "bytes": 2560,
+      "sha256": "2c3681554640bb1b27104802fe89e8b37f435ee079c681058c7e634526c46b7a",
+      "backupSha256": "2c3681554640bb1b27104802fe89e8b37f435ee079c681058c7e634526c46b7a"
+    },
+    {
+      "path": "openapply\\src\\sources\\recruitee.ts",
+      "bytes": 1988,
+      "sha256": "d96d406712ca1364ee4a23e9b9d95e29ac51daf245f72fb5bc08f08076a8cdee",
+      "backupSha256": "d96d406712ca1364ee4a23e9b9d95e29ac51daf245f72fb5bc08f08076a8cdee"
+    },
+    {
+      "path": "openapply\\src\\sources\\remoteok.ts",
+      "bytes": 1211,
+      "sha256": "97bc8132c174bb618f4ec527e2527a73f8acaf940421de00d629fc64601158e4",
+      "backupSha256": "97bc8132c174bb618f4ec527e2527a73f8acaf940421de00d629fc64601158e4"
+    },
+    {
+      "path": "openapply\\src\\sources\\remotive.ts",
+      "bytes": 1003,
+      "sha256": "0df60cd907d2f1333d40a815be9c6eb2849c0e963693d569530bfbc0bc35962c",
+      "backupSha256": "0df60cd907d2f1333d40a815be9c6eb2849c0e963693d569530bfbc0bc35962c"
+    },
+    {
+      "path": "openapply\\src\\sources\\smartrecruiters.ts",
+      "bytes": 1976,
+      "sha256": "f1d41103fddc08e2843005a2b8608d19029866addf408db2ca97fa5503961c1f",
+      "backupSha256": "f1d41103fddc08e2843005a2b8608d19029866addf408db2ca97fa5503961c1f"
+    },
+    {
+      "path": "openapply\\src\\sources\\workable.ts",
+      "bytes": 2631,
+      "sha256": "c8b05ae04303f420966f79c3580b43a15b8daef3e769f49e3e0fab3dfda32675",
+      "backupSha256": "c8b05ae04303f420966f79c3580b43a15b8daef3e769f49e3e0fab3dfda32675"
+    },
+    {
+      "path": "openapply\\src\\sources\\workday.ts",
+      "bytes": 9043,
+      "sha256": "3f39b23aefbf4d9117ee3320f1612cdc9c2af8afe1246604a9516acb7a242643",
+      "backupSha256": "3f39b23aefbf4d9117ee3320f1612cdc9c2af8afe1246604a9516acb7a242643"
+    },
+    {
+      "path": "openapply\\src\\strategy.ts",
+      "bytes": 9979,
+      "sha256": "555b236f1ad98cf1580e7dcbae71c5d94db4a484d6495c4705afed22e290f887",
+      "backupSha256": "555b236f1ad98cf1580e7dcbae71c5d94db4a484d6495c4705afed22e290f887"
+    },
+    {
+      "path": "openapply\\src\\sync.ts",
+      "bytes": 3320,
+      "sha256": "9c01cfdbab3b52b4fff73eef8312319402728a10b569ff005e78974fc8f9ee5f",
+      "backupSha256": "9c01cfdbab3b52b4fff73eef8312319402728a10b569ff005e78974fc8f9ee5f"
+    },
+    {
+      "path": "openapply\\src\\tailor.ts",
+      "bytes": 25511,
+      "sha256": "f1018fc22a2d3bec2f6d7f67856a6e9960b3e81fd2a7a634684226fc44657e98",
+      "backupSha256": "f1018fc22a2d3bec2f6d7f67856a6e9960b3e81fd2a7a634684226fc44657e98"
+    },
+    {
+      "path": "openapply\\src\\text.ts",
+      "bytes": 6932,
+      "sha256": "7ec7864b1e0563b72d8df0628b7ce72176e9b2e199d2855d9d9c1f55874556bd",
+      "backupSha256": "7ec7864b1e0563b72d8df0628b7ce72176e9b2e199d2855d9d9c1f55874556bd"
+    },
+    {
+      "path": "openapply\\src\\tools.ts",
+      "bytes": 33730,
+      "sha256": "154331911c6af3256aab5826c068059958b5548e6fc7b28430324659cd5ff07d",
+      "backupSha256": "154331911c6af3256aab5826c068059958b5548e6fc7b28430324659cd5ff07d"
+    },
+    {
+      "path": "openapply\\src\\track.ts",
+      "bytes": 8235,
+      "sha256": "76142f4a53ff1a185c6ed4cb3d52e4f25169c74ab17d04b83b044329628ecbc4",
+      "backupSha256": "76142f4a53ff1a185c6ed4cb3d52e4f25169c74ab17d04b83b044329628ecbc4"
+    },
+    {
+      "path": "openapply\\src\\truth.ts",
+      "bytes": 10586,
+      "sha256": "2df1c9a1139f8e1d903484ba05cc6cf2b5c66cf00b3fc0f95897b47d40a52c1c",
+      "backupSha256": "2df1c9a1139f8e1d903484ba05cc6cf2b5c66cf00b3fc0f95897b47d40a52c1c"
+    },
+    {
+      "path": "openapply\\src\\types.ts",
+      "bytes": 10783,
+      "sha256": "26b2aec3bd11a2af2248416f858a09c0e8f0f6d69e1833987f2920c97fdf52ec",
+      "backupSha256": "26b2aec3bd11a2af2248416f858a09c0e8f0f6d69e1833987f2920c97fdf52ec"
+    },
+    {
+      "path": "openapply\\src\\website.ts",
+      "bytes": 3356,
+      "sha256": "1f24e23e05e55d62f858096f7498a131cc2458dcaaf2b364668bc62955a8cec5",
+      "backupSha256": "1f24e23e05e55d62f858096f7498a131cc2458dcaaf2b364668bc62955a8cec5"
+    },
+    {
+      "path": "openapply\\src\\whyus-check.ts",
+      "bytes": 3747,
+      "sha256": "c1f1e7255b43fc7509bcd27576c90aadfb70d7c14ef6b8b3f7e59eff4f43e3ef",
+      "backupSha256": "c1f1e7255b43fc7509bcd27576c90aadfb70d7c14ef6b8b3f7e59eff4f43e3ef"
+    },
+    {
+      "path": "openapply\\src\\whyus.ts",
+      "bytes": 7971,
+      "sha256": "45e2ed78b0c5058706950ad6cbb2c8904bb0dcb2ac002b7fb96b484c25765b70",
+      "backupSha256": "45e2ed78b0c5058706950ad6cbb2c8904bb0dcb2ac002b7fb96b484c25765b70"
+    },
+    {
+      "path": "openapply\\strategy\\example.json",
+      "bytes": 4899,
+      "sha256": "0179a205459486c6d4739b7c4e8b17069cc576958ed7c4ae5b02e50a928405bf",
+      "backupSha256": "0179a205459486c6d4739b7c4e8b17069cc576958ed7c4ae5b02e50a928405bf"
+    },
+    {
+      "path": "openapply\\templates\\cover-letter.tex",
+      "bytes": 1430,
+      "sha256": "0fde9bc5a55a128f950c9454fc7d93eb5be0bb06f3c7866ea2530836d15cd069",
+      "backupSha256": "0fde9bc5a55a128f950c9454fc7d93eb5be0bb06f3c7866ea2530836d15cd069"
+    },
+    {
+      "path": "openapply\\test\\apply.test.ts",
+      "bytes": 43501,
+      "sha256": "370ebd5b41a6eb5bfc55c7e06fadbe1f6391573116f798ec78863fcae4fe9dcc",
+      "backupSha256": "370ebd5b41a6eb5bfc55c7e06fadbe1f6391573116f798ec78863fcae4fe9dcc"
+    },
+    {
+      "path": "openapply\\test\\autosync.test.ts",
+      "bytes": 10745,
+      "sha256": "500b19734e82c66545bb7e16b582a48eb6f9812ce677c2bca7d49f8ffe8cb6cb",
+      "backupSha256": "500b19734e82c66545bb7e16b582a48eb6f9812ce677c2bca7d49f8ffe8cb6cb"
+    },
+    {
+      "path": "openapply\\test\\browser-shot.test.ts",
+      "bytes": 2727,
+      "sha256": "19451b3576dc494642e0609ac9c804f470779cf962845ab0209c3879a016f410",
+      "backupSha256": "19451b3576dc494642e0609ac9c804f470779cf962845ab0209c3879a016f410"
+    },
+    {
+      "path": "openapply\\test\\cli-outcomes.test.ts",
+      "bytes": 5604,
+      "sha256": "39bb771b061b93582f8ea32b4c8c9050170694005f0525f97d94d8ab9b4d1398",
+      "backupSha256": "39bb771b061b93582f8ea32b4c8c9050170694005f0525f97d94d8ab9b4d1398"
+    },
+    {
+      "path": "openapply\\test\\cover-tex.test.ts",
+      "bytes": 11202,
+      "sha256": "7d150bb1521582bb6f6ae640ff83d77785c8ee238f0000676ca82750c4b5f25a",
+      "backupSha256": "7d150bb1521582bb6f6ae640ff83d77785c8ee238f0000676ca82750c4b5f25a"
+    },
+    {
+      "path": "openapply\\test\\db.test.ts",
+      "bytes": 2954,
+      "sha256": "aa66d60f3d8e69ce4f3d8c5cf13a1405148294fdeeb12e86c2d43ba63eff8417",
+      "backupSha256": "aa66d60f3d8e69ce4f3d8c5cf13a1405148294fdeeb12e86c2d43ba63eff8417"
+    },
+    {
+      "path": "openapply\\test\\example-profile.test.ts",
+      "bytes": 1607,
+      "sha256": "81e000e3e8d8120d790584fafbc9cc41b6a092468b001a08728bccdecc68f4d0",
+      "backupSha256": "81e000e3e8d8120d790584fafbc9cc41b6a092468b001a08728bccdecc68f4d0"
+    },
+    {
+      "path": "openapply\\test\\fieldmap.test.ts",
+      "bytes": 13859,
+      "sha256": "b5591843b5cfc7989d08e5a7b6fdf3eeba6912903f64071211e8ba1a866d074a",
+      "backupSha256": "b5591843b5cfc7989d08e5a7b6fdf3eeba6912903f64071211e8ba1a866d074a"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\ashby-form.json",
+      "bytes": 5046,
+      "sha256": "88eeed7f1ffa8d1a9769fa2c1fb4a3d4fc8642257083914cda939dec9e9877ab",
+      "backupSha256": "88eeed7f1ffa8d1a9769fa2c1fb4a3d4fc8642257083914cda939dec9e9877ab"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\ashby.html",
+      "bytes": 19049,
+      "sha256": "8c67c988fb358831767ab84cefd2002fb474d2c4147c9d241c6c0780c634f81e",
+      "backupSha256": "8c67c988fb358831767ab84cefd2002fb474d2c4147c9d241c6c0780c634f81e"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\captcha.html",
+      "bytes": 1151,
+      "sha256": "dc690fcd75f8218403451e1383b765772066c14c476a7bb8e89d87668978f0f7",
+      "backupSha256": "dc690fcd75f8218403451e1383b765772066c14c476a7bb8e89d87668978f0f7"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\greenhouse-questions.json",
+      "bytes": 4231,
+      "sha256": "3e822f029e80a944ee0f640164eb6e7fbccd0675e4275b9ffc65b581cf3ba061",
+      "backupSha256": "3e822f029e80a944ee0f640164eb6e7fbccd0675e4275b9ffc65b581cf3ba061"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\greenhouse.html",
+      "bytes": 17444,
+      "sha256": "4ed840bb18eb1d82c313a5da486a7b5a06563b30ed6e19349ff05626a8d736bd",
+      "backupSha256": "4ed840bb18eb1d82c313a5da486a7b5a06563b30ed6e19349ff05626a8d736bd"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\lever-apply-cards.html",
+      "bytes": 56942,
+      "sha256": "6b1db8172098dcb244701efa04aefa4fb1dcb08cbb2d14c8fdb1c400d2db99b0",
+      "backupSha256": "6b1db8172098dcb244701efa04aefa4fb1dcb08cbb2d14c8fdb1c400d2db99b0"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\lever-apply-standard.html",
+      "bytes": 8983,
+      "sha256": "721ecc8bd402564b546e4e4b73f99fc19c6f819f6b14156b561720ab759330f1",
+      "backupSha256": "721ecc8bd402564b546e4e4b73f99fc19c6f819f6b14156b561720ab759330f1"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\lever-thanks.html",
+      "bytes": 443,
+      "sha256": "7293450c07cec6b0e70ca783c6de37fc5414eb0833904fe4be1b3f969a17ef80",
+      "backupSha256": "7293450c07cec6b0e70ca783c6de37fc5414eb0833904fe4be1b3f969a17ef80"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\lever-verify-error.html",
+      "bytes": 1580,
+      "sha256": "a752ab7849297fcc9a94bf063476545da98c64677e3bf1712d5bb1581dba77f8",
+      "backupSha256": "a752ab7849297fcc9a94bf063476545da98c64677e3bf1712d5bb1581dba77f8"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\lever.html",
+      "bytes": 11536,
+      "sha256": "8b05cdbba4e436681be65253e24003d4a968174afb59af52700c6de6791fd10c",
+      "backupSha256": "8b05cdbba4e436681be65253e24003d4a968174afb59af52700c6de6791fd10c"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\ats\\odd-form.html",
+      "bytes": 3306,
+      "sha256": "4ec7f3fd0f802987da27633a0024d8df8749c3b365aaafc75be5f95afef71813",
+      "backupSha256": "4ec7f3fd0f802987da27633a0024d8df8749c3b365aaafc75be5f95afef71813"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\resume\\jane.txt",
+      "bytes": 1032,
+      "sha256": "72ea3ffc615afbf36331cef7ec01c7590eb567e7dd0217193ad0cd49708f9c4c",
+      "backupSha256": "72ea3ffc615afbf36331cef7ec01c7590eb567e7dd0217193ad0cd49708f9c4c"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\arbeitnow.json",
+      "bytes": 6911,
+      "sha256": "f717d64b57231678773ec6356bee87f70a7f9be51b5d588c1e327237e75d216d",
+      "backupSha256": "f717d64b57231678773ec6356bee87f70a7f9be51b5d588c1e327237e75d216d"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\ashby-board-detail.json",
+      "bytes": 26690,
+      "sha256": "7ea63752492bd88a9d49ed7ba61ce12b41ebf9da260519d89bb6ef9fdd4691dc",
+      "backupSha256": "7ea63752492bd88a9d49ed7ba61ce12b41ebf9da260519d89bb6ef9fdd4691dc"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\ashby.json",
+      "bytes": 15688,
+      "sha256": "178fcf0ce4134f577aa17ad9c977f03a0b48f05bfa34631f702086f127c5a6b0",
+      "backupSha256": "178fcf0ce4134f577aa17ad9c977f03a0b48f05bfa34631f702086f127c5a6b0"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\greenhouse-board.json",
+      "bytes": 40,
+      "sha256": "3b9ce51d3f64a060bcf39100f676056be00b8f1329adf7061b8f55281e35ee5e",
+      "backupSha256": "3b9ce51d3f64a060bcf39100f676056be00b8f1329adf7061b8f55281e35ee5e"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\greenhouse-job-detail.json",
+      "bytes": 8985,
+      "sha256": "8433fd35d6ae1029e592f6a72f8fa37e778061cd72904e521b2e6c40780aaf76",
+      "backupSha256": "8433fd35d6ae1029e592f6a72f8fa37e778061cd72904e521b2e6c40780aaf76"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\greenhouse-jobs.json",
+      "bytes": 7953,
+      "sha256": "7346b32f74b256a722c00dccad77f4b6a213db4a09f142226edf463ad9cebcfc",
+      "backupSha256": "7346b32f74b256a722c00dccad77f4b6a213db4a09f142226edf463ad9cebcfc"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\himalayas.json",
+      "bytes": 8484,
+      "sha256": "3c77776601e1e6fdc256a840ce1fab7d992b976a2476171e140e36364bcf89ce",
+      "backupSha256": "3c77776601e1e6fdc256a840ce1fab7d992b976a2476171e140e36364bcf89ce"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\hn-item.json",
+      "bytes": 7908,
+      "sha256": "0cfd8fbcf65a2944ebfd77e0f6d07b5ef95b9864dbb0c5dc21803f1d0153c35a",
+      "backupSha256": "0cfd8fbcf65a2944ebfd77e0f6d07b5ef95b9864dbb0c5dc21803f1d0153c35a"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\hn-search.json",
+      "bytes": 295,
+      "sha256": "c1775f241154410f646ffcd35333675518a63b6e923f748af8ac5202e989a057",
+      "backupSha256": "c1775f241154410f646ffcd35333675518a63b6e923f748af8ac5202e989a057"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\jobicy.json",
+      "bytes": 7816,
+      "sha256": "b1cc11e74ba394ffd497520933c886d607927b09425d32ac9c88daf529b6e013",
+      "backupSha256": "b1cc11e74ba394ffd497520933c886d607927b09425d32ac9c88daf529b6e013"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\lever-job-detail.json",
+      "bytes": 10974,
+      "sha256": "8e77bfe4624318de148436f887a56e2baff4bfb0752e58ee776d820710fa8161",
+      "backupSha256": "8e77bfe4624318de148436f887a56e2baff4bfb0752e58ee776d820710fa8161"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\lever.json",
+      "bytes": 38570,
+      "sha256": "3b70b22f33f3d4b2b1afdac9b9044e5c53eefc781b5e51512ba0ac1abda43d09",
+      "backupSha256": "3b70b22f33f3d4b2b1afdac9b9044e5c53eefc781b5e51512ba0ac1abda43d09"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\recruitee-offer-detail.json",
+      "bytes": 7829,
+      "sha256": "eeb59cbfdb2d1eded33247bfe803ec8e0768424276ad8d5fa97bca94d4cd5a47",
+      "backupSha256": "eeb59cbfdb2d1eded33247bfe803ec8e0768424276ad8d5fa97bca94d4cd5a47"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\recruitee.json",
+      "bytes": 82487,
+      "sha256": "b162b0282b89c3ce217bf0ce2c99cbaa14bb1fa1aaf20f5abe5c525fbe9a5efe",
+      "backupSha256": "b162b0282b89c3ce217bf0ce2c99cbaa14bb1fa1aaf20f5abe5c525fbe9a5efe"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\remoteok.json",
+      "bytes": 7060,
+      "sha256": "a428dd09c5010a69f570653411f520cae3a0d59f5a0caf8242d64645d5aafa09",
+      "backupSha256": "a428dd09c5010a69f570653411f520cae3a0d59f5a0caf8242d64645d5aafa09"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\remotive.json",
+      "bytes": 8153,
+      "sha256": "e6a4c0e3d8b5396bfc66d4cef98ee343ea54c93fe28f7240ccaa30c1592442bc",
+      "backupSha256": "e6a4c0e3d8b5396bfc66d4cef98ee343ea54c93fe28f7240ccaa30c1592442bc"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\smartrecruiters-posting-detail.json",
+      "bytes": 11217,
+      "sha256": "3f89bc5c37206ad21c4bcb8fe03cd7f155b9741dc3c885f2ece2b877210951d4",
+      "backupSha256": "3f89bc5c37206ad21c4bcb8fe03cd7f155b9741dc3c885f2ece2b877210951d4"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\smartrecruiters.json",
+      "bytes": 9352,
+      "sha256": "2778e675291d3a7ee27df53dee02b83d7bd5b8f1792b014070466314712e8e5f",
+      "backupSha256": "2778e675291d3a7ee27df53dee02b83d7bd5b8f1792b014070466314712e8e5f"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\workable-detail.json",
+      "bytes": 3475,
+      "sha256": "169a8655cd768606b84b261555a1d069f5d1ce3f84aa3c7615c06882ad6fa9e5",
+      "backupSha256": "169a8655cd768606b84b261555a1d069f5d1ce3f84aa3c7615c06882ad6fa9e5"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\workable-widget.json",
+      "bytes": 2081,
+      "sha256": "95f7a1fffac95c8ca059f318e500165bd3d5d54c8aaa77839de018298ba1987a",
+      "backupSha256": "95f7a1fffac95c8ca059f318e500165bd3d5d54c8aaa77839de018298ba1987a"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\workday-job-detail.json",
+      "bytes": 7113,
+      "sha256": "57f2d3757ab6582114e1222bb329ad4980ec0c99a85b75f46360ad6d72b4e74d",
+      "backupSha256": "57f2d3757ab6582114e1222bb329ad4980ec0c99a85b75f46360ad6d72b4e74d"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\workday-jobs-page2.json",
+      "bytes": 5868,
+      "sha256": "e69d10821b997c662318f28e85a20e138c060f856976bf07fd0cae2804af9abb",
+      "backupSha256": "e69d10821b997c662318f28e85a20e138c060f856976bf07fd0cae2804af9abb"
+    },
+    {
+      "path": "openapply\\test\\fixtures\\sources\\workday-jobs.json",
+      "bytes": 5935,
+      "sha256": "36dead7804a468d21ec5b5a5b10c562890f09674cd15437a819ca4774b8abcfa",
+      "backupSha256": "36dead7804a468d21ec5b5a5b10c562890f09674cd15437a819ca4774b8abcfa"
+    },
+    {
+      "path": "openapply\\test\\history-review.test.ts",
+      "bytes": 8466,
+      "sha256": "17aa76c6c062c47cbee0c2ae2b5d12f1c47890f870b6c588bbdd83ad5a2c1e46",
+      "backupSha256": "17aa76c6c062c47cbee0c2ae2b5d12f1c47890f870b6c588bbdd83ad5a2c1e46"
+    },
+    {
+      "path": "openapply\\test\\history-surfaces.test.ts",
+      "bytes": 7135,
+      "sha256": "c5beb868b4f986457d49489f2336ba834962ca6b5b3a1b91160173c30b234692",
+      "backupSha256": "c5beb868b4f986457d49489f2336ba834962ca6b5b3a1b91160173c30b234692"
+    },
+    {
+      "path": "openapply\\test\\history.test.ts",
+      "bytes": 10666,
+      "sha256": "f9dfc448dce37c1574ec32bfe3421e5adc4051a2a1425b7029d3d96e67ddb338",
+      "backupSha256": "f9dfc448dce37c1574ec32bfe3421e5adc4051a2a1425b7029d3d96e67ddb338"
+    },
+    {
+      "path": "openapply\\test\\http.test.ts",
+      "bytes": 39039,
+      "sha256": "a9efbe1cee77ae2350710bbde2aa7b90788f4bf9bea106c5771d0cdb8679a186",
+      "backupSha256": "a9efbe1cee77ae2350710bbde2aa7b90788f4bf9bea106c5771d0cdb8679a186"
+    },
+    {
+      "path": "openapply\\test\\intel.test.ts",
+      "bytes": 3768,
+      "sha256": "6cc367ae53c2a5f9a21a00d76c969a7e2162861db6f37f41586a1f31bab24b9c",
+      "backupSha256": "6cc367ae53c2a5f9a21a00d76c969a7e2162861db6f37f41586a1f31bab24b9c"
+    },
+    {
+      "path": "openapply\\test\\lean.test.ts",
+      "bytes": 12633,
+      "sha256": "680fff73de6114597b6e64b32263607bf339f6f901c6b8f73249cdaf7bf51428",
+      "backupSha256": "680fff73de6114597b6e64b32263607bf339f6f901c6b8f73249cdaf7bf51428"
+    },
+    {
+      "path": "openapply\\test\\match.test.ts",
+      "bytes": 5049,
+      "sha256": "e91f71655cea49584d9387352c0cd326ab25f0a470bc5b73b06825370ef2aa3e",
+      "backupSha256": "e91f71655cea49584d9387352c0cd326ab25f0a470bc5b73b06825370ef2aa3e"
+    },
+    {
+      "path": "openapply\\test\\mcp.test.ts",
+      "bytes": 9980,
+      "sha256": "32e1b37ef0611a87c5aeb533091233be98cb77029666041480f1579d5e79e287",
+      "backupSha256": "32e1b37ef0611a87c5aeb533091233be98cb77029666041480f1579d5e79e287"
+    },
+    {
+      "path": "openapply\\test\\migrate.test.ts",
+      "bytes": 5567,
+      "sha256": "92913fe5294917d2c1acb621cd5b8d833c41ed548efb893ba60612e1e6e347c1",
+      "backupSha256": "92913fe5294917d2c1acb621cd5b8d833c41ed548efb893ba60612e1e6e347c1"
+    },
+    {
+      "path": "openapply\\test\\offline.ts",
+      "bytes": 474,
+      "sha256": "8cc95d7121651542c7f345e29e7da62938ccd14a38b51ff47ce324df32cf41d6",
+      "backupSha256": "8cc95d7121651542c7f345e29e7da62938ccd14a38b51ff47ce324df32cf41d6"
+    },
+    {
+      "path": "openapply\\test\\outcomes.test.ts",
+      "bytes": 18109,
+      "sha256": "615e948864c5cf4a103fc02a75f863e88db9d76a5fcfd6449df3d35157ee1c02",
+      "backupSha256": "615e948864c5cf4a103fc02a75f863e88db9d76a5fcfd6449df3d35157ee1c02"
+    },
+    {
+      "path": "openapply\\test\\outreach.test.ts",
+      "bytes": 18333,
+      "sha256": "e7bde5f5fa2c89dd97a51dccaf6c2297ef250820240ceec1d66ab2b526660a3e",
+      "backupSha256": "e7bde5f5fa2c89dd97a51dccaf6c2297ef250820240ceec1d66ab2b526660a3e"
+    },
+    {
+      "path": "openapply\\test\\profile.test.ts",
+      "bytes": 8348,
+      "sha256": "7b8e8fb9c0e2d5d6154fc6ca0376132b9dab9f2fdde724b64d3189a169d20747",
+      "backupSha256": "7b8e8fb9c0e2d5d6154fc6ca0376132b9dab9f2fdde724b64d3189a169d20747"
+    },
+    {
+      "path": "openapply\\test\\questions.test.ts",
+      "bytes": 21639,
+      "sha256": "b5097611501e9dd5e13b27d724e800ca0f5f9bfc4c7cf0f78a272e20e3065a2a",
+      "backupSha256": "b5097611501e9dd5e13b27d724e800ca0f5f9bfc4c7cf0f78a272e20e3065a2a"
+    },
+    {
+      "path": "openapply\\test\\resume-track.test.ts",
+      "bytes": 5266,
+      "sha256": "6ce20cf0d9f93d9e8a43f913dba27ae1ad3b667710ffd265c2ce111986e4ba77",
+      "backupSha256": "6ce20cf0d9f93d9e8a43f913dba27ae1ad3b667710ffd265c2ce111986e4ba77"
+    },
+    {
+      "path": "openapply\\test\\runs.test.ts",
+      "bytes": 20691,
+      "sha256": "5e5336918f7d0197797e21f3daf739b2d751f37ca260a7083a21628e807ff2d5",
+      "backupSha256": "5e5336918f7d0197797e21f3daf739b2d751f37ca260a7083a21628e807ff2d5"
+    },
+    {
+      "path": "openapply\\test\\scoreboard.test.ts",
+      "bytes": 53575,
+      "sha256": "7c2d018834d7ad6cfb44312cc54a6770bcba81ae75295cb1e55989ce789be07d",
+      "backupSha256": "7c2d018834d7ad6cfb44312cc54a6770bcba81ae75295cb1e55989ce789be07d"
+    },
+    {
+      "path": "openapply\\test\\sources.test.ts",
+      "bytes": 12943,
+      "sha256": "170374bc704f721b6fe2627cb6a190f27bc7a98173af2a736698d212ff4bd6c3",
+      "backupSha256": "170374bc704f721b6fe2627cb6a190f27bc7a98173af2a736698d212ff4bd6c3"
+    },
+    {
+      "path": "openapply\\test\\tailor.test.ts",
+      "bytes": 16021,
+      "sha256": "e694e40ea0d38991cfffbe1237698b5efc890953100e7673a52dcf8dfb934b87",
+      "backupSha256": "e694e40ea0d38991cfffbe1237698b5efc890953100e7673a52dcf8dfb934b87"
+    },
+    {
+      "path": "openapply\\test\\text.test.ts",
+      "bytes": 2158,
+      "sha256": "849f851aa94884a91c494bc7a8844f1db2454cf7c14f55b99751eed8102da07c",
+      "backupSha256": "849f851aa94884a91c494bc7a8844f1db2454cf7c14f55b99751eed8102da07c"
+    },
+    {
+      "path": "openapply\\test\\track.test.ts",
+      "bytes": 7142,
+      "sha256": "adb035313c2ce373331e7abdcb43d4de0d28507a41a80c4bd1a19f9d273ca8d1",
+      "backupSha256": "adb035313c2ce373331e7abdcb43d4de0d28507a41a80c4bd1a19f9d273ca8d1"
+    },
+    {
+      "path": "openapply\\test\\truth.test.ts",
+      "bytes": 8712,
+      "sha256": "9f9383da3c7d95a0aaeb1da55b00a7e6c0b3f039d158133a0e14c90ab245587d",
+      "backupSha256": "9f9383da3c7d95a0aaeb1da55b00a7e6c0b3f039d158133a0e14c90ab245587d"
+    },
+    {
+      "path": "openapply\\test\\website.test.ts",
+      "bytes": 3846,
+      "sha256": "ad1f649eae3db92bd9ff373dcfaac70727a99cc04197352ad64ffcd3504d6d84",
+      "backupSha256": "ad1f649eae3db92bd9ff373dcfaac70727a99cc04197352ad64ffcd3504d6d84"
+    },
+    {
+      "path": "openapply\\test\\whyus.test.ts",
+      "bytes": 12266,
+      "sha256": "0fed2252fc6a69354253551163164227d3a5fe597c35dd108fc245fbec8f9891",
+      "backupSha256": "0fed2252fc6a69354253551163164227d3a5fe597c35dd108fc245fbec8f9891"
+    },
+    {
+      "path": "openapply\\test\\workday.test.ts",
+      "bytes": 20643,
+      "sha256": "a59aa7330e7360696650b63957bef42f917216f24fe784588d0658e916709a1a",
+      "backupSha256": "a59aa7330e7360696650b63957bef42f917216f24fe784588d0658e916709a1a"
+    },
+    {
+      "path": "openapply\\THIRD_PARTY_NOTICES.md",
+      "bytes": 4209,
+      "sha256": "52cd2fba097dfaa4cf8e026d57b30ca648381b9745215552a666df304c862b21",
+      "backupSha256": "52cd2fba097dfaa4cf8e026d57b30ca648381b9745215552a666df304c862b21"
+    },
+    {
+      "path": "openapply\\tsconfig.json",
+      "bytes": 354,
+      "sha256": "95980fd00b461e53430c2c7395b19daa465777fe9e1e0fbf2d16eb8e4e14dbb6",
+      "backupSha256": "95980fd00b461e53430c2c7395b19daa465777fe9e1e0fbf2d16eb8e4e14dbb6"
+    },
+    {
+      "path": "openapply\\ui\\app.css",
+      "bytes": 67133,
+      "sha256": "f6502be5dac40bdbfa8c44cdcdee2bddc2cfead5867be052a8cdf4c0e48a6a54",
+      "backupSha256": "f6502be5dac40bdbfa8c44cdcdee2bddc2cfead5867be052a8cdf4c0e48a6a54"
+    },
+    {
+      "path": "openapply\\ui\\app.js",
+      "bytes": 159589,
+      "sha256": "906ebe808f9f5cbd31682f336b4ba8125c7d3f403d64c5ac2cabdb6d93b8fd2d",
+      "backupSha256": "906ebe808f9f5cbd31682f336b4ba8125c7d3f403d64c5ac2cabdb6d93b8fd2d"
+    },
+    {
+      "path": "openapply\\ui\\demo-data.js",
+      "bytes": 58022,
+      "sha256": "dcc6344d2c1416b51cb640070ab0d7e2d9864ff73828e991b18bb6d858e95af9",
+      "backupSha256": "dcc6344d2c1416b51cb640070ab0d7e2d9864ff73828e991b18bb6d858e95af9"
+    },
+    {
+      "path": "openapply\\ui\\favicon.svg",
+      "bytes": 369,
+      "sha256": "c3d962f56e8c083b29c7719c93cc1ea36c09f21ad6b3562b71b0824de12afd77",
+      "backupSha256": "c3d962f56e8c083b29c7719c93cc1ea36c09f21ad6b3562b71b0824de12afd77"
+    },
+    {
+      "path": "openapply\\ui\\index.html",
+      "bytes": 1880,
+      "sha256": "aa2897497511b3b32027824a414c58a611073a40d2d1c50e4cb5bf7295a11804",
+      "backupSha256": "aa2897497511b3b32027824a414c58a611073a40d2d1c50e4cb5bf7295a11804"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 285,
+      "sha256": "c6af7955204b7857af1e77bd0a76d08bfc05a7bf07b6e7d50e61c1281107ccf2",
+      "backupSha256": "c6af7955204b7857af1e77bd0a76d08bfc05a7bf07b6e7d50e61c1281107ccf2"
+    },
+    {
+      "path": "package.json",
+      "bytes": 846,
+      "sha256": "d6ace21712e2c3dbdc925d8e5f734354333988b83b0e646eb918e2eb53e19d2f",
+      "backupSha256": "d6ace21712e2c3dbdc925d8e5f734354333988b83b0e646eb918e2eb53e19d2f"
+    },
+    {
+      "path": "pending_actions.md",
+      "bytes": 827,
+      "sha256": "7df5d1478d14d9fce6b536d8c798e5c165739ded90f2ddb44ca522551221dd1e",
+      "backupSha256": "7df5d1478d14d9fce6b536d8c798e5c165739ded90f2ddb44ca522551221dd1e"
+    },
+    {
+      "path": "playwright-mcp.chrome.json",
+      "bytes": 168,
+      "sha256": "542a9024a51ecc96031815d6618bc17bd94d2fb15f271f8bbf0e792ded7d8844",
+      "backupSha256": "542a9024a51ecc96031815d6618bc17bd94d2fb15f271f8bbf0e792ded7d8844"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1678,
+      "sha256": "31ff95e4c594dd3c53995eb33d69e2d3b8df93532328c5777172ac577a306674",
+      "backupSha256": "31ff95e4c594dd3c53995eb33d69e2d3b8df93532328c5777172ac577a306674"
+    },
+    {
+      "path": "reports\\audit.json",
+      "bytes": 62990,
+      "sha256": "bb1941cf6e03a5dcf00b6f0d153922aacd9791f586222a878f029d620c4b5174",
+      "backupSha256": "bb1941cf6e03a5dcf00b6f0d153922aacd9791f586222a878f029d620c4b5174"
+    },
+    {
+      "path": "reports\\cleanup-manifest.json",
+      "bytes": 5635,
+      "sha256": "2c5b17ad24dc278b9d6e113bd49b619f6e0ff6aa7d05dc0255cf42d218823d12",
+      "backupSha256": "2c5b17ad24dc278b9d6e113bd49b619f6e0ff6aa7d05dc0255cf42d218823d12"
+    },
+    {
+      "path": "reports\\historical\\applications.xlsx",
+      "bytes": 959430,
+      "sha256": "b56ff7de2757440fd13be8f1bf07687c142d5362e2734872d4e35652aed44548",
+      "backupSha256": "b56ff7de2757440fd13be8f1bf07687c142d5362e2734872d4e35652aed44548"
+    },
+    {
+      "path": "reports\\historical\\browser_diagnostic_report.md",
+      "bytes": 4116,
+      "sha256": "ce442d83cd95ef882fa250fe57f11b13abc88f1b194e71c860140a24ced4e670",
+      "backupSha256": "ce442d83cd95ef882fa250fe57f11b13abc88f1b194e71c860140a24ced4e670"
+    },
+    {
+      "path": "reports\\historical\\chrome_browser_report.md",
+      "bytes": 1103,
+      "sha256": "c4e18e6a99f760a688c5718f59ebfcf4b2e6cf55697abbfac49bf91d53fa7313",
+      "backupSha256": "c4e18e6a99f760a688c5718f59ebfcf4b2e6cf55697abbfac49bf91d53fa7313"
+    },
+    {
+      "path": "reports\\historical\\companies.csv",
+      "bytes": 65827,
+      "sha256": "920a11a2b6c754b2a3c336e606f90ebf4c92af423c91f519bdac5cd1ca0962cf",
+      "backupSha256": "920a11a2b6c754b2a3c336e606f90ebf4c92af423c91f519bdac5cd1ca0962cf"
+    },
+    {
+      "path": "reports\\historical\\final_report.md",
+      "bytes": 36031,
+      "sha256": "b739284abc7d42d2a92887872a03cff4d2dad90254811a7834d6cf629adcd461",
+      "backupSha256": "b739284abc7d42d2a92887872a03cff4d2dad90254811a7834d6cf629adcd461"
+    },
+    {
+      "path": "reports\\historical\\jobs.csv",
+      "bytes": 303016,
+      "sha256": "5e90efbeed5d91b6133bef00fbe5bc8cdb564bccd5c31986af14a06d2c70f896",
+      "backupSha256": "5e90efbeed5d91b6133bef00fbe5bc8cdb564bccd5c31986af14a06d2c70f896"
+    },
+    {
+      "path": "reports\\integration-tests.log",
+      "bytes": 898,
+      "sha256": "502a8a804293fdb036410164c276f05c2a00a4b25ffc6b57713d42aa45fb0826",
+      "backupSha256": "502a8a804293fdb036410164c276f05c2a00a4b25ffc6b57713d42aa45fb0826"
+    },
+    {
+      "path": "reports\\recovery.json",
+      "bytes": 62351,
+      "sha256": "44397fc7bfdcaca3bd868904ff47f4e4576db0b9383fa666eaff4e6031f84ff0",
+      "backupSha256": "44397fc7bfdcaca3bd868904ff47f4e4576db0b9383fa666eaff4e6031f84ff0"
+    },
+    {
+      "path": "reports\\strict-build.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "backupSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "reports\\summary.json",
+      "bytes": 8104,
+      "sha256": "a12298240bf25f2ea43c3683d23375b11fac8bbb091c9d5644a642c1352cb0da",
+      "backupSha256": "a12298240bf25f2ea43c3683d23375b11fac8bbb091c9d5644a642c1352cb0da"
+    },
+    {
+      "path": "reports\\upstream-test-compile.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "backupSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "reports\\upstream-tests.log",
+      "bytes": 10164,
+      "sha256": "c1cfd4668b0052534925ee8a5fb3fc868ce590dcd7ceae82e81eb4f44b1eb267",
+      "backupSha256": "c1cfd4668b0052534925ee8a5fb3fc868ce590dcd7ceae82e81eb4f44b1eb267"
+    },
+    {
+      "path": "reports\\upstream.patch",
+      "bytes": 5486,
+      "sha256": "3eb08730b7e57ea542830b53e97bb515af1d5b9d0513b39e70e82eb3d793f9f2",
+      "backupSha256": "3eb08730b7e57ea542830b53e97bb515af1d5b9d0513b39e70e82eb3d793f9f2"
+    },
+    {
+      "path": "reports\\verification.json",
+      "bytes": 1348,
+      "sha256": "4d3ee77d258546e6e5aafa5788698e9d58293bc0eb6984f55aad63366776a559",
+      "backupSha256": "4d3ee77d258546e6e5aafa5788698e9d58293bc0eb6984f55aad63366776a559"
+    },
+    {
+      "path": "scripts\\agent.cjs",
+      "bytes": 294,
+      "sha256": "d7f82e19eff453ae2f98c59f5f218d2ff0465cbb16ed3887889eea88f0c4b42e",
+      "backupSha256": "d7f82e19eff453ae2f98c59f5f218d2ff0465cbb16ed3887889eea88f0c4b42e"
+    },
+    {
+      "path": "scripts\\browser.cjs",
+      "bytes": 2161,
+      "sha256": "f35bff58fd68a46bad7986f3acc6336cbb458ed82ebcddecaa90f1441e823f4a",
+      "backupSha256": "f35bff58fd68a46bad7986f3acc6336cbb458ed82ebcddecaa90f1441e823f4a"
+    },
+    {
+      "path": "scripts\\build.cjs",
+      "bytes": 425,
+      "sha256": "7a75a2d30669300121c22abd9ce572eb4b09b7547ed597ed36612b050779fb78",
+      "backupSha256": "7a75a2d30669300121c22abd9ce572eb4b09b7547ed597ed36612b050779fb78"
+    },
+    {
+      "path": "scripts\\chrome-signin.cjs",
+      "bytes": 500,
+      "sha256": "459a68866d04a72136482e27d0d242a8140453d95f415b54adec99c953914ffe",
+      "backupSha256": "459a68866d04a72136482e27d0d242a8140453d95f415b54adec99c953914ffe"
+    },
+    {
+      "path": "scripts\\cleanup.cjs",
+      "bytes": 3492,
+      "sha256": "09fdb245df3793228b48d1e677bc89ab39c37503e2ba9a0e49890bb227961458",
+      "backupSha256": "09fdb245df3793228b48d1e677bc89ab39c37503e2ba9a0e49890bb227961458"
+    },
+    {
+      "path": "scripts\\consolidate.mjs",
+      "bytes": 9038,
+      "sha256": "869febcb0076a0b361d1751516e99024791baa4f864f079a0f4bc0a6eded0fbd",
+      "backupSha256": "869febcb0076a0b361d1751516e99024791baa4f864f079a0f4bc0a6eded0fbd"
+    },
+    {
+      "path": "scripts\\delivery-docs.mjs",
+      "bytes": 32460,
+      "sha256": "57682fd8924006e997cec2249f1124e58c33213a9605a35fd34f07dd8ffe9344",
+      "backupSha256": "57682fd8924006e997cec2249f1124e58c33213a9605a35fd34f07dd8ffe9344"
+    },
+    {
+      "path": "scripts\\evidence.mjs",
+      "bytes": 595,
+      "sha256": "43c1362fe8a4c5ad59ed20b92b76c3e1f9c115f2fc17be75fdd6b5c19881f135",
+      "backupSha256": "43c1362fe8a4c5ad59ed20b92b76c3e1f9c115f2fc17be75fdd6b5c19881f135"
+    },
+    {
+      "path": "scripts\\extract-resume.cjs",
+      "bytes": 1380,
+      "sha256": "ffc5197f8235a63aee82281d3e57af8a343901b537c739349d2d3ebe3d9e34de",
+      "backupSha256": "ffc5197f8235a63aee82281d3e57af8a343901b537c739349d2d3ebe3d9e34de"
+    },
+    {
+      "path": "scripts\\openapply.cjs",
+      "bytes": 561,
+      "sha256": "0199f6577edb89e4463a7037385e8f3b57fb05f62e9d9955a4e9587019117f52",
+      "backupSha256": "0199f6577edb89e4463a7037385e8f3b57fb05f62e9d9955a4e9587019117f52"
+    },
+    {
+      "path": "scripts\\recovery.cjs",
+      "bytes": 2450,
+      "sha256": "2b55e025cfdf9b36a1dbce0997699cc118ebf895fc1b6f39529137f105cd725a",
+      "backupSha256": "2b55e025cfdf9b36a1dbce0997699cc118ebf895fc1b6f39529137f105cd725a"
+    },
+    {
+      "path": "scripts\\runtime.cjs",
+      "bytes": 647,
+      "sha256": "e86e7c0f0bfe932d99f08f0701406a97cc5d2fb9d504a4fc88a80d5785ea7fd5",
+      "backupSha256": "e86e7c0f0bfe932d99f08f0701406a97cc5d2fb9d504a4fc88a80d5785ea7fd5"
+    },
+    {
+      "path": "scripts\\upstream-tests.cjs",
+      "bytes": 2337,
+      "sha256": "72259627fc76e636a5f64cbdbd4c5dfffde32616371e572c59be8a3c10d66c4f",
+      "backupSha256": "72259627fc76e636a5f64cbdbd4c5dfffde32616371e572c59be8a3c10d66c4f"
+    },
+    {
+      "path": "scripts\\verify-project.mjs",
+      "bytes": 2312,
+      "sha256": "d868464987d61c5935dec1602132ee9f6b24cc3757b023132ae2f6c53bfae835",
+      "backupSha256": "d868464987d61c5935dec1602132ee9f6b24cc3757b023132ae2f6c53bfae835"
+    },
+    {
+      "path": "SETUP.md",
+      "bytes": 5981,
+      "sha256": "fe7a752e9592752c29da4191eea202b626dbb2e40df4d077fb39429a6145931d",
+      "backupSha256": "fe7a752e9592752c29da4191eea202b626dbb2e40df4d077fb39429a6145931d"
+    },
+    {
+      "path": "Tarek-Elsayed-Resume.pdf",
+      "bytes": 64895,
+      "sha256": "b497003cababe7dbe2fd766c5e0943d80fdfbfb17cedfe237dec6552a1583827",
+      "backupSha256": "b497003cababe7dbe2fd766c5e0943d80fdfbfb17cedfe237dec6552a1583827"
+    },
+    {
+      "path": "tests\\consolidation.test.mjs",
+      "bytes": 8723,
+      "sha256": "1a233dadd4e6ff3c8a5174dcbc3326d9717ac3b75f4a203240613bd497426c6b",
+      "backupSha256": "1a233dadd4e6ff3c8a5174dcbc3326d9717ac3b75f4a203240613bd497426c6b"
+    },
+    {
+      "path": "TEST_RESULTS.md",
+      "bytes": 3775,
+      "sha256": "f7af2457f3dac7930083b3ebc39843ec2636ceb1801670c959a709948dcf15f5",
+      "backupSha256": "f7af2457f3dac7930083b3ebc39843ec2636ceb1801670c959a709948dcf15f5"
+    }
+  ],
+  "excluded": [
+    {
+      "path": "backups",
+      "reason": "regenerable dependencies, backup tree or private browser state retained in place"
+    },
+    {
+      "path": "data\\chrome-automation-profile",
+      "reason": "regenerable dependencies, backup tree or private browser state retained in place"
+    },
+    {
+      "path": "data\\chrome-direct-diagnostic",
+      "reason": "regenerable dependencies, backup tree or private browser state retained in place"
+    },
+    {
+      "path": "data\\openapply\\browser-profile",
+      "reason": "regenerable dependencies, backup tree or private browser state retained in place"
+    },
+    {
+      "path": "data\\test-runs",
+      "reason": "regenerable dependencies, backup tree or private browser state retained in place"
+    },
+    {
+      "path": "openapply\\.git",
+      "reason": "Git history retained in place"
+    },
+    {
+      "path": "openapply\\node_modules",
+      "reason": "regenerable dependencies, backup tree or private browser state retained in place"
+    }
+  ]
+}

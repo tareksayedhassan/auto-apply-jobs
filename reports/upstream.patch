@@ -1,0 +1,90 @@
+diff --git a/src/apply/engine.ts b/src/apply/engine.ts
+index aedabcd..b8b4ff9 100644
+--- a/src/apply/engine.ts
++++ b/src/apply/engine.ts
+@@ -26,6 +26,8 @@ import { suggest, type MapContext } from "./fieldmap.js";
+ export { closeBrowser };
+ 
+ const ADAPTERS: Record<AdapterName, Adapter> = { greenhouse, lever, ashby, generic };
++// Project policy is opt-in; upstream defaults remain unchanged outside the consolidated launcher.
++const projectPolicy = async () => process.env.OPENAPPLY_POLICY_MODULE ? await import(process.env.OPENAPPLY_POLICY_MODULE) : undefined;
+ /** Which adapter drove each open job page (fill and submit must agree). */
+ const used = new Map<string, Adapter>();
+ 
+@@ -141,6 +143,7 @@ export function fillForm(jobId: string, answers: Record<string, string> = {}, re
+ }
+ 
+ async function fillInner(jobId: string, answers: Record<string, string>, remember: boolean): Promise<FillResult> {
++  await (await projectPolicy())?.beforeFill(jobId);
+   const job = jobOrThrow(jobId);
+   if (db.getApplication(jobId)?.status === "submitted") throw new Error(`${jobId} is already submitted.`);
+   const ctx = context(jobId, answers);
+@@ -261,11 +264,13 @@ async function submitInner(jobId: string, confirmationCode?: string): Promise<Su
+     throw new Error(`Submit refused: the page moved since it was filled (${page.url()}). Run fill again and get a fresh yes.`);
+   }
+ 
++  await (await projectPolicy())?.beforeSubmit(jobId);
+   tickets.delete(jobId); // single use, whatever happens next
+   const job = jobOrThrow(jobId);
+   const elsewhere = { applyUrl: adapter.applyUrl(job), resume: context(jobId).files.resume };
+   const finish = async (outcome: SubmitResult["outcome"], detail: string, extra: Partial<SubmitResult> = {}): Promise<SubmitResult> => {
+     const shot = await screenshot(page, jobId, `-${outcome}`);
++    await (await projectPolicy())?.afterOutcome(jobId, outcome, page, shot);
+     db.setApplication(jobId, outcome === "submitted"
+       ? { status: "submitted", submittedAt: new Date().toISOString(), confirmationCode: undefined }
+       : { status: "needs_human", confirmationCode: undefined });
+@@ -282,6 +287,7 @@ async function submitInner(jobId: string, confirmationCode?: string): Promise<Su
+     return finish("needs_human", `CAPTCHA on the page (${before.kinds.join(", ")}). OpenApply does not solve CAPTCHAs: the browser is left open for the user to finish and submit.`);
+   }
+   const formUrl = page.url();
++  await (await projectPolicy())?.markAttempt(jobId);
+   try {
+     await adapter.submit(page);
+   } catch (e) {
+diff --git a/src/apply/fieldmap.ts b/src/apply/fieldmap.ts
+index 69b58f0..8080785 100644
+--- a/src/apply/fieldmap.ts
++++ b/src/apply/fieldmap.ts
+@@ -270,8 +270,9 @@ function fromProfile(field: FormField, ctx: MapContext): string | boolean | unde
+   // A long free-text question that only mentions "city", "website" or "employer" is asking something else.
+   const prose = (field.type === "text" || field.type === "textarea") && field.label.trim().split(/\s+/).length > 6;
+   if (!prose && /\b(website|portfolio|personal site|blog)\b/.test(L)) return p.website;
+-  if (/\bsponsor|\bvisa\b/.test(L)) return p.needsSponsorship;
+-  if (/authori[sz]ed|legally (able|eligible|permitted)|right to work|eligible to work|work authori/.test(L)) return p.workAuthorizedUS;
++  const useUSDefaults = process.env.OPENAPPLY_STRICT_PERSONAL !== "1" || /\b(united states|usa|us)\b/i.test(ctx.job?.location ?? "");
++  if (/\bsponsor|\bvisa\b/.test(L)) return useUSDefaults ? p.needsSponsorship : undefined;
++  if (/authori[sz]ed|legally (able|eligible|permitted)|right to work|eligible to work|work authori/.test(L)) return useUSDefaults ? p.workAuthorizedUS : undefined;
+   if (/relocat/.test(L)) return p.willingToRelocate;
+   if (/^country( code)?$|\bcountry\b.*\b(reside|based|located|live)\b|\b(reside|based|located|live)\b.*\bcountry\b/.test(L)) return countryFrom(p);
+   if (/where (are |do )?you (currently )?(located|based|live)|where do you plan on working|currently located|(what|which) city|city and state/.test(L)) return p.location;
+@@ -318,7 +319,7 @@ export function suggest(field: FormField, ctx: MapContext): Suggestion | undefin
+   if (eeo && !/pronoun/.test(L)) {
+     const own = ctx.profile?.eeo?.[eeo[1]]?.split("|").map(v => fit(field, v.trim())).find(Boolean);
+     if (own) return { value: own, source: "profile" };
+-    const d = declineOption(field.options);
++    const d = process.env.OPENAPPLY_STRICT_PERSONAL === "1" ? undefined : declineOption(field.options);
+     return d ? { value: d, source: "default" } : undefined;
+   }
+ 
+@@ -340,7 +341,7 @@ export function suggest(field: FormField, ctx: MapContext): Suggestion | undefin
+     return undefined;
+   }
+   if (/\bpronoun/.test(L)) {
+-    const d = declineOption(field.options);
++    const d = process.env.OPENAPPLY_STRICT_PERSONAL === "1" ? undefined : declineOption(field.options);
+     if (d) return { value: d, source: "default" };
+   }
+   return undefined;
+diff --git a/src/paths.ts b/src/paths.ts
+index bcb829a..ad8bb90 100644
+--- a/src/paths.ts
++++ b/src/paths.ts
+@@ -9,7 +9,7 @@ export function home(): string {
+ }
+ 
+ export const paths = {
+-  get db() { return join(home(), "openapply.db"); },
++  get db() { return process.env.OPENAPPLY_DB || join(home(), "openapply.db"); },
+   get profile() { return join(home(), "profile.json"); },
+   /** Master resume, structured (see types.Resume). */
+   get resume() { return join(home(), "resume.json"); },

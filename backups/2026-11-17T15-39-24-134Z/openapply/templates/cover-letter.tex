@@ -1,0 +1,44 @@
+%-------------------------
+% Cover letter in LaTeX, filled by OpenApply (src/render/cover-tex.ts).
+% Same preamble, margins and name header as the sb2nov resume (https://github.com/sb2nov/resume, MIT)
+% so a resume built on that template and the letter are one set: Latin Modern 11pt, small-caps name,
+% dot-separated contact line. Slots in double angle brackets are replaced with escaped text.
+%------------------------
+\documentclass[letterpaper,11pt]{article}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-0.8in}
+\addtolength{\textheight}{1.9in}
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\ifdefined\pdfgentounicode\pdfgentounicode=1\fi % pdfTeX-only primitive; guarded for XeTeX/tectonic
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{8pt}
+\begin{document}
+\begin{center}
+    {\Huge\scshape <<NAME>>} \\ \vspace{1mm}
+    {<<CONTACT>>}
+\end{center}
+\vspace{10pt}
+<<DATE>>
+
+<<BODY>>
+\end{document}

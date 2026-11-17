@@ -1,0 +1,2062 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Amazon",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Google",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Apple",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Meta",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "NVIDIA",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Adobe",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Salesforce",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "IBM",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Oracle",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "SAP",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "ServiceNow",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Workday",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Atlassian",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Cisco",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Intel",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "AMD",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Qualcomm",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Broadcom",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Dell",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "HP",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "HPE",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Lenovo",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Samsung",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Sony",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Ericsson",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Nokia",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "VMware",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Red Hat",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Canonical",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "SUSE",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "GitLab",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "GitHub",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Docker",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "HashiCorp",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Cloudflare",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Akamai",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Fastly",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Datadog",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Dynatrace",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "New Relic",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Elastic",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Splunk",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "MongoDB",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Redis",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Confluent",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Snowflake",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Databricks",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Cockroach Labs",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "DigitalOcean",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Vercel",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Netlify",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Supabase",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Sentry",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Postman",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "JetBrains",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Automattic",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Mozilla",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Brave",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Opera",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Spotify",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Netflix",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Disney",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Comcast",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Roku",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Unity",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Epic Games",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Electronic Arts",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Ubisoft",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Roblox",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Valve",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Duolingo",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Coursera",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Udemy",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Chegg",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Pearson",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Grammarly",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Notion",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Airtable",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Miro",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Canva",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Figma",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Dropbox",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Box",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Zoom",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Twilio",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "RingCentral",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Slack",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Intercom",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Zendesk",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Freshworks",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "HubSpot",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Klaviyo",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Mailchimp",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Intuit",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Stripe",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "PayPal",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Block",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Adyen",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Checkout.com",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Wise",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Revolut",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Monzo",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "N26",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Trade Republic",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Scalable Capital",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Raisin",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "SumUp",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Mollie",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Klarna",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Plaid",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Brex",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Ramp",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Coinbase",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Robinhood",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Bloomberg",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "S&P Global",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "FactSet",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Nasdaq",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Visa",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Mastercard",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "American Express",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Capital One",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "JPMorgan Chase",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Goldman Sachs",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Morgan Stanley",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Deutsche Bank",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Commerzbank",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "ING",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Rabobank",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "ABN AMRO",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Allianz",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Munich Re",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "AXA",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Zurich Insurance",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Swiss Re",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "BMW Group",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Mercedes-Benz",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Volkswagen Group",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Audi",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Porsche",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Skoda Auto",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "SEAT",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "CUPRA",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Bosch",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Continental",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "ZF",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Schaeffler",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "MAHLE",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "FORVIA",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Valeo",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Aptiv",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Magna",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "BorgWarner",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Denso",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Toyota",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Honda",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Nissan",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Hyundai",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Kia",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Ford",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "General Motors",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Tesla",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Rivian",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Lucid Motors",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Polestar",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Volvo Cars",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Volvo Group",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Scania",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "MAN Truck & Bus",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Daimler Truck",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Stellantis",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Renault",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Michelin",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Bridgestone",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Goodyear",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Pirelli",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "CARIAD",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "dSPACE",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Vector Informatik",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Elektrobit",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "ETAS",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "AVL",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "FEV",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "IAV",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Bertrandt",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "EDAG",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "TTTech Auto",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Mobileye",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Waymo",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Zoox",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Aurora",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Motional",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Nuro",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Kodiak Robotics",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Applied Intuition",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Siemens",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Siemens Energy",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Schneider Electric",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "ABB",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Honeywell",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "GE Aerospace",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Eaton",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Rockwell Automation",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Emerson",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Texas Instruments",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Infineon",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "NXP",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "STMicroelectronics",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "ASML",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "ZEISS",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Trumpf",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "KUKA",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Festo",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Beckhoff",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Phoenix Contact",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "WAGO",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "SICK",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Endress+Hauser",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Pepperl+Fuchs",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "SAP Fioneer",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Celonis",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Personio",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Contentful",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "commercetools",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Shopware",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Spryker",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Zalando",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Delivery Hero",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "HelloFresh",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "AUTO1 Group",
+      "priority": 1,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "mobile.de",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "AutoScout24",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "SIXT",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Flix",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Omio",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "GetYourGuide",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "sennder",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Forto",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Transporeon",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "project44",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Uber",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Lyft",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Airbnb",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Booking.com",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Expedia Group",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Tripadvisor",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Skyscanner",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Trivago",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Bolt",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Wolt",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Just Eat Takeaway",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Doctolib",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Docplanner",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Ada Health",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Siemens Healthineers",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Philips",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "GE HealthCare",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Medtronic",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Stryker",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "B. Braun",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Fresenius",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Roche",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Bayer",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Boehringer Ingelheim",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Merck",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "DHL",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Deutsche Bahn",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Lufthansa Systems",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Lufthansa Industry Solutions",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "TUI",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Maersk",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Kuehne+Nagel",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "DB Schenker",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Dachser",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Hapag-Lloyd",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Shopify",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Hootsuite",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "1Password",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "OpenText",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "BlackBerry",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Thomson Reuters",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Wix",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Squarespace",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "GoDaddy",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "eBay",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Etsy",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Walmart",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Target",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Best Buy",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Wayfair",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Chewy",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Instacart",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "DoorDash",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Pinterest",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Reddit",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Snap",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "TikTok",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "ByteDance",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Indeed",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Glassdoor",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "StepStone",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "XING",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "New Work",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "TeamViewer",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "IONOS",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Hetzner",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "OVHcloud",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Scaleway",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "OVO Energy",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Octopus Energy",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Enpal",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "1KOMMA5",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "sonnen",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "tado",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "DeepL",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Aleph Alpha",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Helsing",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Parloa",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Cognigy",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "UiPath",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Automation Anywhere",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Pega",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Appian",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "OutSystems",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Mendix",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Thoughtworks",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "EPAM",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Endava",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Globant",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Accenture",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Capgemini",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Sopra Steria",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "CGI",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "T-Systems",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "NTT DATA",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Reply",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "adesso",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "msg systems",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Materna",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "GFT",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    },
+    {
+      "name": "Computacenter",
+      "priority": 3,
+      "status": "target",
+      "notes": "Target queue only; official portal and vacancy availability not yet researched."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "firstName": "Fixture",
+  "lastName": "Only",
+  "email": "test@example.test",
+  "targets": {
+    "titles": [
+      "Account Manager"
+    ],
+    "keywords": [],
+    "locations": [
+      "London, United Kingdom"
+    ]
+  }
+}

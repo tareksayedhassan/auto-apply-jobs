@@ -1,0 +1,6 @@
+{
+  "checkedAt": "2026-11-17T15:38:54.277Z",
+  "status": "blocked",
+  "error": "Playwright Extension not found in configured Chrome User Data directory; supported MCP navigation failed",
+  "extensionId": "mmlmfjhmonkocbjadbfplnigmagldckm"
+}

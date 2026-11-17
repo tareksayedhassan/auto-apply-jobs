@@ -1,24 +1,33 @@
 {
-  "name": "global-ai-job-hunter",
-  "version": "1.0.0",
-  "description": "Private international job research and application tracking for Tarek Elsayed",
+  "name": "openapply",
+  "version": "0.1.0",
+  "description": "Free, local, open-source job-search agent toolkit: search live roles, tailor resumes, fill and submit applications with your approval, track your pipeline. Works as an MCP server in Claude Code, Codex, Cursor and more.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Noel Turlington",
+  "homepage": "https://noelturlington.xyz/openapply/",
+  "repository": { "type": "git", "url": "https://github.com/nturl/openapply.git" },
+  "bugs": { "url": "https://github.com/nturl/openapply/issues" },
+  "keywords": ["mcp", "job-search", "claude-code", "ai-agent", "playwright"],
+  "bin": { "openapply": "dist/cli.js", "openapply-mcp": "dist/mcp.js" },
+  "files": ["dist", "data", "templates", "ui", "examples"],
+  "engines": { "node": ">=22.5" },
   "scripts": {
-    "build": "node scripts/build.cjs",
-    "test": "node --test tests/consolidation.test.mjs",
-    "test:upstream": "node scripts/upstream-tests.cjs",
-    "verify": "node scripts/verify-project.mjs",
-    "migrate": "node scripts/consolidate.mjs",
-    "mcp": "node scripts/openapply.cjs mcp",
-    "dashboard": "node scripts/openapply.cjs ui",
-    "report": "node scripts/agent.cjs report",
-    "matches": "node scripts/openapply.cjs matches",
-    "browser:test": "node scripts/browser.cjs",
-    "profile": "node scripts/consolidate.mjs"
+    "build": "tsc -p tsconfig.json && chmod +x dist/cli.js dist/mcp.js",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node --import tsx --test 'test/**/*.test.ts'",
+    "mcp": "tsx src/mcp.ts",
+    "cli": "tsx src/cli.ts"
   },
-  "keywords": [],
-  "author": "",
-  "license": "UNLICENSED",
-  "private": true,
-  "engines": {"node": "26.x"},
-  "type": "commonjs"
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "playwright": "^1.64.0",
+    "unpdf": "^1.8.1",
+    "zod": "^4.6.6"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.0"
+  }
 }

@@ -1,0 +1,179 @@
+{
+  "time": "2026-11-17T14:50:54.691Z",
+  "research_paused": true,
+  "tests": [
+    {
+      "url": "https://www.google.com",
+      "launch": true,
+      "dns": [
+        {
+          "address": "142.251.156.119",
+          "family": 4
+        },
+        {
+          "address": "142.251.157.119",
+          "family": 4
+        },
+        {
+          "address": "142.251.152.119",
+          "family": 4
+        },
+        {
+          "address": "142.251.150.119",
+          "family": 4
+        },
+        {
+          "address": "142.251.154.119",
+          "family": 4
+        },
+        {
+          "address": "142.251.151.119",
+          "family": 4
+        },
+        {
+          "address": "142.251.153.119",
+          "family": 4
+        },
+        {
+          "address": "142.251.155.119",
+          "family": 4
+        }
+      ],
+      "https": {
+        "error": "EACCES"
+      },
+      "navigation": false,
+      "final_url": "about:blank",
+      "title": "Loading https://www.google.com/",
+      "http_status": null,
+      "visible_content": false,
+      "network_errors": [
+        {
+          "url": "https://www.google.com/",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "console_errors": [],
+      "error": "page.goto: Timeout 10000ms exceeded.",
+      "extraction_error": "locator.innerText: Timeout 1500ms exceeded."
+    },
+    {
+      "url": "https://careers.microsoft.com/",
+      "launch": true,
+      "dns": [
+        {
+          "address": "150.171.109.161",
+          "family": 4
+        }
+      ],
+      "https": {
+        "error": "EACCES"
+      },
+      "navigation": false,
+      "final_url": "about:blank",
+      "title": "Loading https://careers.microsoft.com/",
+      "http_status": null,
+      "visible_content": false,
+      "network_errors": [
+        {
+          "url": "https://careers.microsoft.com/",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "console_errors": [],
+      "error": "page.goto: Timeout 10000ms exceeded.",
+      "extraction_error": "locator.innerText: Timeout 1500ms exceeded."
+    },
+    {
+      "url": "https://www.amazon.jobs/",
+      "launch": true,
+      "dns": [
+        {
+          "address": "3.253.179.158",
+          "family": 4
+        }
+      ],
+      "https": {
+        "error": "EACCES"
+      },
+      "navigation": false,
+      "final_url": "about:blank",
+      "title": "Loading https://www.amazon.jobs/",
+      "http_status": null,
+      "visible_content": false,
+      "network_errors": [
+        {
+          "url": "https://www.amazon.jobs/",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "console_errors": [],
+      "error": "page.goto: Timeout 10000ms exceeded.",
+      "extraction_error": "locator.innerText: Timeout 1500ms exceeded."
+    },
+    {
+      "url": "https://www.bmwgroup.jobs/",
+      "launch": true,
+      "dns": [
+        {
+          "address": "23.61.250.16",
+          "family": 4
+        },
+        {
+          "address": "23.61.250.11",
+          "family": 4
+        }
+      ],
+      "https": {
+        "error": "EACCES"
+      },
+      "navigation": false,
+      "final_url": "about:blank",
+      "title": "Loading https://www.bmwgroup.jobs/",
+      "http_status": null,
+      "visible_content": false,
+      "network_errors": [
+        {
+          "url": "https://www.bmwgroup.jobs/",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "console_errors": [],
+      "error": "page.goto: Timeout 10000ms exceeded.",
+      "extraction_error": "locator.innerText: Timeout 1500ms exceeded."
+    }
+  ],
+  "direct_chrome": {
+    "launched": true,
+    "exit_code": 2147483651,
+    "title": null,
+    "visible_content": false,
+    "stderr": "924:1117/165143.588:ERROR:content\\browser\\gpu\\gpu_process_host.cc:1042] GPU process exited unexpectedly: exit_code=-1073741790\r\n[9044:19660:1117/165143.601:ERROR:components\\viz\\host\\persistent_cache_sandboxed_file_factory.cc:153] Failed to open persistent cache files in directory \"C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\data\\chrome-direct-diagnostic\\GPUPersistentCache\\DawnGraphiteCache\\23IMHJGI2WIIJ3PDLCHAHUJAGHTLTEBB\", error: 0: The process cannot access the file because it is being used by another process. (0x20)\r\n[9044:19660:1117/165143.656:ERROR:components\\viz\\host\\persistent_cache_sandboxed_file_factory.cc:153] Failed to open persistent cache files in directory \"C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\data\\chrome-direct-diagnostic\\GPUPersistentCache\\DawnGraphiteCache\\23IMHJGI2WIIJ3PDLCHAHUJAGHTLTEBB\", error: 0: The process cannot access the file because it is being used by another process. (0x20)\r\n[9044:25924:1117/165143.657:ERROR:content\\browser\\gpu\\gpu_process_host.cc:1042] GPU process exited unexpectedly: exit_code=-1073741790\r\n[9044:25924:1117/165143.657:FATAL:content\\browser\\gpu\\gpu_data_manager_impl_private.cc:385] GPU process isn't usable. Goodbye.\r\n[9044:13860:1117/165144.094:ERROR:components\\viz\\host\\persistent_cache_sandboxed_file_factory.cc:153] Failed to open persistent cache files in directory \"C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\data\\chrome-direct-diagnostic\\GPUPersistentCache\\DawnGraphiteCache\\23IMHJGI2WIIJ3PDLCHAHUJAGHTLTEBB\", error: 0: The process cannot access the file because it is being used by another process. (0x20)\r\n[9044:13860:1117/165144.094:ERROR:components\\viz\\host\\persistent_cache_sandboxed_file_factory.cc:153] Failed to open persistent cache files in directory \"C:\\Users\\dell\\OneDrive\\Desktop\\LinkedIn-Profile\\data\\chrome-direct-diagnostic\\GPUPersistentCache\\DawnGraphiteCache\\23IMHJGI2WIIJ3PDLCHAHUJAGHTLTEBB\", error: 0: The process cannot access the file because it is being used by another process. (0x20)\r\n"
+  },
+  "firewall": "netsh reports all profiles enabled with BlockInbound,AllowOutbound. Specific rule inspection through Get-NetFirewallProfile denied. No firewall settings changed.",
+  "proxy": "WinHTTP direct; WinINET ProxyEnable=0, ProxyServer=null, AutoConfigURL=null; no proxy environment variables found.",
+  "extension": {
+    "installed": "Playwright CRX 0.15.0",
+    "installed_id": "jambeljnbnfbkcpnoiaedcabbgmnnlcd",
+    "mcp_required_id": "mmlmfjhmonkocbjadbfplnigmagldckm",
+    "mcp_result": "Extension not found; different extension products"
+  },
+  "personal_profile_modified": false,
+  "chrome_launch": true,
+  "version": "157.0.8103.79",
+  "launch_arguments_error": "cdpSession.send: Protocol error (Browser.getBrowserCommandLine): Command line not returned because --enable-automation not set.",
+  "normal_desktop_comparison": {
+    "source": "User confirmed during diagnostics",
+    "google": "Loads normally in personal Profile 4",
+    "microsoft": "Loads normally in personal Profile 4"
+  },
+  "launch_settings": {
+    "executable": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "headless": true,
+    "custom_arguments": [],
+    "navigation_wait": "commit",
+    "navigation_timeout_ms": 10000,
+    "dom_wait_timeout_ms": 5000,
+    "notes": "No proxy overrides, certificate bypass, or browser security bypass added. Actual full arguments unavailable through CDP: enable-automation not set."
+  }
+}

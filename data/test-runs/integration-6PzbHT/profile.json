@@ -1,0 +1,18 @@
+{
+  "firstName": "Fixture",
+  "lastName": "Only",
+  "email": "test@example.test",
+  "targets": {
+    "titles": [
+      "Software Engineer"
+    ],
+    "keywords": [
+      "TypeScript",
+      "Node.js"
+    ],
+    "locations": [
+      "Germany",
+      "USA"
+    ]
+  }
+}

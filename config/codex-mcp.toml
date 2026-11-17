@@ -1,0 +1,4 @@
+[mcp_servers.openapply]
+command = 'C:\Program Files\nodejs\node.exe'
+args = ['C:\Users\dell\OneDrive\Desktop\LinkedIn-Profile\scripts\openapply.cjs', 'mcp']
+startup_timeout_sec = 30

@@ -1,0 +1,13 @@
+node_modules/
+.env*
+.eve/
+data/
+applications/
+reports/
+*.pdf
+*.xlsx
+*.csv
+dashboard.html
+final_report.md
+pending_actions.md
+candidate_answers.json

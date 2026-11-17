@@ -1,0 +1,57 @@
+{
+  "source": "Latest explicit user confirmation, 2026-11-17",
+  "usa_work_authorized": false,
+  "usa_requires_sponsorship": true,
+  "germany_work_authorized": false,
+  "germany_requires_work_visa_or_residence_permit": true,
+  "requires_sponsorship_or_immigration_support_where_applicable": true,
+  "willing_to_relocate_internationally": true,
+  "country_priorities": [
+    "USA",
+    "Germany",
+    "Netherlands",
+    "Canada",
+    "Ireland",
+    "UK",
+    "Switzerland",
+    "Sweden",
+    "Denmark",
+    "Australia",
+    "UAE",
+    "Other"
+  ],
+  "english": {
+    "level": "Intermediate",
+    "approximate_cefr": "B1-B2",
+    "formally_certified": false,
+    "fluent": false
+  },
+  "german": {
+    "level": null,
+    "status": "Not yet confirmed; do not assume proficiency"
+  },
+  "earliest_start": "30 days after accepting a job offer, subject to visa processing and relocation requirements",
+  "instructions": [
+    "Do not ask these questions again",
+    "Prioritize English-speaking technical roles and sponsorship/relocation",
+    "Do not reject solely for good English requirements",
+    "Never claim English or German fluency",
+    "Continue research when individual applications are blocked"
+  ],
+  "education": {
+    "university": "Alexandria University, Egypt",
+    "degree": "Bachelor's Degree in Management Information Systems (MIS)",
+    "graduation_year": 2024,
+    "graduation_month": null
+  },
+  "current_country": "Egypt",
+  "holds_foreign_work_or_residence_permits": false,
+  "foreign_work_authorization": false,
+  "eu_work_or_residence_permit": false,
+  "immigration_policy": "USA requires employer sponsorship. Germany and other countries require appropriate employment visa/residence permit; willing to complete process independently where legally possible, with employer support where available.",
+  "salary_expectations": {
+    "fixed_requirement": null,
+    "policy": "Research current role/city market, verified experience, company published range, taxes, living costs, total compensation, relocation and visa support. Prioritize competitive pay and career growth; avoid financially impractical offers.",
+    "mandatory_numeric_field": "Prepare a researched recommendation and obtain candidate confirmation before submitting. Do not invent an exact expectation."
+  }
+}

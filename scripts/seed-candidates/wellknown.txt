@@ -1,0 +1,541 @@
+# Well-known companies (names only; the prober decides which ATS, if any, hosts each).
+OpenAI
+Anthropic
+xAI
+Mistral AI
+Cohere
+Perplexity
+Scale AI
+Databricks
+Snowflake
+Stripe
+Plaid
+Brex
+Ramp
+Mercury
+Rippling
+Gusto
+Deel
+Remote
+Oyster
+Airbnb
+DoorDash
+Instacart
+Uber
+Lyft
+Pinterest
+Reddit
+Discord
+Snap
+Dropbox
+Box
+Slack
+Zoom
+Twilio
+Okta
+Cloudflare
+Fastly
+Datadog
+New Relic
+Splunk
+Elastic
+MongoDB
+Confluent
+HashiCorp
+GitLab
+GitHub
+Atlassian
+Asana
+Notion
+Airtable
+Figma
+Canva
+Miro
+Webflow
+Squarespace
+Wix
+Shopify
+BigCommerce
+Etsy
+Faire
+Flexport
+Samsara
+Rivian
+Lucid Motors
+Tesla
+SpaceX
+Anduril
+Palantir
+Shield AI
+Saronic
+Epirus
+Hadrian
+Relativity Space
+Rocket Lab
+Planet Labs
+Spire
+Coinbase
+Kraken
+Gemini
+Ripple
+Chainalysis
+Fireblocks
+Consensys
+Alchemy
+Uniswap Labs
+Paxos
+Circle
+Anchorage Digital
+BitGo
+Chainlink Labs
+Polygon Labs
+Solana Labs
+Phantom
+OpenSea
+Dapper Labs
+Ledger
+Robinhood
+Affirm
+Klarna
+Chime
+SoFi
+Upstart
+Marqeta
+Toast
+Square
+Block
+PayPal
+Adyen
+Checkout.com
+Wise
+Revolut
+Monzo
+N26
+Nubank
+Carta
+Pilot
+Bill.com
+Navan
+TripActions
+Expensify
+Zip
+Vanta
+Drata
+Secureframe
+Snyk
+CrowdStrike
+SentinelOne
+Wiz
+Lacework
+Abnormal Security
+Tanium
+1Password
+Bitwarden
+Auth0
+Clerk
+WorkOS
+Stytch
+Supabase
+Neon
+PlanetScale
+Vercel
+Netlify
+Render
+Fly.io
+Railway
+Heroku
+DigitalOcean
+Linode
+Hugging Face
+Weights & Biases
+Anyscale
+Modal
+Replicate
+Together AI
+Fireworks AI
+Baseten
+Groq
+Cerebras
+SambaNova
+Lambda
+CoreWeave
+Crusoe
+Runway
+Midjourney
+Stability AI
+ElevenLabs
+Synthesia
+Descript
+Jasper
+Writer
+Glean
+Harvey
+Hebbia
+Sierra
+Decagon
+Cresta
+Ada
+Intercom
+Zendesk
+Freshworks
+HubSpot
+Salesforce
+Outreach
+Salesloft
+Gong
+Clari
+Apollo
+ZoomInfo
+Clay
+Amplitude
+Mixpanel
+Heap
+Segment
+Fivetran
+dbt Labs
+Airbyte
+Census
+Hightouch
+Monte Carlo
+Hex
+Mode
+Looker
+Tableau
+Sigma Computing
+ThoughtSpot
+Retool
+Linear
+Height
+Superhuman
+Loom
+Calendly
+Typeform
+Lattice
+Culture Amp
+Greenhouse
+Lever
+Ashby
+Gem
+Oyster HR
+Duolingo
+Coursera
+Udemy
+Khan Academy
+Quizlet
+Chegg
+Coinbase
+Spotify
+SoundCloud
+Netflix
+Roblox
+Unity
+Epic Games
+Riot Games
+Discord
+Twitch
+Niantic
+Zynga
+Peloton
+Oura
+Whoop
+Strava
+Noom
+Headspace
+Calm
+Hims & Hers
+Ro
+Oscar Health
+Devoted Health
+Clover Health
+Flatiron Health
+Tempus
+23andMe
+Ginkgo Bioworks
+Recursion
+Benchling
+Zocdoc
+Doximity
+Teladoc
+Hinge Health
+Spring Health
+Lyra Health
+Cerebral
+Color
+Grail
+Illumina
+Moderna
+Waymo
+Cruise
+Aurora
+Nuro
+Zoox
+Wayve
+Applied Intuition
+Skydio
+Zipline
+Joby Aviation
+Archer
+Wing
+Boston Dynamics
+Figure AI
+Agility Robotics
+Physical Intelligence
+Covariant
+Formlabs
+Carbon
+Desktop Metal
+Opendoor
+Zillow
+Redfin
+Compass
+Offerpad
+Airtable
+Lemonade
+Root Insurance
+Hippo
+Policygenius
+Coalition
+At-Bay
+Vimeo
+Medium
+Substack
+Patreon
+Ghost
+Twitter
+Meta
+Google
+Microsoft
+Amazon
+Apple
+Nvidia
+Intel
+AMD
+Qualcomm
+Cisco
+Oracle
+IBM
+SAP
+Adobe
+Autodesk
+Intuit
+VMware
+Red Hat
+Docker
+Postman
+JFrog
+PagerDuty
+Sentry
+LaunchDarkly
+Split
+Optimizely
+Statsig
+PostHog
+Grafana Labs
+Honeycomb
+Chronosphere
+Cribl
+Sumo Logic
+Mattermost
+Temporal
+Pulumi
+Hashicorp
+Sourcegraph
+Replit
+Cursor
+Anysphere
+Cognition
+Codeium
+Windsurf
+Tabnine
+Poolside
+Magic
+Adept
+Character AI
+Inflection
+Reka
+Essential AI
+Imbue
+Sakana AI
+Liquid AI
+Contextual AI
+Pinecone
+Weaviate
+Chroma
+Qdrant
+LangChain
+LlamaIndex
+Arize
+Galileo
+Braintrust
+Humanloop
+Scale
+Surge AI
+Labelbox
+Snorkel AI
+Turing
+Invisible Technologies
+Mercor
+Handshake
+Indeed
+Glassdoor
+ZipRecruiter
+Wellfound
+Triplebyte
+Hired
+Upwork
+Fiverr
+Toptal
+Andela
+Gitlab
+Mozilla
+Wikimedia Foundation
+Signal
+Proton
+Brave
+DuckDuckGo
+Kagi
+Arc
+The Browser Company
+Notion Labs
+Coda
+Almanac
+Slite
+Tailscale
+Cloudsmith
+Ngrok
+Teleport
+StrongDM
+Chainguard
+Sysdig
+Aqua Security
+Orca Security
+Island
+Cato Networks
+Zscaler
+Netskope
+Palo Alto Networks
+Fortinet
+Check Point
+Rapid7
+Tenable
+Qualys
+Varonis
+CyberArk
+SailPoint
+Ping Identity
+Duo
+Cloudera
+Talend
+Informatica
+Alteryx
+Domo
+Qlik
+Sisense
+Palantir Technologies
+Bloomberg
+Two Sigma
+Jane Street
+Citadel
+Hudson River Trading
+DRW
+Optiver
+IMC Trading
+Jump Trading
+Virtu
+Flow Traders
+Point72
+Bridgewater
+Millennium
+Squarespace
+GoDaddy
+Namecheap
+Cloudinary
+Imgix
+Contentful
+Sanity
+Strapi
+Storyblok
+Prismic
+Algolia
+Typesense
+Elastic
+Yext
+Bynder
+Mux
+Cloudflare Stream
+Livepeer
+Twilio Segment
+Sendgrid
+Mailchimp
+Klaviyo
+Braze
+Iterable
+Customer.io
+OneSignal
+Attentive
+Postscript
+Gorgias
+Recharge
+Bolt
+Fast
+Shopify Plus
+Affirm Holdings
+Sezzle
+Afterpay
+Marqeta Inc
+Lithic
+Unit
+Treasury Prime
+Synctera
+Column
+Increase
+Modern Treasury
+Moov
+Dwolla
+Finix
+Rapyd
+Payoneer
+Remitly
+Wise Payments
+Flywire
+Paymentus
+Bill
+Melio
+Tipalti
+Airwallex
+Stripe Atlas
+Pipe
+Capchase
+Clearco
+Arc Technologies
+Mercury Bank
+Relay
+Novo
+Found
+Oxygen
+Dave
+MoneyLion
+Varo
+Current
+Stash
+Acorns
+Betterment
+Wealthfront
+Public.com
+Webull
+eToro
+Titan
+Addepar
+Envestnet
+Orion
+Carta Inc
+AngelList
+Pulley
+Capshare
+Gust
+Republic
+Wefunder
+Kickstarter
+Indiegogo
+GoFundMe
+Patreon Inc

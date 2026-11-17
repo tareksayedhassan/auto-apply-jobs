@@ -1,0 +1,204 @@
+{
+  "companies": [
+    {
+      "name": "Siemens",
+      "career_url": "https://www.siemens.com/global/en/company/jobs.html",
+      "source_url": "https://www.siemens.com/global/en/company/jobs.html",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official career lookup attempted; web fetch failed or content was not readable. No protections bypassed."
+    },
+    {
+      "name": "Siemens Energy",
+      "career_url": "https://www.siemens-energy.com/global/en/home/careers.html",
+      "source_url": "https://www.siemens-energy.com/global/en/home/careers.html",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official career lookup attempted; web fetch failed or content was not readable. No protections bypassed."
+    },
+    {
+      "name": "Schneider Electric",
+      "career_url": "https://www.se.com/ww/en/about-us/careers/overview.jsp",
+      "source_url": "https://www.se.com/ww/en/about-us/careers/overview.jsp",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "ABB",
+      "career_url": "https://careers.abb/global/en",
+      "source_url": "https://careers.abb/global/en",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "Honeywell",
+      "career_url": "https://careers.honeywell.com/",
+      "source_url": "https://careers.honeywell.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "GE Aerospace",
+      "career_url": "https://careers.geaerospace.com/",
+      "source_url": "https://careers.geaerospace.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "Eaton",
+      "career_url": "https://www.eaton.com/us/en-us/company/careers.html",
+      "source_url": "https://www.eaton.com/us/en-us/company/careers.html",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "Rockwell Automation",
+      "career_url": "https://www.rockwellautomation.com/en-us/company/careers.html",
+      "source_url": "https://www.rockwellautomation.com/en-us/company/careers.html",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "Emerson",
+      "career_url": "https://www.emerson.com/en-us/careers",
+      "source_url": "https://www.emerson.com/en-us/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "Texas Instruments",
+      "career_url": "https://careers.ti.com/",
+      "source_url": "https://careers.ti.com/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "Infineon",
+      "career_url": "https://www.infineon.com/careers",
+      "source_url": "https://www.infineon.com/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "NXP",
+      "career_url": "https://www.nxp.com/company/about-nxp/careers:CAREERS",
+      "source_url": "https://www.nxp.com/company/about-nxp/careers:CAREERS",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "STMicroelectronics",
+      "career_url": "https://www.st.com/content/st_com/en/about/careers.html",
+      "source_url": "https://www.st.com/content/st_com/en/about/careers.html",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "ASML",
+      "career_url": "https://www.asml.com/en/careers",
+      "source_url": "https://www.asml.com/en/careers",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "ZEISS",
+      "career_url": "https://www.zeiss.com/corporate/en/careers.html",
+      "source_url": "https://www.zeiss.com/corporate/en/careers.html",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official career lookup attempted; web fetch failed or content was not readable. No protections bypassed."
+    },
+    {
+      "name": "Trumpf",
+      "career_url": "https://www.trumpf.com/en_INT/career/",
+      "source_url": "https://www.trumpf.com/en_INT/career/",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official career lookup attempted; web fetch failed or content was not readable. No protections bypassed."
+    },
+    {
+      "name": "KUKA",
+      "career_url": "https://www.kuka.com/en-de/careers",
+      "source_url": "https://www.kuka.com/en-de/careers",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official career lookup attempted; web fetch failed or content was not readable. No protections bypassed."
+    },
+    {
+      "name": "Festo",
+      "career_url": "https://www.festo.com/group/en/cms/10054.htm",
+      "source_url": "https://www.festo.com/group/en/cms/10054.htm",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official career lookup attempted; web fetch failed or content was not readable. No protections bypassed."
+    },
+    {
+      "name": "Beckhoff",
+      "career_url": "https://www.beckhoff.com/en-en/company/job-opportunities/",
+      "source_url": "https://www.beckhoff.com/en-en/company/job-opportunities/",
+      "priority": 2,
+      "status": "researched",
+      "official_verified": true,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official careers landing page inspected; Node/TypeScript and business platform roles need targeted search."
+    },
+    {
+      "name": "Phoenix Contact",
+      "career_url": "https://www.phoenixcontact.com/en-pc/career",
+      "source_url": "https://www.phoenixcontact.com/en-pc/career",
+      "priority": 2,
+      "status": "blocked",
+      "official_verified": false,
+      "checked_at": "2026-11-17T14:36:08.246Z",
+      "notes": "Official career lookup attempted; web fetch failed or content was not readable. No protections bypassed."
+    }
+  ]
+}
